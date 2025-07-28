@@ -1,87 +1,571 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Catálogo Mayorista</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 1rem;
-    }
-    .contenedor {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 1.2rem;
-    }
-    .producto {
-      background-color: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      padding: 1rem;
-      position: relative;
-    }
-    .producto img {
-      max-width: 100%;
-      border-radius: 8px;
-      height: 160px;
-      object-fit: cover;
-    }
-    .etiqueta-estado {
-      position: absolute;
-      top: 8px;
-      right: 8px;
-      padding: 4px 8px;
-      border-radius: 8px;
-      color: #fff;
-      font-size: 0.8rem;
-    }
-    .disponible {
-      background-color: #28a745;
-    }
-    .pocas {
-      background-color: #ffc107;
-      color: #000;
-    }
-    .sin-stock {
-      background-color: #dc3545;
-    }
-  </style>
+    <meta charset="UTF-8" />
+    <title>CarpiStoree - Catálogo Mayorista</title>
+    <style>
+        /* Reset y base */
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1e1e2f;
+            color: #ddd;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        a {
+            color: #4caf50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Encabezado */
+        header {
+            background: #4caf50;
+            padding: 20px;
+            color: white;
+            text-align: center;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+            font-weight: 700;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+
+        /* Leyenda animada */
+        header.leyenda {
+            background-color: #FFFFFF;
+            width: 89%;
+            margin: 0 auto 20px;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            padding: 10px;
+        }
+        header.leyenda div {
+            white-space: nowrap;
+            animation: marquee 30s linear infinite;
+        }
+        header.leyenda h1 {
+            font-size: 18px;
+            font-style: italic;
+            margin: 0;
+            text-align: center;
+            display: inline-block;
+            color: #4CAF50;
+        }
+        @keyframes marquee {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+
+        /* Contenedor principal */
+        main {
+            flex: 1;
+            max-width: 1100px;
+            margin: 0 auto 30px;
+            padding: 0 15px;
+            width: 100%;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Buscador */
+        .buscador {
+            margin-bottom: 25px;
+            display: flex;
+            justify-content: center;
+        }
+        .buscador input[type="text"] {
+            width: 100%;
+            max-width: 400px;
+            padding: 12px 20px;
+            border-radius: 30px;
+            border: none;
+            font-size: 16px;
+            outline: none;
+            box-shadow: 0 0 8px #4caf50aa;
+            background: #333;
+            color: #eee;
+            transition: box-shadow 0.3s ease;
+        }
+        .buscador input[type="text"]:focus {
+            box-shadow: 0 0 15px #4caf50ee;
+        }
+
+        /* Grid productos */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 25px;
+        }
+        .producto {
+            background: #2c2c44;
+            border-radius: 12px;
+            padding: 15px;
+            box-shadow: 0 5px 10px rgba(0,0,0,0.7);
+            color: #ddd;
+            position: relative;
+            transition: transform 0.3s ease;
+            cursor: pointer;
+            user-select: none;
+        }
+        .producto:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 10px 20px rgba(76, 175, 80, 0.8);
+        }
+        .producto img {
+            width: 100%;
+            height: 140px;
+            object-fit: contain;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            background: #444;
+        }
+        .producto h2 {
+            font-size: 18px;
+            margin: 0 0 10px;
+            color: #c8facc;
+            min-height: 50px;
+        }
+        .producto p {
+            margin: 6px 0;
+            font-size: 14px;
+            color: #bbb;
+        }
+
+        /* Etiqueta estado */
+        .etiqueta-estado {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            background-color: var(--color);
+            color: #222;
+            padding: 5px 12px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 13px;
+            box-shadow: 0 0 10px var(--color);
+            user-select: none;
+            filter: brightness(0.95);
+        }
+
+        /* Paginación */
+        .paginacion {
+            margin: 35px 0;
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .paginacion button {
+            background: #4caf50;
+            border: none;
+            padding: 10px 16px;
+            color: #1e1e2f;
+            font-weight: 700;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .paginacion button:hover:not(.activo) {
+            background-color: #69db7c;
+        }
+        .paginacion button.activo {
+            background-color: #fff;
+            color: #4caf50;
+            cursor: default;
+            box-shadow: 0 0 10px #69db7c;
+        }
+
+        /* Pie de página */
+        footer {
+            background: #12121e;
+            color: #999;
+            text-align: center;
+            padding: 15px 10px;
+            font-size: 14px;
+            box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+        }
+        footer a {
+            color: #4caf50;
+        }
+
+        /* Carrito flotante */
+        #boton-carrito {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #4caf50;
+            color: #1e1e2f;
+            border: none;
+            border-radius: 50%;
+            width: 56px;
+            height: 56px;
+            font-size: 28px;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+        }
+        #carrito {
+            position: fixed;
+            top: 60px;
+            right: 20px;
+            width: 320px;
+            max-height: 80vh;
+            background: #2c2c44;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.7);
+            padding: 15px;
+            color: #ddd;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+            flex-direction: column;
+        }
+        #carrito h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            text-align: center;
+            color: #4caf50;
+        }
+        #carrito .item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        #carrito .item span {
+            flex: 1;
+        }
+        #carrito .item button {
+            background: transparent;
+            border: none;
+            color: #f44336;
+            cursor: pointer;
+            font-size: 16px;
+            padding: 0 5px;
+            user-select: none;
+        }
+        #carrito .item input {
+            width: 40px;
+            margin: 0 5px;
+            text-align: center;
+            border-radius: 5px;
+            border: none;
+            font-size: 14px;
+        }
+        #carrito .total {
+            font-weight: 700;
+            font-size: 16px;
+            margin-top: 12px;
+            text-align: right;
+            color: #fff;
+        }
+        #carrito button#enviar-pedido {
+            background-color: #4caf50;
+            border: none;
+            padding: 10px;
+            margin-top: 15px;
+            border-radius: 10px;
+            color: #1e1e2f;
+            font-weight: 700;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        #carrito button#enviar-pedido:hover {
+            background-color: #69db7c;
+        }
+
+        /* Producto seleccionado con borde */
+        .producto.seleccionado {
+            border: 3px solid #69db7c;
+        }
+
+        /* Formulario datos usuario */
+        #datos-usuario {
+            margin-top: 15px;
+            border-top: 1px solid #4caf50aa;
+            padding-top: 12px;
+            font-size: 14px;
+            color: #ccc;
+        }
+        #datos-usuario label {
+            display: block;
+            margin-bottom: 6px;
+        }
+        #datos-usuario input {
+            width: 100%;
+            padding: 6px 8px;
+            border-radius: 6px;
+            border: none;
+            font-size: 14px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+    </style>
 </head>
 <body>
-  <h1>Catálogo Mayorista</h1>
-  <div class="contenedor" id="productos"></div>
+    <header>
+        Catalogo Mayorista - CarpiStoree - Electrónica y más
+    </header>
 
-  <script src="productos.js"></script>
-  <script>
-    function mostrarProductos() {
-      const contenedor = document.getElementById("productos");
+    <header class="leyenda">
+        <div>
+            <h1 id="marquee-text">
+                🛒 &nbsp; COMPRA MINIMA: 5 artículos iguales o $100.000 en varios artículos diferentes &nbsp; 🛍️ &nbsp; - &nbsp; 🚚 &nbsp; ENVÍOS A TODO EL PAÍS &nbsp; 📦
+            </h1>
+        </div>
+    </header>
 
-      productos.forEach(p => {
-        const div = document.createElement("div");
-        div.className = "producto";
+    <main>
+        <div class="buscador">
+            <input type="text" id="buscador" placeholder="Buscar productos por nombre o código..." />
+        </div>
 
-        // Etiqueta visual del estado
-        let claseEstado = "";
-        if (p.estado === "Disponible") claseEstado = "disponible";
-        else if (p.estado === "Pocas Unidades") claseEstado = "pocas";
-        else if (p.estado === "Sin Stock") claseEstado = "sin-stock";
+        <div class="grid" id="productos"></div>
 
-        div.innerHTML = `
-          <div class="etiqueta-estado ${claseEstado}">${p.estado}</div>
-          <img src="${p.imagen}" alt="${p.nombre}" />
-          <h2>${p.nombre}</h2>
-          <p><strong>Código:</strong> ${p.codigo}</p>
-          <p><strong>Precio ARS:</strong> ${p.precio_ars}</p>
-        `;
+        <div class="paginacion" id="paginacion"></div>
+    </main>
 
-        contenedor.appendChild(div);
-      });
-    }
+    <footer>
+        &copy; 2025 CarpiStoree. Contacto: <a href="mailto:contacto@micatalogo.com">contacto@micatalogo.com</a>
+    </footer>
 
-    mostrarProductos();
-  </script>
+    <!-- Botón carrito -->
+    <button id="boton-carrito" title="Abrir carrito">🛒</button>
+
+    <!-- Carrito -->
+    <div id="carrito">
+        <h3>Carrito de Compras</h3>
+        <div id="items-carrito"></div>
+        <div class="total">Total: $<span id="total-carrito">0</span></div>
+
+        <div id="datos-usuario">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" placeholder="Tu nombre" />
+
+            <label for="apellido">Apellido:</label>
+            <input type="text" id="apellido" placeholder="Tu apellido" />
+
+            <label for="dni">DNI:</label>
+            <input type="text" id="dni" placeholder="Tu DNI" />
+        </div>
+
+        <button id="enviar-pedido">Enviar pedido por WhatsApp</button>
+    </div>
+
+    <script src="productos.js"></script>
+    <script>
+        const productosPorPagina = 30;
+        let productosFiltrados = [...productos];
+        let paginaActual = 1;
+
+        const grid = document.getElementById('productos');
+        const paginacion = document.getElementById('paginacion');
+        const buscador = document.getElementById('buscador');
+
+        // Carrito y botón
+        const botonCarrito = document.getElementById('boton-carrito');
+        const carrito = document.getElementById('carrito');
+        const itemsCarrito = document.getElementById('items-carrito');
+        const totalCarrito = document.getElementById('total-carrito');
+        const enviarPedidoBtn = document.getElementById('enviar-pedido');
+
+        // Inputs datos usuario
+        const inputNombre = document.getElementById('nombre');
+        const inputApellido = document.getElementById('apellido');
+        const inputDNI = document.getElementById('dni');
+
+        // Carrito: estructura { codigo: { producto, cantidad } }
+        const carritoCompras = {};
+
+        // Mostrar productos con selección por clic
+        function mostrarProductos(pagina = 1) {
+            grid.innerHTML = '';
+
+            const inicio = (pagina -1) * productosPorPagina;
+            const fin = inicio + productosPorPagina;
+            const productosAMostrar = productosFiltrados.slice(inicio, fin);
+
+            productosAMostrar.forEach(p => {
+                const div = document.createElement('div');
+                div.className = 'producto';
+                div.style.setProperty('--color', p.color);
+
+                div.innerHTML = `
+                    <div class="etiqueta-estado">${p.etiqueta}</div>
+                    <img src="${p.imagen}" alt="${p.nombre}" />
+                    <h2>${p.nombre}</h2>
+                    <p><strong>Código:</strong> ${p.codigo}</p>
+                    <p><strong>Precio ARS:</strong> $${(parseFloat(p.precio_ars.replace('$', '').replace(',', '.')) * 1000).toLocaleString('es-AR')}</p>
+
+
+
+                `;
+
+                div.addEventListener('click', () => {
+                    if(carritoCompras[p.codigo]){
+                        delete carritoCompras[p.codigo];
+                        div.classList.remove('seleccionado');
+                    } else {
+                        carritoCompras[p.codigo] = { producto: p, cantidad: 1 };
+                        div.classList.add('seleccionado');
+                    }
+                    actualizarCarrito();
+                });
+
+                if(carritoCompras[p.codigo]){
+                    div.classList.add('seleccionado');
+                }
+
+                grid.appendChild(div);
+            });
+
+            paginaActual = pagina;
+            actualizarPaginacion();
+        }
+
+        // Actualizar paginación
+        function actualizarPaginacion() {
+            paginacion.innerHTML = '';
+
+            const totalPaginas = Math.ceil(productosFiltrados.length / productosPorPagina);
+
+            const btnAnterior = document.createElement('button');
+            btnAnterior.textContent = 'Anterior';
+            btnAnterior.disabled = paginaActual === 1;
+            btnAnterior.onclick = () => mostrarProductos(paginaActual -1);
+            paginacion.appendChild(btnAnterior);
+
+            for(let i=1; i<=totalPaginas; i++){
+                const btn = document.createElement('button');
+                btn.textContent = i;
+                if(i === paginaActual){
+                    btn.classList.add('activo');
+                    btn.disabled = true;
+                }
+                btn.onclick = () => mostrarProductos(i);
+                paginacion.appendChild(btn);
+            }
+
+            const btnSiguiente = document.createElement('button');
+            btnSiguiente.textContent = 'Siguiente';
+            btnSiguiente.disabled = paginaActual === totalPaginas;
+            btnSiguiente.onclick = () => mostrarProductos(paginaActual + 1);
+            paginacion.appendChild(btnSiguiente);
+        }
+
+        // Filtrado productos
+        buscador.addEventListener('input', () => {
+            const termino = buscador.value.trim().toLowerCase();
+
+            productosFiltrados = productos.filter(p => 
+                p.nombre.toLowerCase().includes(termino) ||
+                p.codigo.toLowerCase().includes(termino)
+            );
+
+            mostrarProductos(1);
+        });
+
+        // Actualizar carrito y mostrar
+        function actualizarCarrito() {
+            itemsCarrito.innerHTML = '';
+
+            let total = 0;
+            Object.values(carritoCompras).forEach(({producto, cantidad}) => {
+                const div = document.createElement('div');
+                div.className = 'item';
+
+                const subtotal = producto.precio_ars * cantidad;
+                total += subtotal;
+
+                div.innerHTML = `
+                    <span>${producto.nombre} (x)</span>
+                    <input type="number" min="1" value="${cantidad}" />
+                    <span>$${subtotal.toLocaleString('es-AR', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</span>
+                    <button title="Eliminar">✕</button>
+                `;
+
+                // Cambiar cantidad
+                div.querySelector('input').addEventListener('change', e => {
+                    let val = parseInt(e.target.value);
+                    if(isNaN(val) || val < 1) val = 1;
+                    carritoCompras[producto.codigo].cantidad = val;
+                    actualizarCarrito();
+                });
+
+                // Botón eliminar
+                div.querySelector('button').addEventListener('click', () => {
+                    delete carritoCompras[producto.codigo];
+                    // Quitar clase seleccionado del producto en grid
+                    const prodDivs = Array.from(grid.children);
+                    prodDivs.forEach(el => {
+                        if(el.querySelector('p strong') && el.querySelector('p strong').textContent === 'Código:'){
+                            if(el.querySelector('p').textContent.includes(producto.codigo)){
+                                el.classList.remove('seleccionado');
+                            }
+                        }
+                    });
+                    actualizarCarrito();
+                });
+
+                itemsCarrito.appendChild(div);
+            });
+
+            totalCarrito.textContent = total.toFixed(2);
+        }
+
+        // Mostrar/Ocultar carrito
+        botonCarrito.addEventListener('click', () => {
+            if(carrito.style.display === 'flex'){
+                carrito.style.display = 'none';
+            } else {
+                carrito.style.display = 'flex';
+            }
+        });
+
+        // Enviar pedido por WhatsApp
+        enviarPedidoBtn.addEventListener('click', () => {
+            if(Object.keys(carritoCompras).length === 0){
+                alert("El carrito está vacío");
+                return;
+            }
+            if(!inputNombre.value.trim() || !inputApellido.value.trim() || !inputDNI.value.trim()){
+                alert("Por favor completa todos los datos personales");
+                return;
+            }
+
+            let mensaje = `Hola, quiero hacer el siguiente pedido:%0A`;
+            mensaje += `Nombre: ${inputNombre.value.trim()} ${inputApellido.value.trim()}%0A`;
+            mensaje += `DNI: ${inputDNI.value.trim()}%0A`;
+            mensaje += `Productos:%0A`;
+
+            Object.values(carritoCompras).forEach(({producto, cantidad}) => {
+                mensaje += `- ${producto.nombre} (Código: ${producto.codigo}) x${cantidad} - $${(producto.precio_ars * cantidad).toFixed(2)}%0A`;
+            });
+
+            mensaje += `Total: $${totalCarrito.textContent}`;
+
+            const url = `https://wa.me/5491123456789?text=${mensaje}`;  // Cambiar al número correcto
+
+            window.open(url, '_blank');
+        });
+
+        // Inicio
+        mostrarProductos();
+
+    </script>
 </body>
 </html>
