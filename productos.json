@@ -43,7 +43,7 @@
         "codigo": "11013",
         "nombre": "PULSERA LABUBU",
         "imagen_url": "https://home-point.com.ar/no-disponible.png",
-        "estado": "Pocas Unidades",
+        "estado": "Sin Stock",
         "precio_usd": "3.30",
         "precio_ars": "4,340"
     },
@@ -91,7 +91,7 @@
         "codigo": "11007",
         "nombre": "AVION FIGHTER PLANE",
         "imagen_url": "https://homepoint.site/img/11007.jpg",
-        "estado": "Pocas Unidades",
+        "estado": "Sin Stock",
         "precio_usd": "21.80",
         "precio_ars": "28,667"
     },
@@ -523,7 +523,7 @@
         "codigo": "10952",
         "nombre": "VELADOR DE FORMAS",
         "imagen_url": "https://homepoint.site/img/10952.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": "6.87",
         "precio_ars": "9,034"
     },
@@ -3883,7 +3883,7 @@
         "codigo": "10387",
         "nombre": "SPINNER CON LUCES PELOTA O DISCO",
         "imagen_url": "https://home-point.com.ar/no-disponible.png",
-        "estado": "Pocas Unidades",
+        "estado": "Sin Stock",
         "precio_usd": "4.20",
         "precio_ars": "5,523"
     },
@@ -4403,7 +4403,7 @@
         "codigo": "10263",
         "nombre": "PELOTA FUTBOL",
         "imagen_url": "https://homepoint.site/img/10263.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": "4.00",
         "precio_ars": "5,260"
     },
