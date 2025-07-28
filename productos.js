@@ -6,7 +6,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.40`,
     precio_ars: `$3,79`
   },
   {
@@ -16,7 +15,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.20`,
     precio_ars: `$11,36`
   },
   {
@@ -26,7 +24,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.80`,
     precio_ars: `$20,20`
   },
   {
@@ -36,7 +33,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.90`,
     precio_ars: `$18,78`
   },
   {
@@ -46,7 +42,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.10`,
     precio_ars: `$14,36`
   },
   {
@@ -56,7 +51,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.30`,
     precio_ars: `$5,21`
   },
   {
@@ -66,7 +60,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -76,7 +69,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.20`,
     precio_ars: `$5,05`
   },
   {
@@ -86,7 +78,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.80`,
     precio_ars: `$18,62`
   },
   {
@@ -96,7 +87,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.30`,
     precio_ars: `$3,63`
   },
   {
@@ -106,7 +96,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.80`,
     precio_ars: `$4,42`
   },
   {
@@ -116,7 +105,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `21.80`,
     precio_ars: `$34,40`
   },
   {
@@ -126,7 +114,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.90`,
     precio_ars: `$6,15`
   },
   {
@@ -136,7 +123,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.70`,
     precio_ars: `$21,62`
   },
   {
@@ -146,7 +132,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `16.30`,
     precio_ars: `$25,72`
   },
   {
@@ -156,7 +141,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.80`,
     precio_ars: `$6,00`
   },
   {
@@ -166,7 +150,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.40`,
     precio_ars: `$3,79`
   },
   {
@@ -176,7 +159,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.60`,
     precio_ars: `$2,52`
   },
   {
@@ -186,7 +168,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.80`,
     precio_ars: `$2,84`
   },
   {
@@ -196,7 +177,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `220.00`,
     precio_ars: `$347,16`
   },
   {
@@ -206,7 +186,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `158.00`,
     precio_ars: `$249,32`
   },
   {
@@ -216,7 +195,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -226,7 +204,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.90`,
     precio_ars: `$23,51`
   },
   {
@@ -236,7 +213,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.10`,
     precio_ars: `$14,36`
   },
   {
@@ -246,7 +222,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `54.00`,
     precio_ars: `$85,21`
   },
   {
@@ -256,7 +231,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -266,7 +240,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.00`,
     precio_ars: `$17,36`
   },
   {
@@ -276,7 +249,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.40`,
     precio_ars: `$11,68`
   },
   {
@@ -286,7 +258,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -296,7 +267,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.90`,
     precio_ars: `$6,15`
   },
   {
@@ -306,7 +276,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `2.30`,
     precio_ars: `$3,63`
   },
   {
@@ -316,7 +285,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -326,7 +294,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.80`,
     precio_ars: `$15,46`
   },
   {
@@ -336,7 +303,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `17.40`,
     precio_ars: `$27,46`
   },
   {
@@ -346,7 +312,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -356,7 +321,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -366,7 +330,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `37.00`,
     precio_ars: `$58,39`
   },
   {
@@ -376,7 +339,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.80`,
     precio_ars: `$20,20`
   },
   {
@@ -386,7 +348,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.80`,
     precio_ars: `$6,00`
   },
   {
@@ -396,7 +357,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `55.00`,
     precio_ars: `$86,79`
   },
   {
@@ -406,7 +366,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.95`,
     precio_ars: `$31,48`
   },
   {
@@ -416,7 +375,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -426,7 +384,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.95`,
     precio_ars: `$4,65`
   },
   {
@@ -436,7 +393,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.90`,
     precio_ars: `$9,31`
   },
   {
@@ -446,7 +402,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -456,7 +411,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `0.95`,
     precio_ars: `$1,50`
   },
   {
@@ -466,7 +420,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -476,7 +429,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.00`,
     precio_ars: `$7,89`
   },
   {
@@ -486,7 +438,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.00`,
     precio_ars: `$4,73`
   },
   {
@@ -496,7 +447,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.00`,
     precio_ars: `$4,73`
   },
   {
@@ -506,7 +456,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `33.00`,
     precio_ars: `$52,07`
   },
   {
@@ -516,7 +465,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `29.00`,
     precio_ars: `$45,76`
   },
   {
@@ -526,7 +474,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `47.00`,
     precio_ars: `$74,17`
   },
   {
@@ -536,7 +483,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.00`,
     precio_ars: `$64,70`
   },
   {
@@ -546,7 +492,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.60`,
     precio_ars: `$4,10`
   },
   {
@@ -556,7 +501,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -566,7 +510,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.70`,
     precio_ars: `$18,46`
   },
   {
@@ -576,7 +519,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.56`,
     precio_ars: `$7,20`
   },
   {
@@ -586,7 +528,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.20`,
     precio_ars: `$5,05`
   },
   {
@@ -596,7 +537,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `52.90`,
     precio_ars: `$83,48`
   },
   {
@@ -606,7 +546,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.00`,
     precio_ars: `$64,70`
   },
   {
@@ -616,7 +555,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `46.90`,
     precio_ars: `$74,01`
   },
   {
@@ -626,7 +564,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.30`,
     precio_ars: `$9,94`
   },
   {
@@ -636,7 +573,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `47.80`,
     precio_ars: `$75,43`
   },
   {
@@ -646,7 +582,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.10`,
     precio_ars: `$6,47`
   },
   {
@@ -656,7 +591,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `6.87`,
     precio_ars: `$10,84`
   },
   {
@@ -666,7 +600,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.40`,
     precio_ars: `$8,52`
   },
   {
@@ -676,7 +609,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -686,7 +618,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.30`,
     precio_ars: `$5,21`
   },
   {
@@ -696,7 +627,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.60`,
     precio_ars: `$18,30`
   },
   {
@@ -706,7 +636,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.80`,
     precio_ars: `$4,42`
   },
   {
@@ -716,7 +645,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `31.00`,
     precio_ars: `$48,92`
   },
   {
@@ -726,7 +654,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.20`,
     precio_ars: `$9,78`
   },
   {
@@ -736,7 +663,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `83.00`,
     precio_ars: `$130,97`
   },
   {
@@ -746,7 +672,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.16`,
     precio_ars: `$12,88`
   },
   {
@@ -756,7 +681,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -766,7 +690,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.90`,
     precio_ars: `$9,31`
   },
   {
@@ -776,7 +699,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `82.50`,
     precio_ars: `$130,19`
   },
   {
@@ -786,7 +708,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.40`,
     precio_ars: `$11,68`
   },
   {
@@ -796,7 +717,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `28.50`,
     precio_ars: `$44,97`
   },
   {
@@ -806,7 +726,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.30`,
     precio_ars: `$65,17`
   },
   {
@@ -816,7 +735,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `114.00`,
     precio_ars: `$179,89`
   },
   {
@@ -826,7 +744,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.80`,
     precio_ars: `$13,89`
   },
   {
@@ -836,7 +753,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -846,7 +762,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `15.00`,
     precio_ars: `$23,67`
   },
   {
@@ -856,7 +771,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `170.00`,
     precio_ars: `$268,26`
   },
   {
@@ -866,7 +780,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.80`,
     precio_ars: `$2,84`
   },
   {
@@ -876,7 +789,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `1.75`,
     precio_ars: `$2,76`
   },
   {
@@ -886,7 +798,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `65.00`,
     precio_ars: `$102,57`
   },
   {
@@ -896,7 +807,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.50`,
     precio_ars: `$3,95`
   },
   {
@@ -906,7 +816,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.80`,
     precio_ars: `$18,62`
   },
   {
@@ -916,7 +825,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `30.00`,
     precio_ars: `$47,34`
   },
   {
@@ -926,7 +834,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.70`,
     precio_ars: `$5,84`
   },
   {
@@ -936,7 +843,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.80`,
     precio_ars: `$7,57`
   },
   {
@@ -946,7 +852,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.50`,
     precio_ars: `$13,41`
   },
   {
@@ -956,7 +861,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `14.60`,
     precio_ars: `$23,04`
   },
   {
@@ -966,7 +870,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `47.90`,
     precio_ars: `$75,59`
   },
   {
@@ -976,7 +879,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `0.60`,
     precio_ars: `$946,80`
   },
   {
@@ -986,7 +888,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.80`,
     precio_ars: `$9,15`
   },
   {
@@ -996,7 +897,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.10`,
     precio_ars: `$3,31`
   },
   {
@@ -1006,7 +906,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.30`,
     precio_ars: `$14,68`
   },
   {
@@ -1016,7 +915,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -1026,7 +924,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.00`,
     precio_ars: `$14,20`
   },
   {
@@ -1036,7 +933,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.40`,
     precio_ars: `$14,83`
   },
   {
@@ -1046,7 +942,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.20`,
     precio_ars: `$14,52`
   },
   {
@@ -1056,7 +951,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -1066,7 +960,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.10`,
     precio_ars: `$6,47`
   },
   {
@@ -1076,7 +969,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `15.90`,
     precio_ars: `$25,09`
   },
   {
@@ -1086,7 +978,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.50`,
     precio_ars: `$21,30`
   },
   {
@@ -1096,7 +987,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.70`,
     precio_ars: `$13,73`
   },
   {
@@ -1106,7 +996,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.80`,
     precio_ars: `$13,89`
   },
   {
@@ -1116,7 +1005,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.20`,
     precio_ars: `$23,99`
   },
   {
@@ -1126,7 +1014,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -1136,7 +1023,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `20.00`,
     precio_ars: `$31,56`
   },
   {
@@ -1146,7 +1032,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.40`,
     precio_ars: `$3,79`
   },
   {
@@ -1156,7 +1041,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.80`,
     precio_ars: `$15,46`
   },
   {
@@ -1166,7 +1050,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.32`,
     precio_ars: `$3,66`
   },
   {
@@ -1176,7 +1059,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.10`,
     precio_ars: `$6,47`
   },
   {
@@ -1186,7 +1068,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.60`,
     precio_ars: `$7,26`
   },
   {
@@ -1196,7 +1077,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -1206,7 +1086,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.90`,
     precio_ars: `$21,93`
   },
   {
@@ -1216,7 +1095,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -1226,7 +1104,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -1236,7 +1113,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.50`,
     precio_ars: `$3,95`
   },
   {
@@ -1246,7 +1122,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.60`,
     precio_ars: `$30,93`
   },
   {
@@ -1256,7 +1131,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -1266,7 +1140,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.15`,
     precio_ars: `$11,28`
   },
   {
@@ -1276,7 +1149,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.95`,
     precio_ars: `$6,23`
   },
   {
@@ -1286,7 +1158,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -1296,7 +1167,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.70`,
     precio_ars: `$7,42`
   },
   {
@@ -1306,7 +1176,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.80`,
     precio_ars: `$17,04`
   },
   {
@@ -1316,7 +1185,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `11.40`,
     precio_ars: `$17,99`
   },
   {
@@ -1326,7 +1194,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `22.80`,
     precio_ars: `$35,98`
   },
   {
@@ -1336,7 +1203,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.30`,
     precio_ars: `$14,68`
   },
   {
@@ -1346,7 +1212,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -1356,7 +1221,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `21.70`,
     precio_ars: `$34,24`
   },
   {
@@ -1366,7 +1230,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.00`,
     precio_ars: `$14,20`
   },
   {
@@ -1376,7 +1239,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `17.82`,
     precio_ars: `$28,12`
   },
   {
@@ -1386,7 +1248,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.70`,
     precio_ars: `$24,78`
   },
   {
@@ -1396,7 +1257,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `14.50`,
     precio_ars: `$22,88`
   },
   {
@@ -1406,7 +1266,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.20`,
     precio_ars: `$19,25`
   },
   {
@@ -1416,7 +1275,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.20`,
     precio_ars: `$25,56`
   },
   {
@@ -1426,7 +1284,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `34.00`,
     precio_ars: `$53,65`
   },
   {
@@ -1436,7 +1293,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `36.00`,
     precio_ars: `$56,81`
   },
   {
@@ -1446,7 +1302,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `36.00`,
     precio_ars: `$56,81`
   },
   {
@@ -1456,7 +1311,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `32.00`,
     precio_ars: `$50,50`
   },
   {
@@ -1466,7 +1320,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `29.00`,
     precio_ars: `$45,76`
   },
   {
@@ -1476,7 +1329,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -1486,7 +1338,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `65.00`,
     precio_ars: `$102,57`
   },
   {
@@ -1496,7 +1347,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.90`,
     precio_ars: `$12,47`
   },
   {
@@ -1506,7 +1356,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.00`,
     precio_ars: `$22,09`
   },
   {
@@ -1516,7 +1365,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.90`,
     precio_ars: `$7,73`
   },
   {
@@ -1526,7 +1374,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -1536,7 +1383,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.70`,
     precio_ars: `$4,26`
   },
   {
@@ -1546,7 +1392,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.35`,
     precio_ars: `$3,71`
   },
   {
@@ -1556,7 +1401,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.80`,
     precio_ars: `$6,00`
   },
   {
@@ -1566,7 +1410,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.50`,
     precio_ars: `$13,41`
   },
   {
@@ -1576,7 +1419,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.96`,
     precio_ars: `$3,09`
   },
   {
@@ -1586,7 +1428,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.70`,
     precio_ars: `$12,15`
   },
   {
@@ -1596,7 +1437,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.80`,
     precio_ars: `$18,62`
   },
   {
@@ -1606,7 +1446,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.60`,
     precio_ars: `$11,99`
   },
   {
@@ -1616,7 +1455,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `19.70`,
     precio_ars: `$31,09`
   },
   {
@@ -1626,7 +1464,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.48`,
     precio_ars: `$8,65`
   },
   {
@@ -1636,7 +1473,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -1646,7 +1482,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `27.70`,
     precio_ars: `$43,71`
   },
   {
@@ -1656,7 +1491,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.20`,
     precio_ars: `$8,21`
   },
   {
@@ -1666,7 +1500,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.98`,
     precio_ars: `$22,06`
   },
   {
@@ -1676,7 +1509,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `0.80`,
     precio_ars: `$1,26`
   },
   {
@@ -1686,7 +1518,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `58.00`,
     precio_ars: `$91,52`
   },
   {
@@ -1696,7 +1527,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.30`,
     precio_ars: `$3,63`
   },
   {
@@ -1706,7 +1536,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -1716,7 +1545,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.10`,
     precio_ars: `$11,20`
   },
   {
@@ -1726,7 +1554,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.00`,
     precio_ars: `$14,20`
   },
   {
@@ -1736,7 +1563,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -1746,7 +1572,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.90`,
     precio_ars: `$4,58`
   },
   {
@@ -1756,7 +1581,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.60`,
     precio_ars: `$10,41`
   },
   {
@@ -1766,7 +1590,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -1776,7 +1599,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.96`,
     precio_ars: `$9,40`
   },
   {
@@ -1786,7 +1608,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.00`,
     precio_ars: `$7,89`
   },
   {
@@ -1796,7 +1617,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.70`,
     precio_ars: `$16,89`
   },
   {
@@ -1806,7 +1626,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `142.00`,
     precio_ars: `$224,08`
   },
   {
@@ -1816,7 +1635,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `122.00`,
     precio_ars: `$192,52`
   },
   {
@@ -1826,7 +1644,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `110.00`,
     precio_ars: `$173,58`
   },
   {
@@ -1836,7 +1653,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.00`,
     precio_ars: `$29,98`
   },
   {
@@ -1846,7 +1662,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `40.70`,
     precio_ars: `$64,23`
   },
   {
@@ -1856,7 +1671,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.00`,
     precio_ars: `$3,16`
   },
   {
@@ -1866,7 +1680,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.85`,
     precio_ars: `$4,50`
   },
   {
@@ -1876,7 +1689,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.60`,
     precio_ars: `$13,57`
   },
   {
@@ -1886,7 +1698,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -1896,7 +1707,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.30`,
     precio_ars: `$2,05`
   },
   {
@@ -1906,7 +1716,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -1916,7 +1725,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.00`,
     precio_ars: `$3,16`
   },
   {
@@ -1926,7 +1734,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.85`,
     precio_ars: `$2,92`
   },
   {
@@ -1936,7 +1743,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.90`,
     precio_ars: `$18,78`
   },
   {
@@ -1946,7 +1752,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.50`,
     precio_ars: `$8,68`
   },
   {
@@ -1956,7 +1761,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -1966,7 +1770,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.50`,
     precio_ars: `$13,41`
   },
   {
@@ -1976,7 +1779,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.78`,
     precio_ars: `$23,32`
   },
   {
@@ -1986,7 +1788,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.90`,
     precio_ars: `$6,15`
   },
   {
@@ -1996,7 +1797,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.50`,
     precio_ars: `$22,88`
   },
   {
@@ -2006,7 +1806,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.80`,
     precio_ars: `$23,35`
   },
   {
@@ -2016,7 +1815,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `56.00`,
     precio_ars: `$88,37`
   },
   {
@@ -2026,7 +1824,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `46.00`,
     precio_ars: `$72,59`
   },
   {
@@ -2036,7 +1833,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `60.00`,
     precio_ars: `$94,68`
   },
   {
@@ -2046,7 +1842,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `63.00`,
     precio_ars: `$99,41`
   },
   {
@@ -2056,7 +1851,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `41.00`,
     precio_ars: `$64,70`
   },
   {
@@ -2066,7 +1860,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `43.00`,
     precio_ars: `$67,85`
   },
   {
@@ -2076,7 +1869,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.81`,
     precio_ars: `$17,06`
   },
   {
@@ -2086,7 +1878,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.48`,
     precio_ars: `$16,54`
   },
   {
@@ -2096,7 +1887,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.03`,
     precio_ars: `$6,35`
   },
   {
@@ -2106,7 +1896,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `22.40`,
     precio_ars: `$35,35`
   },
   {
@@ -2116,7 +1905,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.00`,
     precio_ars: `$14,20`
   },
   {
@@ -2126,7 +1914,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.85`,
     precio_ars: `$17,12`
   },
   {
@@ -2136,7 +1923,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.40`,
     precio_ars: `$8,52`
   },
   {
@@ -2146,7 +1932,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `17.78`,
     precio_ars: `$28,06`
   },
   {
@@ -2156,7 +1941,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.49`,
     precio_ars: `$10,24`
   },
   {
@@ -2166,7 +1950,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.40`,
     precio_ars: `$8,52`
   },
   {
@@ -2176,7 +1959,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.57`,
     precio_ars: `$5,63`
   },
   {
@@ -2186,7 +1968,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `83.00`,
     precio_ars: `$130,97`
   },
   {
@@ -2196,7 +1977,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `18.00`,
     precio_ars: `$28,40`
   },
   {
@@ -2206,7 +1986,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.90`,
     precio_ars: `$4,58`
   },
   {
@@ -2216,7 +1995,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.35`,
     precio_ars: `$5,29`
   },
   {
@@ -2226,7 +2004,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.40`,
     precio_ars: `$6,94`
   },
   {
@@ -2236,7 +2013,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.44`,
     precio_ars: `$3,85`
   },
   {
@@ -2246,7 +2022,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -2256,7 +2031,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.40`,
     precio_ars: `$2,21`
   },
   {
@@ -2266,7 +2040,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.50`,
     precio_ars: `$19,73`
   },
   {
@@ -2276,7 +2049,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `15.80`,
     precio_ars: `$24,93`
   },
   {
@@ -2286,7 +2058,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.42`,
     precio_ars: `$24,33`
   },
   {
@@ -2296,7 +2067,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.50`,
     precio_ars: `$22,88`
   },
   {
@@ -2306,7 +2076,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.60`,
     precio_ars: `$23,04`
   },
   {
@@ -2316,7 +2085,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `103.00`,
     precio_ars: `$162,53`
   },
   {
@@ -2326,7 +2094,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.17`,
     precio_ars: `$12,89`
   },
   {
@@ -2336,7 +2103,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.79`,
     precio_ars: `$5,98`
   },
   {
@@ -2346,7 +2112,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `28.50`,
     precio_ars: `$44,97`
   },
   {
@@ -2356,7 +2121,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.35`,
     precio_ars: `$8,44`
   },
   {
@@ -2366,7 +2130,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.05`,
     precio_ars: `$1,66`
   },
   {
@@ -2376,7 +2139,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.50`,
     precio_ars: `$21,30`
   },
   {
@@ -2386,7 +2148,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `21.70`,
     precio_ars: `$34,24`
   },
   {
@@ -2396,7 +2157,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.71`,
     precio_ars: `$9,01`
   },
   {
@@ -2406,7 +2166,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.30`,
     precio_ars: `$65,17`
   },
   {
@@ -2416,7 +2175,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.80`,
     precio_ars: `$2,84`
   },
   {
@@ -2426,7 +2184,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.54`,
     precio_ars: `$4,01`
   },
   {
@@ -2436,7 +2193,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.20`,
     precio_ars: `$20,83`
   },
   {
@@ -2446,7 +2202,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.70`,
     precio_ars: `$9,00`
   },
   {
@@ -2456,7 +2211,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.20`,
     precio_ars: `$9,78`
   },
   {
@@ -2466,7 +2220,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -2476,7 +2229,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.90`,
     precio_ars: `$15,62`
   },
   {
@@ -2486,7 +2238,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `27.70`,
     precio_ars: `$43,71`
   },
   {
@@ -2496,7 +2247,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.74`,
     precio_ars: `$18,53`
   },
   {
@@ -2506,7 +2256,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -2516,7 +2265,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.80`,
     precio_ars: `$15,46`
   },
   {
@@ -2526,7 +2274,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.96`,
     precio_ars: `$12,56`
   },
   {
@@ -2536,7 +2283,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.20`,
     precio_ars: `$6,63`
   },
   {
@@ -2546,7 +2292,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.08`,
     precio_ars: `$6,44`
   },
   {
@@ -2556,7 +2301,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `11.80`,
     precio_ars: `$18,62`
   },
   {
@@ -2566,7 +2310,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `11.80`,
     precio_ars: `$18,62`
   },
   {
@@ -2576,7 +2319,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `20.00`,
     precio_ars: `$31,56`
   },
   {
@@ -2586,7 +2328,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -2596,7 +2337,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `82.00`,
     precio_ars: `$129,40`
   },
   {
@@ -2606,7 +2346,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `66.00`,
     precio_ars: `$104,15`
   },
   {
@@ -2616,7 +2355,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `64.00`,
     precio_ars: `$100,99`
   },
   {
@@ -2626,7 +2364,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `59.00`,
     precio_ars: `$93,10`
   },
   {
@@ -2636,7 +2373,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -2646,7 +2382,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `22.00`,
     precio_ars: `$34,72`
   },
   {
@@ -2656,7 +2391,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `24.20`,
     precio_ars: `$38,19`
   },
   {
@@ -2666,7 +2400,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.40`,
     precio_ars: `$14,83`
   },
   {
@@ -2676,7 +2409,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `28.10`,
     precio_ars: `$44,34`
   },
   {
@@ -2686,7 +2418,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.10`,
     precio_ars: `$6,47`
   },
   {
@@ -2696,7 +2427,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.00`,
     precio_ars: `$9,47`
   },
   {
@@ -2706,7 +2436,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -2716,7 +2445,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -2726,7 +2454,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -2736,7 +2463,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.00`,
     precio_ars: `$17,36`
   },
   {
@@ -2746,7 +2472,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.00`,
     precio_ars: `$64,70`
   },
   {
@@ -2756,7 +2481,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `20.10`,
     precio_ars: `$31,72`
   },
   {
@@ -2766,7 +2490,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.60`,
     precio_ars: `$21,46`
   },
   {
@@ -2776,7 +2499,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -2786,7 +2508,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.40`,
     precio_ars: `$13,26`
   },
   {
@@ -2796,7 +2517,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.90`,
     precio_ars: `$15,62`
   },
   {
@@ -2806,7 +2526,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -2816,7 +2535,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `32.50`,
     precio_ars: `$51,29`
   },
   {
@@ -2826,7 +2544,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -2836,7 +2553,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -2846,7 +2562,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -2856,7 +2571,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -2866,7 +2580,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.50`,
     precio_ars: `$16,57`
   },
   {
@@ -2876,7 +2589,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.50`,
     precio_ars: `$16,57`
   },
   {
@@ -2886,7 +2598,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `89.00`,
     precio_ars: `$140,44`
   },
   {
@@ -2896,7 +2607,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `11.70`,
     precio_ars: `$18,46`
   },
   {
@@ -2906,7 +2616,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -2916,7 +2625,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `17.80`,
     precio_ars: `$28,09`
   },
   {
@@ -2926,7 +2634,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.53`,
     precio_ars: `$3,99`
   },
   {
@@ -2936,7 +2643,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `11.98`,
     precio_ars: `$18,90`
   },
   {
@@ -2946,7 +2652,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.83`,
     precio_ars: `$7,62`
   },
   {
@@ -2956,7 +2661,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.20`,
     precio_ars: `$5,05`
   },
   {
@@ -2966,7 +2670,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.90`,
     precio_ars: `$3,00`
   },
   {
@@ -2976,7 +2679,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.70`,
     precio_ars: `$13,73`
   },
   {
@@ -2986,7 +2688,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.86`,
     precio_ars: `$9,25`
   },
   {
@@ -2996,7 +2697,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.40`,
     precio_ars: `$13,26`
   },
   {
@@ -3006,7 +2706,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -3016,7 +2715,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.50`,
     precio_ars: `$30,77`
   },
   {
@@ -3026,7 +2724,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -3036,7 +2733,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -3046,7 +2742,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.50`,
     precio_ars: `$10,26`
   },
   {
@@ -3056,7 +2751,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.80`,
     precio_ars: `$26,51`
   },
   {
@@ -3066,7 +2760,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.44`,
     precio_ars: `$10,16`
   },
   {
@@ -3076,7 +2769,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.80`,
     precio_ars: `$31,24`
   },
   {
@@ -3086,7 +2778,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `27.30`,
     precio_ars: `$43,08`
   },
   {
@@ -3096,7 +2787,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.25`,
     precio_ars: `$11,44`
   },
   {
@@ -3106,7 +2796,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.60`,
     precio_ars: `$11,99`
   },
   {
@@ -3116,7 +2805,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `30.20`,
     precio_ars: `$47,66`
   },
   {
@@ -3126,7 +2814,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `34.00`,
     precio_ars: `$53,65`
   },
   {
@@ -3136,7 +2823,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -3146,7 +2832,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `148.00`,
     precio_ars: `$233,54`
   },
   {
@@ -3156,7 +2841,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `118.00`,
     precio_ars: `$186,20`
   },
   {
@@ -3166,7 +2850,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.32`,
     precio_ars: `$9,97`
   },
   {
@@ -3176,7 +2859,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.48`,
     precio_ars: `$14,96`
   },
   {
@@ -3186,7 +2868,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `29.00`,
     precio_ars: `$45,76`
   },
   {
@@ -3196,7 +2877,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -3206,7 +2886,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -3216,7 +2895,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.70`,
     precio_ars: `$13,73`
   },
   {
@@ -3226,7 +2904,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: ``,
     precio_ars: `$8,64`
   },
   {
@@ -3236,7 +2913,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.70`,
     precio_ars: `$13,73`
   },
   {
@@ -3246,7 +2922,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `72.00`,
     precio_ars: `$113,62`
   },
   {
@@ -3256,7 +2931,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.10`,
     precio_ars: `$11,20`
   },
   {
@@ -3266,7 +2940,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.00`,
     precio_ars: `$28,40`
   },
   {
@@ -3276,7 +2949,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -3286,7 +2958,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.56`,
     precio_ars: `$22,98`
   },
   {
@@ -3296,7 +2967,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.90`,
     precio_ars: `$4,58`
   },
   {
@@ -3306,7 +2976,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -3316,7 +2985,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `27.30`,
     precio_ars: `$43,08`
   },
   {
@@ -3326,7 +2994,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `29.80`,
     precio_ars: `$47,02`
   },
   {
@@ -3336,7 +3003,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `83.00`,
     precio_ars: `$130,97`
   },
   {
@@ -3346,7 +3012,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `29.00`,
     precio_ars: `$45,76`
   },
   {
@@ -3356,7 +3021,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.70`,
     precio_ars: `$24,78`
   },
   {
@@ -3366,7 +3030,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `26.00`,
     precio_ars: `$41,03`
   },
   {
@@ -3376,7 +3039,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `36.00`,
     precio_ars: `$56,81`
   },
   {
@@ -3386,7 +3048,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `28.00`,
     precio_ars: `$44,18`
   },
   {
@@ -3396,7 +3057,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `45.00`,
     precio_ars: `$71,01`
   },
   {
@@ -3406,7 +3066,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `63.00`,
     precio_ars: `$99,41`
   },
   {
@@ -3416,7 +3075,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `47.00`,
     precio_ars: `$74,17`
   },
   {
@@ -3426,7 +3084,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `33.00`,
     precio_ars: `$52,07`
   },
   {
@@ -3436,7 +3093,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `33.00`,
     precio_ars: `$52,07`
   },
   {
@@ -3446,7 +3102,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `39.00`,
     precio_ars: `$61,54`
   },
   {
@@ -3456,7 +3111,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `33.00`,
     precio_ars: `$52,07`
   },
   {
@@ -3466,7 +3120,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `48.00`,
     precio_ars: `$75,74`
   },
   {
@@ -3476,7 +3129,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `67.00`,
     precio_ars: `$105,73`
   },
   {
@@ -3486,7 +3138,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `41.00`,
     precio_ars: `$64,70`
   },
   {
@@ -3496,7 +3147,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `29.50`,
     precio_ars: `$46,55`
   },
   {
@@ -3506,7 +3156,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `32.00`,
     precio_ars: `$50,50`
   },
   {
@@ -3516,7 +3165,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.15`,
     precio_ars: `$11,28`
   },
   {
@@ -3526,7 +3174,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.30`,
     precio_ars: `$17,83`
   },
   {
@@ -3536,7 +3183,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.80`,
     precio_ars: `$15,46`
   },
   {
@@ -3546,7 +3192,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `20.00`,
     precio_ars: `$31,56`
   },
   {
@@ -3556,7 +3201,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.50`,
     precio_ars: `$16,57`
   },
   {
@@ -3566,7 +3210,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.80`,
     precio_ars: `$7,57`
   },
   {
@@ -3576,7 +3219,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.31`,
     precio_ars: `$11,54`
   },
   {
@@ -3586,7 +3228,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -3596,7 +3237,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.50`,
     precio_ars: `$10,26`
   },
   {
@@ -3606,7 +3246,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -3616,7 +3255,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.60`,
     precio_ars: `$10,41`
   },
   {
@@ -3626,7 +3264,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.50`,
     precio_ars: `$21,30`
   },
   {
@@ -3636,7 +3273,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.90`,
     precio_ars: `$10,89`
   },
   {
@@ -3646,7 +3282,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.40`,
     precio_ars: `$21,15`
   },
   {
@@ -3656,7 +3291,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `26.70`,
     precio_ars: `$42,13`
   },
   {
@@ -3666,7 +3300,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `18.42`,
     precio_ars: `$29,07`
   },
   {
@@ -3676,7 +3309,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `17.00`,
     precio_ars: `$26,83`
   },
   {
@@ -3686,7 +3318,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.00`,
     precio_ars: `$17,36`
   },
   {
@@ -3696,7 +3327,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.00`,
     precio_ars: `$22,09`
   },
   {
@@ -3706,7 +3336,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.76`,
     precio_ars: `$12,24`
   },
   {
@@ -3716,7 +3345,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `27.30`,
     precio_ars: `$43,08`
   },
   {
@@ -3726,7 +3354,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.00`,
     precio_ars: `$9,47`
   },
   {
@@ -3736,7 +3363,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.28`,
     precio_ars: `$2,02`
   },
   {
@@ -3746,7 +3372,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.50`,
     precio_ars: `$7,10`
   },
   {
@@ -3756,7 +3381,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.30`,
     precio_ars: `$13,10`
   },
   {
@@ -3766,7 +3390,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.60`,
     precio_ars: `$24,62`
   },
   {
@@ -3776,7 +3399,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -3786,7 +3408,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.40`,
     precio_ars: `$10,10`
   },
   {
@@ -3796,7 +3417,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.20`,
     precio_ars: `$5,05`
   },
   {
@@ -3806,7 +3426,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.40`,
     precio_ars: `$11,68`
   },
   {
@@ -3816,7 +3435,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `2.58`,
     precio_ars: `$4,07`
   },
   {
@@ -3826,7 +3444,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -3836,7 +3453,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.86`,
     precio_ars: `$6,09`
   },
   {
@@ -3846,7 +3462,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `34.50`,
     precio_ars: `$54,44`
   },
   {
@@ -3856,7 +3471,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.30`,
     precio_ars: `$16,25`
   },
   {
@@ -3866,7 +3480,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.60`,
     precio_ars: `$7,26`
   },
   {
@@ -3876,7 +3489,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.15`,
     precio_ars: `$8,13`
   },
   {
@@ -3886,7 +3498,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.32`,
     precio_ars: `$9,97`
   },
   {
@@ -3896,7 +3507,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -3906,7 +3516,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -3916,7 +3525,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.80`,
     precio_ars: `$7,57`
   },
   {
@@ -3926,7 +3534,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.30`,
     precio_ars: `$5,21`
   },
   {
@@ -3936,7 +3543,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.35`,
     precio_ars: `$3,71`
   },
   {
@@ -3946,7 +3552,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.93`,
     precio_ars: `$6,20`
   },
   {
@@ -3956,7 +3561,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.18`,
     precio_ars: `$1,86`
   },
   {
@@ -3966,7 +3570,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.72`,
     precio_ars: `$29,54`
   },
   {
@@ -3976,7 +3579,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `21.60`,
     precio_ars: `$34,08`
   },
   {
@@ -3986,7 +3588,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `18.19`,
     precio_ars: `$28,70`
   },
   {
@@ -3996,7 +3597,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.30`,
     precio_ars: `$13,10`
   },
   {
@@ -4006,7 +3606,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `63.85`,
     precio_ars: `$100,76`
   },
   {
@@ -4016,7 +3615,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.00`,
     precio_ars: `$3,16`
   },
   {
@@ -4026,7 +3624,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -4036,7 +3633,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.85`,
     precio_ars: `$6,08`
   },
   {
@@ -4046,7 +3642,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -4056,7 +3651,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.45`,
     precio_ars: `$25,96`
   },
   {
@@ -4066,7 +3660,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.40`,
     precio_ars: `$25,88`
   },
   {
@@ -4076,7 +3669,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.20`,
     precio_ars: `$30,30`
   },
   {
@@ -4086,7 +3678,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `16.90`,
     precio_ars: `$26,67`
   },
   {
@@ -4096,7 +3687,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.40`,
     precio_ars: `$30,61`
   },
   {
@@ -4106,7 +3696,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.31`,
     precio_ars: `$2,07`
   },
   {
@@ -4116,7 +3705,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.60`,
     precio_ars: `$5,68`
   },
   {
@@ -4126,7 +3714,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `1.45`,
     precio_ars: `$2,29`
   },
   {
@@ -4136,7 +3723,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `0.18`,
     precio_ars: `$284,40`
   },
   {
@@ -4146,7 +3732,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -4156,7 +3741,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.90`,
     precio_ars: `$10,89`
   },
   {
@@ -4166,7 +3750,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.60`,
     precio_ars: `$7,26`
   },
   {
@@ -4176,7 +3759,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -4186,7 +3768,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -4196,7 +3777,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.20`,
     precio_ars: `$14,52`
   },
   {
@@ -4206,7 +3786,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.60`,
     precio_ars: `$21,46`
   },
   {
@@ -4216,7 +3795,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.10`,
     precio_ars: `$4,89`
   },
   {
@@ -4226,7 +3804,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.30`,
     precio_ars: `$3,63`
   },
   {
@@ -4236,7 +3813,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.40`,
     precio_ars: `$2,21`
   },
   {
@@ -4246,7 +3822,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.20`,
     precio_ars: `$1,89`
   },
   {
@@ -4256,7 +3831,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `59.00`,
     precio_ars: `$93,10`
   },
   {
@@ -4266,7 +3840,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.00`,
     precio_ars: `$4,73`
   },
   {
@@ -4276,7 +3849,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -4286,7 +3858,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.10`,
     precio_ars: `$12,78`
   },
   {
@@ -4296,7 +3867,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.70`,
     precio_ars: `$13,73`
   },
   {
@@ -4306,7 +3876,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.30`,
     precio_ars: `$14,68`
   },
   {
@@ -4316,7 +3885,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `5.53`,
     precio_ars: `$8,73`
   },
   {
@@ -4326,7 +3894,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.65`,
     precio_ars: `$5,76`
   },
   {
@@ -4336,7 +3903,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -4346,7 +3912,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.83`,
     precio_ars: `$4,47`
   },
   {
@@ -4356,7 +3921,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.20`,
     precio_ars: `$23,99`
   },
   {
@@ -4366,7 +3930,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `24.60`,
     precio_ars: `$38,82`
   },
   {
@@ -4376,7 +3939,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -4386,7 +3948,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -4396,7 +3957,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.50`,
     precio_ars: `$8,68`
   },
   {
@@ -4406,7 +3966,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.40`,
     precio_ars: `$10,10`
   },
   {
@@ -4416,7 +3975,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `29.50`,
     precio_ars: `$46,55`
   },
   {
@@ -4426,7 +3984,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.10`,
     precio_ars: `$11,20`
   },
   {
@@ -4436,7 +3993,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `20.30`,
     precio_ars: `$32,03`
   },
   {
@@ -4446,7 +4002,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.80`,
     precio_ars: `$13,89`
   },
   {
@@ -4456,7 +4011,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `21.00`,
     precio_ars: `$33,14`
   },
   {
@@ -4466,7 +4020,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.20`,
     precio_ars: `$8,21`
   },
   {
@@ -4476,7 +4029,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.00`,
     precio_ars: `$29,98`
   },
   {
@@ -4486,7 +4038,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.70`,
     precio_ars: `$4,26`
   },
   {
@@ -4496,7 +4047,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.80`,
     precio_ars: `$20,20`
   },
   {
@@ -4506,7 +4056,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.30`,
     precio_ars: `$17,83`
   },
   {
@@ -4516,7 +4065,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `36.00`,
     precio_ars: `$56,81`
   },
   {
@@ -4526,7 +4074,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -4536,7 +4083,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.90`,
     precio_ars: `$29,82`
   },
   {
@@ -4546,7 +4092,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `18.40`,
     precio_ars: `$29,04`
   },
   {
@@ -4556,7 +4101,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `22.10`,
     precio_ars: `$34,87`
   },
   {
@@ -4566,7 +4110,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `28.00`,
     precio_ars: `$44,18`
   },
   {
@@ -4576,7 +4119,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.10`,
     precio_ars: `$9,63`
   },
   {
@@ -4586,7 +4128,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.60`,
     precio_ars: `$5,68`
   },
   {
@@ -4596,7 +4137,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `19.43`,
     precio_ars: `$30,66`
   },
   {
@@ -4606,7 +4146,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.10`,
     precio_ars: `$12,78`
   },
   {
@@ -4616,7 +4155,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.90`,
     precio_ars: `$9,31`
   },
   {
@@ -4626,7 +4164,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.50`,
     precio_ars: `$13,41`
   },
   {
@@ -4636,7 +4173,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `10.80`,
     precio_ars: `$17,04`
   },
   {
@@ -4646,7 +4182,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -4656,7 +4191,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.70`,
     precio_ars: `$21,62`
   },
   {
@@ -4666,7 +4200,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.35`,
     precio_ars: `$6,86`
   },
   {
@@ -4676,7 +4209,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `12.80`,
     precio_ars: `$20,20`
   },
   {
@@ -4686,7 +4218,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.90`,
     precio_ars: `$14,04`
   },
   {
@@ -4696,7 +4227,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.80`,
     precio_ars: `$15,46`
   },
   {
@@ -4706,7 +4236,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `49.00`,
     precio_ars: `$77,32`
   },
   {
@@ -4716,7 +4245,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `28.00`,
     precio_ars: `$44,18`
   },
   {
@@ -4726,7 +4254,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.70`,
     precio_ars: `$18,46`
   },
   {
@@ -4736,7 +4263,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.40`,
     precio_ars: `$22,72`
   },
   {
@@ -4746,7 +4272,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `3.47`,
     precio_ars: `$5,48`
   },
   {
@@ -4756,7 +4281,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.20`,
     precio_ars: `$12,94`
   },
   {
@@ -4766,7 +4290,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `14.50`,
     precio_ars: `$22,88`
   },
   {
@@ -4776,7 +4299,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `0.70`,
     precio_ars: `$1.105,20`
   },
   {
@@ -4786,7 +4308,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `25.00`,
     precio_ars: `$39,45`
   },
   {
@@ -4796,7 +4317,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.10`,
     precio_ars: `$9,63`
   },
   {
@@ -4806,7 +4326,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `10.10`,
     precio_ars: `$15,94`
   },
   {
@@ -4816,7 +4335,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.30`,
     precio_ars: `$14,68`
   },
   {
@@ -4826,7 +4344,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `17.25`,
     precio_ars: `$27,22`
   },
   {
@@ -4836,7 +4353,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.40`,
     precio_ars: `$14,83`
   },
   {
@@ -4846,7 +4362,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `6.70`,
     precio_ars: `$10,57`
   },
   {
@@ -4856,7 +4371,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.20`,
     precio_ars: `$6,63`
   },
   {
@@ -4866,7 +4380,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.50`,
     precio_ars: `$21,30`
   },
   {
@@ -4876,7 +4389,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.60`,
     precio_ars: `$18,30`
   },
   {
@@ -4886,7 +4398,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `28.70`,
     precio_ars: `$45,29`
   },
   {
@@ -4896,7 +4407,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -4906,7 +4416,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.50`,
     precio_ars: `$7,10`
   },
   {
@@ -4916,7 +4425,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `35.20`,
     precio_ars: `$55,55`
   },
   {
@@ -4926,7 +4434,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `27.00`,
     precio_ars: `$42,61`
   },
   {
@@ -4936,7 +4443,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.20`,
     precio_ars: `$16,10`
   },
   {
@@ -4946,7 +4452,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.70`,
     precio_ars: `$12,15`
   },
   {
@@ -4956,7 +4461,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.00`,
     precio_ars: `$7,89`
   },
   {
@@ -4966,7 +4470,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.00`,
     precio_ars: `$17,36`
   },
   {
@@ -4976,7 +4479,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.20`,
     precio_ars: `$3,47`
   },
   {
@@ -4986,7 +4488,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -4996,7 +4497,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.40`,
     precio_ars: `$29,04`
   },
   {
@@ -5006,7 +4506,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.37`,
     precio_ars: `$11,63`
   },
   {
@@ -5016,7 +4515,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.20`,
     precio_ars: `$14,52`
   },
   {
@@ -5026,7 +4524,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -5036,7 +4533,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.00`,
     precio_ars: `$7,89`
   },
   {
@@ -5046,7 +4542,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -5056,7 +4551,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.50`,
     precio_ars: `$10,26`
   },
   {
@@ -5066,7 +4560,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.80`,
     precio_ars: `$6,00`
   },
   {
@@ -5076,7 +4569,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `19.00`,
     precio_ars: `$29,98`
   },
   {
@@ -5086,7 +4578,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.30`,
     precio_ars: `$22,57`
   },
   {
@@ -5096,7 +4587,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.40`,
     precio_ars: `$5,37`
   },
   {
@@ -5106,7 +4596,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.80`,
     precio_ars: `$9,15`
   },
   {
@@ -5116,7 +4605,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `37.00`,
     precio_ars: `$58,39`
   },
   {
@@ -5126,7 +4614,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -5136,7 +4623,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -5146,7 +4632,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.00`,
     precio_ars: `$9,47`
   },
   {
@@ -5156,7 +4641,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.50`,
     precio_ars: `$18,15`
   },
   {
@@ -5166,7 +4650,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `18.00`,
     precio_ars: `$28,40`
   },
   {
@@ -5176,7 +4659,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.90`,
     precio_ars: `$6,15`
   },
   {
@@ -5186,7 +4668,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.30`,
     precio_ars: `$22,57`
   },
   {
@@ -5196,7 +4677,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.20`,
     precio_ars: `$17,67`
   },
   {
@@ -5206,7 +4686,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -5216,7 +4695,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `22.90`,
     precio_ars: `$36,14`
   },
   {
@@ -5226,7 +4704,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -5236,7 +4713,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.00`,
     precio_ars: `$11,05`
   },
   {
@@ -5246,7 +4722,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.70`,
     precio_ars: `$5,84`
   },
   {
@@ -5256,7 +4731,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.15`,
     precio_ars: `$17,59`
   },
   {
@@ -5266,7 +4740,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.40`,
     precio_ars: `$29,04`
   },
   {
@@ -5276,7 +4749,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `6.35`,
     precio_ars: `$10,02`
   },
   {
@@ -5286,7 +4758,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `11.30`,
     precio_ars: `$17,83`
   },
   {
@@ -5296,7 +4767,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.40`,
     precio_ars: `$14,83`
   },
   {
@@ -5306,7 +4776,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.00`,
     precio_ars: `$7,89`
   },
   {
@@ -5316,7 +4785,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `17.00`,
     precio_ars: `$26,83`
   },
   {
@@ -5326,7 +4794,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.30`,
     precio_ars: `$5,21`
   },
   {
@@ -5336,7 +4803,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `18.60`,
     precio_ars: `$29,35`
   },
   {
@@ -5346,7 +4812,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.80`,
     precio_ars: `$7,57`
   },
   {
@@ -5356,7 +4821,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `25.00`,
     precio_ars: `$39,45`
   },
   {
@@ -5366,7 +4830,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `5.40`,
     precio_ars: `$8,52`
   },
   {
@@ -5376,7 +4839,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.10`,
     precio_ars: `$15,94`
   },
   {
@@ -5386,7 +4848,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `18.30`,
     precio_ars: `$28,88`
   },
   {
@@ -5396,7 +4857,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.30`,
     precio_ars: `$16,25`
   },
   {
@@ -5406,7 +4866,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -5416,7 +4875,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `6.50`,
     precio_ars: `$10,26`
   },
   {
@@ -5426,7 +4884,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.50`,
     precio_ars: `$7,10`
   },
   {
@@ -5436,7 +4893,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `26.60`,
     precio_ars: `$41,97`
   },
   {
@@ -5446,7 +4902,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -5456,7 +4911,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `8.98`,
     precio_ars: `$14,17`
   },
   {
@@ -5466,7 +4920,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `15.00`,
     precio_ars: `$23,67`
   },
   {
@@ -5476,7 +4929,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `16.00`,
     precio_ars: `$25,25`
   },
   {
@@ -5486,7 +4938,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `14.11`,
     precio_ars: `$22,27`
   },
   {
@@ -5496,7 +4947,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.00`,
     precio_ars: `$3,16`
   },
   {
@@ -5506,7 +4956,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.00`,
     precio_ars: `$6,31`
   },
   {
@@ -5516,7 +4965,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.20`,
     precio_ars: `$19,25`
   },
   {
@@ -5526,7 +4974,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.80`,
     precio_ars: `$10,73`
   },
   {
@@ -5536,7 +4983,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.80`,
     precio_ars: `$13,89`
   },
   {
@@ -5546,7 +4992,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `28.30`,
     precio_ars: `$44,66`
   },
   {
@@ -5556,7 +5001,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `23.00`,
     precio_ars: `$36,29`
   },
   {
@@ -5566,7 +5010,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.00`,
     precio_ars: `$3,16`
   },
   {
@@ -5576,7 +5019,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `20.00`,
     precio_ars: `$31,56`
   },
   {
@@ -5586,7 +5028,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.70`,
     precio_ars: `$24,78`
   },
   {
@@ -5596,7 +5037,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `17.50`,
     precio_ars: `$27,62`
   },
   {
@@ -5606,7 +5046,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.10`,
     precio_ars: `$1,74`
   },
   {
@@ -5616,7 +5055,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.60`,
     precio_ars: `$10,41`
   },
   {
@@ -5626,7 +5064,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.50`,
     precio_ars: `$3,95`
   },
   {
@@ -5636,7 +5073,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `15.00`,
     precio_ars: `$23,67`
   },
   {
@@ -5646,7 +5082,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `6.40`,
     precio_ars: `$10,10`
   },
   {
@@ -5656,7 +5091,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.50`,
     precio_ars: `$8,68`
   },
   {
@@ -5666,7 +5100,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.10`,
     precio_ars: `$6,47`
   },
   {
@@ -5676,7 +5109,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `1.70`,
     precio_ars: `$2,68`
   },
   {
@@ -5686,7 +5118,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `17.20`,
     precio_ars: `$27,14`
   },
   {
@@ -5696,7 +5127,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `18.70`,
     precio_ars: `$29,51`
   },
   {
@@ -5706,7 +5136,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -5716,7 +5145,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.60`,
     precio_ars: `$7,26`
   },
   {
@@ -5726,7 +5154,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `31.50`,
     precio_ars: `$49,71`
   },
   {
@@ -5736,7 +5163,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `35.00`,
     precio_ars: `$55,23`
   },
   {
@@ -5746,7 +5172,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -5756,7 +5181,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.70`,
     precio_ars: `$7,42`
   },
   {
@@ -5766,7 +5190,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `14.60`,
     precio_ars: `$23,04`
   },
   {
@@ -5776,7 +5199,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.00`,
     precio_ars: `$18,94`
   },
   {
@@ -5786,7 +5208,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.90`,
     precio_ars: `$10,89`
   },
   {
@@ -5796,7 +5217,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `8.20`,
     precio_ars: `$12,94`
   },
   {
@@ -5806,7 +5226,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `14.70`,
     precio_ars: `$23,20`
   },
   {
@@ -5816,7 +5235,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.70`,
     precio_ars: `$9,00`
   },
   {
@@ -5826,7 +5244,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.60`,
     precio_ars: `$15,15`
   },
   {
@@ -5836,7 +5253,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `14.60`,
     precio_ars: `$23,04`
   },
   {
@@ -5846,7 +5262,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `26.00`,
     precio_ars: `$41,03`
   },
   {
@@ -5856,7 +5271,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.50`,
     precio_ars: `$14,99`
   },
   {
@@ -5866,7 +5280,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.90`,
     precio_ars: `$4,58`
   },
   {
@@ -5876,7 +5289,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `1.20`,
     precio_ars: `$1,89`
   },
   {
@@ -5886,7 +5298,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$4,20`
   },
   {
@@ -5896,7 +5307,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.10`,
     precio_ars: `$20,67`
   },
   {
@@ -5906,7 +5316,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.70`,
     precio_ars: `$15,31`
   },
   {
@@ -5916,7 +5325,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.80`,
     precio_ars: `$4,42`
   },
   {
@@ -5926,7 +5334,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `10.00`,
     precio_ars: `$15,78`
   },
   {
@@ -5936,7 +5343,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$0,00`
   },
   {
@@ -5946,7 +5352,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.60`,
     precio_ars: `$18,30`
   },
   {
@@ -5956,7 +5361,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `26.00`,
     precio_ars: `$41,03`
   },
   {
@@ -5966,7 +5370,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.40`,
     precio_ars: `$16,41`
   },
   {
@@ -5976,7 +5379,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.70`,
     precio_ars: `$9,00`
   },
   {
@@ -5986,7 +5388,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `7.95`,
     precio_ars: `$12,54`
   },
   {
@@ -5996,7 +5397,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `8.00`,
     precio_ars: `$12,62`
   },
   {
@@ -6006,7 +5406,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `5.95`,
     precio_ars: `$9,39`
   },
   {
@@ -6016,7 +5415,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `41.80`,
     precio_ars: `$65,96`
   },
   {
@@ -6026,7 +5424,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `24.75`,
     precio_ars: `$39,06`
   },
   {
@@ -6036,7 +5433,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.90`,
     precio_ars: `$7,73`
   },
   {
@@ -6046,17 +5442,15 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `9.90`,
     precio_ars: `$15,62`
   },
   {
     nombre: `MOTOSIERRA CHICA`,
     codigo: `10123`,
     imagen: `https://homepoint.site/img/10123.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `29.00`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$45,76`
   },
   {
@@ -6066,7 +5460,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `5.96`,
     precio_ars: `$9,40`
   },
   {
@@ -6076,7 +5469,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `1.70`,
     precio_ars: `$2,68`
   },
   {
@@ -6086,7 +5478,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `17.20`,
     precio_ars: `$27,14`
   },
   {
@@ -6096,7 +5487,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `18.90`,
     precio_ars: `$29,82`
   },
   {
@@ -6106,7 +5496,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `11.70`,
     precio_ars: `$18,46`
   },
   {
@@ -6116,7 +5505,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -6126,7 +5514,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.40`,
     precio_ars: `$3,79`
   },
   {
@@ -6136,7 +5523,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `1.47`,
     precio_ars: `$2,32`
   },
   {
@@ -6146,7 +5532,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.18`,
     precio_ars: `$3,44`
   },
   {
@@ -6156,7 +5541,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.60`,
     precio_ars: `$21,46`
   },
   {
@@ -6166,7 +5550,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.30`,
     precio_ars: `$19,41`
   },
   {
@@ -6176,7 +5559,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$0,00`
   },
   {
@@ -6186,7 +5568,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$0,00`
   },
   {
@@ -6196,7 +5577,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$0,00`
   },
   {
@@ -6206,7 +5586,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.60`,
     precio_ars: `$21,46`
   },
   {
@@ -6216,7 +5595,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.20`,
     precio_ars: `$20,83`
   },
   {
@@ -6226,7 +5604,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `2.92`,
     precio_ars: `$4,61`
   },
   {
@@ -6236,7 +5613,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `5.50`,
     precio_ars: `$8,68`
   },
   {
@@ -6246,7 +5622,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.25`,
     precio_ars: `$5,13`
   },
   {
@@ -6256,7 +5631,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -6266,7 +5640,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `4.30`,
     precio_ars: `$6,79`
   },
   {
@@ -6276,7 +5649,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `25.80`,
     precio_ars: `$40,71`
   },
   {
@@ -6286,7 +5658,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.95`,
     precio_ars: `$10,97`
   },
   {
@@ -6296,7 +5667,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: ``,
     precio_ars: `$6,96`
   },
   {
@@ -6306,7 +5676,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.10`,
     precio_ars: `$4,89`
   },
   {
@@ -6316,7 +5685,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `24.00`,
     precio_ars: `$37,87`
   },
   {
@@ -6326,7 +5694,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.90`,
     precio_ars: `$10,89`
   },
   {
@@ -6336,7 +5703,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.00`,
     precio_ars: `$4,73`
   },
   {
@@ -6346,7 +5712,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `10.80`,
     precio_ars: `$17,04`
   },
   {
@@ -6356,7 +5721,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.40`,
     precio_ars: `$6,94`
   },
   {
@@ -6366,7 +5730,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.80`,
     precio_ars: `$7,57`
   },
   {
@@ -6376,7 +5739,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `7.80`,
     precio_ars: `$12,31`
   },
   {
@@ -6386,7 +5748,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `6.20`,
     precio_ars: `$9,78`
   },
   {
@@ -6396,7 +5757,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `3.60`,
     precio_ars: `$5,68`
   },
   {
@@ -6406,7 +5766,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `2.90`,
     precio_ars: `$4,58`
   },
   {
@@ -6416,7 +5775,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `0.17`,
     precio_ars: `$268,80`
   },
   {
@@ -6426,7 +5784,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `4.20`,
     precio_ars: `$6,63`
   },
   {
@@ -6436,7 +5793,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `12.90`,
     precio_ars: `$20,36`
   },
   {
@@ -6446,7 +5802,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `10.80`,
     precio_ars: `$17,04`
   },
   {
@@ -6456,7 +5811,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.10`,
     precio_ars: `$4,89`
   },
   {
@@ -6466,7 +5820,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `4.60`,
     precio_ars: `$7,26`
   },
   {
@@ -6476,7 +5829,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `6.50`,
     precio_ars: `$10,26`
   },
   {
@@ -6486,7 +5838,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `9.40`,
     precio_ars: `$14,83`
   },
   {
@@ -6496,7 +5847,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `7.50`,
     precio_ars: `$11,84`
   },
   {
@@ -6506,7 +5856,6 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_usd: `20.50`,
     precio_ars: `$32,35`
   },
   {
@@ -6516,7 +5865,6 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_usd: `3.90`,
     precio_ars: `$6,15`
   },
   {
@@ -6526,7 +5874,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.80`,
     precio_ars: `$20,20`
   },
   {
@@ -6536,7 +5883,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `9.30`,
     precio_ars: `$14,68`
   },
   {
@@ -6546,7 +5892,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `13.00`,
     precio_ars: `$20,51`
   },
   {
@@ -6556,7 +5901,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_usd: `12.32`,
     precio_ars: `$19,44`
   },
 ];

@@ -12,7 +12,6 @@ with open("productos.js", "w", encoding="utf-8") as archivo_js:
         codigo = producto.get("codigo", "CODIGO NO DISPONIBLE")
         imagen = producto.get("imagen_url", "")  # aquí es imagen_url
         estado = producto.get("estado", "Desconocido")
-        precio_usd = producto.get("precio_usd", "0")
         precio_ars = producto.get("precio_ars", "0")
 
         # Asignar color y etiqueta según estado
@@ -34,7 +33,6 @@ with open("productos.js", "w", encoding="utf-8") as archivo_js:
         archivo_js.write(f"    estado: `{estado}`,\n")
         archivo_js.write(f"    color: `{color}`,\n")
         archivo_js.write(f"    etiqueta: `{label}`,\n")
-        archivo_js.write(f"    precio_usd: `{precio_usd}`,\n")
         archivo_js.write(f"    precio_ars: `{precio_ars}`\n")
         archivo_js.write("  },\n")
     archivo_js.write("];\n")
