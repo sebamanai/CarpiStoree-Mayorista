@@ -1,114 +1,76 @@
 import json
 import time
+from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from datetime import datetime
 
-# Ruta local al chromedriver (ajustala a tu path)
-chrome_driver_path = 'C:/Users/smanai/catalogo-mayorista/chromedriver.exe'
+URL = 'https://home-point.com.ar/mayorista'
+RECARGO_USD = 1.20  # 20% de recargo
 
+# Configurar Selenium
 options = Options()
-options.add_argument("--headless")
-options.add_argument("--disable-gpu")
-options.add_argument("--no-sandbox")
+options.add_argument('--headless')
+options.add_argument('--disable-gpu')
+options.add_argument('--no-sandbox')
+driver = webdriver.Chrome(options=options)
+driver.get(URL)
 
-service = Service(executable_path=chrome_driver_path)
-driver = webdriver.Chrome(service=service, options=options)
+# Esperar a que se cargue el contenido
+time.sleep(10)
 
-url_base = 'https://home-point.com.ar/mayorista'
-driver.get(url_base)
-
-todos_los_productos = []
-pagina_actual = 1
-
-def esperar_estado_valido(producto):
-    def estado_valido(driver):
-        try:
-            estado_span = producto.find_element(By.CSS_SELECTOR, 'div.stock-info span')
-            texto = estado_span.text.strip()
-            if texto != '' and texto != '⚠':
-                return estado_span
-            return False
-        except:
-            return False
-    return WebDriverWait(driver, 10).until(estado_valido)
-
-while True:
-    print(f"Procesando página {pagina_actual}...")
-
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_all_elements_located((By.CLASS_NAME, 'card'))
-        )
-        productos = driver.find_elements(By.CLASS_NAME, 'card')
-
-        print(f"  → Productos encontrados en esta página: {len(productos)}")
-
-        for i in range(len(productos)):
-            try:
-                productos = driver.find_elements(By.CLASS_NAME, 'card')
-                producto = productos[i]
-
-                codigo = producto.find_element(By.CSS_SELECTOR, 'input[type="hidden"]').get_attribute('value').strip()
-                nombre = producto.find_element(By.TAG_NAME, 'h3').text.strip()
-                imagen_url = producto.find_element(By.TAG_NAME, 'img').get_attribute('src').strip()
-
-                estado_span = esperar_estado_valido(producto)
-                estado_texto = estado_span.text.strip().lower()
-
-                if "sin stock" in estado_texto or "✗" in estado_texto:
-                    estado = "Sin Stock"
-                elif "pocas unidades" in estado_texto or "⚠ pocas unidades" in estado_texto:
-                    estado = "Pocas Unidades"
-                elif "disponible" in estado_texto or "✓" in estado_texto:
-                    estado = "Disponible"
-                else:
-                    estado = "Desconocido"
-
-                print(f"Estado raw detectado: '{estado_texto}' → Interpretado como: '{estado}'")
-
-                p_tags = producto.find_elements(By.TAG_NAME, 'p')
-                precio_usd = None
-                precio_ars = None
-                for p in p_tags:
-                    strong_text = p.find_element(By.TAG_NAME, 'strong').text.strip()
-                    if 'Valor USD' in strong_text:
-                        precio_usd = p.text.replace('Valor USD', '').strip()
-                    elif 'Valor $' in strong_text:
-                        precio_ars = p.text.replace('Valor $', '').strip()
-
-                todos_los_productos.append({
-                    'codigo': codigo,
-                    'nombre': nombre,
-                    'imagen_url': imagen_url,
-                    'estado': estado,
-                    'precio_usd': precio_usd,
-                    'precio_ars': precio_ars,
-                })
-
-            except Exception as e:
-                print(f"  [!] Error procesando un producto índice {i}: {e}")
-                continue
-
-        boton_siguiente = driver.find_elements(By.XPATH, '//button[text()="Siguiente"]')
-        if boton_siguiente:
-            driver.execute_script("arguments[0].click();", boton_siguiente[0])
-            time.sleep(3)
-            pagina_actual += 1
-        else:
-            print("No hay más páginas.")
-            break
-
-    except Exception as e:
-        print(f"[!] Error procesando la página {pagina_actual}: {e}")
-        break
-
+soup = BeautifulSoup(driver.page_source, 'html.parser')
 driver.quit()
 
-with open("productos.json", "w", encoding="utf-8") as archivo_json:
-    json.dump(todos_los_productos, archivo_json, indent=4, ensure_ascii=False)
+productos = []
+cotizacion_dolar = 0
 
-print(f"\n✅ Total productos extraídos: {len(todos_los_productos)}")
+# Obtener cotización del dólar
+for strong in soup.find_all("strong"):
+    if "Dólar" in strong.text:
+        try:
+            cotizacion_dolar = float(strong.text.split("$")[1].replace(",", ".").strip())
+        except:
+            cotizacion_dolar = 0
+        break
+
+# Extraer productos
+for card in soup.select('.card-product'):
+    nombre = card.select_one('.card-title')
+    codigo = card.select_one('.product-code')
+    imagen = card.select_one('img')
+    estado = card.select_one('.stock-label')
+    precio_dolar = card.select_one('.price')
+
+    if not all([nombre, codigo, imagen, estado, precio_dolar]):
+        continue
+
+    try:
+        precio_usd = float(precio_dolar.text.replace("USD", "").strip().replace(",", "."))
+        precio_usd *= RECARGO_USD  # Aplicar recargo del 20%
+        precio_ars = round(precio_usd * cotizacion_dolar, 2)
+    except:
+        continue
+
+    estado_texto = estado.text.strip()
+    if "Disponible" in estado_texto:
+        estado_icono = "🟢"
+    elif "Pocas Unidades" in estado_texto:
+        estado_icono = "🟡"
+    else:
+        estado_icono = "🔴"
+
+    productos.append({
+        'nombre': nombre.text.strip(),
+        'codigo': codigo.text.strip(),
+        'imagen': imagen['src'],
+        'estado': estado_icono,
+        'precio_usd': round(precio_usd, 2),
+        'precio_ars': precio_ars
+    })
+
+# Guardar archivo productos.json
+with open('productos.json', 'w', encoding='utf-8') as f:
+    json.dump(productos, f, ensure_ascii=False, indent=4)
+
+print(f"Se guardaron {len(productos)} productos con recargo del 20%.")
