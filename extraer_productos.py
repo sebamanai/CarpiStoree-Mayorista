@@ -75,15 +75,14 @@ while True:
                 precio_ars = None
                 for p in p_tags:
                     strong_text = p.find_element(By.TAG_NAME, 'strong').text.strip()
-                    if 'Valor USD' in strong_text:
-                        precio_usd = p.text.replace('Valor USD', '').strip()
-                    elif 'Valor $' in strong_text:
+                    if 'Valor $' in strong_text:
                         precio_ars_raw = p.text.replace('Valor $', '').strip()
-                        # Convertir precio ARS string a float para sumar 20%
+                        # Convertir a float sin recargo
                         precio_ars_num = float(precio_ars_raw.replace('$', '').replace('.', '').replace(',', '.'))
-                        precio_ars_num_con_recargo = round(precio_ars_num * 1.2, 2)
-                        # Formatear con símbolo $ y coma decimal
-                        precio_ars = f"${precio_ars_num_con_recargo:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+                        # Formatear con símbolo $ y coma decimal sin modificar valor
+                        precio_ars = f"${precio_ars_num:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+                        # Guardar solo precio_ars, sin precio_usd ni recargo
+
 
                 todos_los_productos.append({
                     'codigo': codigo,

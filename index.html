@@ -409,7 +409,8 @@
                     <img src="${p.imagen}" alt="${p.nombre}" />
                     <h2>${p.nombre}</h2>
                     <p><strong>Código:</strong> ${p.codigo}</p>
-                    <p><strong>Precio ARS:</strong> $${(parseFloat(p.precio_ars.replace('$', '').replace(',', '.')) * 1000).toLocaleString('es-AR')}</p>
+                    <p><strong>Precio ARS:</strong> $${(parseFloat(p.precio_ars.replace('$', '').replace(',', '.')) * 1000 * 1.2).toLocaleString('es-AR', {minimumFractionDigits: 0, maximumFractionDigits: 0})}</p>
+
 
 
 
