@@ -393,42 +393,55 @@
 
         // Mostrar productos con selección por clic
         function mostrarProductos(pagina = 1) {
-            grid.innerHTML = '';
+            grid.innerHTML = "";
 
-            const inicio = (pagina -1) * productosPorPagina;
+            const inicio = (pagina - 1) * productosPorPagina;
             const fin = inicio + productosPorPagina;
             const productosAMostrar = productosFiltrados.slice(inicio, fin);
 
-            productosAMostrar.forEach(p => {
-                const div = document.createElement('div');
-                div.className = 'producto';
-                div.style.setProperty('--color', p.color);
+            productosAMostrar.forEach((p) => {
+                const div = document.createElement("div");
+                div.className = "producto";
+                div.style.setProperty("--color", p.color);
+
+                // Cálculo de margen escalonado sobre el precio base
+                let precioBase = parseFloat(
+                    p.precio_ars.replace("$", "").replace(/\./g, "").replace(",", ".")
+                );
+                let porcentaje = 0;
+
+                if (precioBase <= 20000) {
+                    porcentaje = 0.30;
+                } else if (precioBase <= 50000) {
+                    porcentaje = 0.20;
+                } else if (precioBase > 50000) {
+                    porcentaje = 0.15;
+                }
+
+                const precioFinal = precioBase * (1 + porcentaje);
+                const precioFinalEntero = Math.round(precioFinal); // redondeo
 
                 div.innerHTML = `
                     <div class="etiqueta-estado">${p.etiqueta}</div>
                     <img src="${p.imagen}" alt="${p.nombre}" />
                     <h2>${p.nombre}</h2>
                     <p><strong>Código:</strong> ${p.codigo}</p>
-                    <p><strong>Precio ARS:</strong> $${(parseFloat(p.precio_ars.replace('$', '').replace(',', '.')) * 1000 * 1.2).toLocaleString('es-AR', {minimumFractionDigits: 0, maximumFractionDigits: 0})}</p>
-
-
-
-
+                    <p><strong>Precio ARS:</strong> $${precioFinalEntero}.000</p>
                 `;
 
-                div.addEventListener('click', () => {
-                    if(carritoCompras[p.codigo]){
+                div.addEventListener("click", () => {
+                    if (carritoCompras[p.codigo]) {
                         delete carritoCompras[p.codigo];
-                        div.classList.remove('seleccionado');
+                        div.classList.remove("seleccionado");
                     } else {
-                        carritoCompras[p.codigo] = { producto: p, cantidad: 1 };
-                        div.classList.add('seleccionado');
+                        carritoCompras[p.codigo] = { producto: { ...p, precio_ars: precioFinalEntero }, cantidad: 1 };
+                        div.classList.add("seleccionado");
                     }
                     actualizarCarrito();
                 });
 
-                if(carritoCompras[p.codigo]){
-                    div.classList.add('seleccionado');
+                if (carritoCompras[p.codigo]) {
+                    div.classList.add("seleccionado");
                 }
 
                 grid.appendChild(div);
@@ -440,41 +453,42 @@
 
         // Actualizar paginación
         function actualizarPaginacion() {
-            paginacion.innerHTML = '';
+            paginacion.innerHTML = "";
 
             const totalPaginas = Math.ceil(productosFiltrados.length / productosPorPagina);
 
-            const btnAnterior = document.createElement('button');
-            btnAnterior.textContent = 'Anterior';
+            const btnAnterior = document.createElement("button");
+            btnAnterior.textContent = "Anterior";
             btnAnterior.disabled = paginaActual === 1;
-            btnAnterior.onclick = () => mostrarProductos(paginaActual -1);
+            btnAnterior.onclick = () => mostrarProductos(paginaActual - 1);
             paginacion.appendChild(btnAnterior);
 
-            for(let i=1; i<=totalPaginas; i++){
-                const btn = document.createElement('button');
+            for (let i = 1; i <= totalPaginas; i++) {
+                const btn = document.createElement("button");
                 btn.textContent = i;
-                if(i === paginaActual){
-                    btn.classList.add('activo');
+                if (i === paginaActual) {
+                    btn.classList.add("activo");
                     btn.disabled = true;
                 }
                 btn.onclick = () => mostrarProductos(i);
                 paginacion.appendChild(btn);
             }
 
-            const btnSiguiente = document.createElement('button');
-            btnSiguiente.textContent = 'Siguiente';
+            const btnSiguiente = document.createElement("button");
+            btnSiguiente.textContent = "Siguiente";
             btnSiguiente.disabled = paginaActual === totalPaginas;
             btnSiguiente.onclick = () => mostrarProductos(paginaActual + 1);
             paginacion.appendChild(btnSiguiente);
         }
 
         // Filtrado productos
-        buscador.addEventListener('input', () => {
+        buscador.addEventListener("input", () => {
             const termino = buscador.value.trim().toLowerCase();
 
-            productosFiltrados = productos.filter(p => 
-                p.nombre.toLowerCase().includes(termino) ||
-                p.codigo.toLowerCase().includes(termino)
+            productosFiltrados = productos.filter(
+                (p) =>
+                    p.nombre.toLowerCase().includes(termino) ||
+                    p.codigo.toLowerCase().includes(termino)
             );
 
             mostrarProductos(1);
@@ -482,91 +496,103 @@
 
         // Actualizar carrito y mostrar
         function actualizarCarrito() {
-            itemsCarrito.innerHTML = '';
+            itemsCarrito.innerHTML = "";
 
             let total = 0;
-            Object.values(carritoCompras).forEach(({producto, cantidad}) => {
-                const div = document.createElement('div');
-                div.className = 'item';
+            Object.values(carritoCompras).forEach(({ producto, cantidad }) => {
+                const div = document.createElement("div");
+                div.className = "item";
 
                 const subtotal = producto.precio_ars * cantidad;
                 total += subtotal;
 
                 div.innerHTML = `
-                    <span>${producto.nombre} (x)</span>
+                    <span>${producto.nombre} (${producto.codigo})</span>
                     <input type="number" min="1" value="${cantidad}" />
-                    <span>$${subtotal.toLocaleString('es-AR', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</span>
+                    <span>$${Math.round(subtotal)}.000</span>
                     <button title="Eliminar">✕</button>
                 `;
 
                 // Cambiar cantidad
-                div.querySelector('input').addEventListener('change', e => {
+                const inputCant = div.querySelector("input");
+                inputCant.addEventListener("change", (e) => {
                     let val = parseInt(e.target.value);
-                    if(isNaN(val) || val < 1) val = 1;
+                    if (isNaN(val) || val < 1) {
+                        val = 1;
+                        e.target.value = 1;
+                    }
                     carritoCompras[producto.codigo].cantidad = val;
                     actualizarCarrito();
                 });
 
                 // Botón eliminar
-                div.querySelector('button').addEventListener('click', () => {
+                const btnEliminar = div.querySelector("button");
+                btnEliminar.addEventListener("click", () => {
                     delete carritoCompras[producto.codigo];
-                    // Quitar clase seleccionado del producto en grid
-                    const prodDivs = Array.from(grid.children);
-                    prodDivs.forEach(el => {
-                        if(el.querySelector('p strong') && el.querySelector('p strong').textContent === 'Código:'){
-                            if(el.querySelector('p').textContent.includes(producto.codigo)){
-                                el.classList.remove('seleccionado');
-                            }
-                        }
-                    });
+                    const prodDiv = [...grid.children].find(
+                        (child) => child.querySelector("p strong").textContent.includes(producto.codigo)
+                    );
+                    if (prodDiv) prodDiv.classList.remove("seleccionado");
                     actualizarCarrito();
                 });
 
                 itemsCarrito.appendChild(div);
             });
 
-            totalCarrito.textContent = total.toFixed(2);
+            totalCarrito.textContent = total.toLocaleString("es-AR", {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2,
+            });
         }
 
-        // Mostrar/Ocultar carrito
-        botonCarrito.addEventListener('click', () => {
-            if(carrito.style.display === 'flex'){
-                carrito.style.display = 'none';
-            } else {
-                carrito.style.display = 'flex';
-            }
-        });
-
         // Enviar pedido por WhatsApp
-        enviarPedidoBtn.addEventListener('click', () => {
-            if(Object.keys(carritoCompras).length === 0){
-                alert("El carrito está vacío");
-                return;
-            }
-            if(!inputNombre.value.trim() || !inputApellido.value.trim() || !inputDNI.value.trim()){
-                alert("Por favor completa todos los datos personales");
+        enviarPedidoBtn.addEventListener("click", () => {
+            const nombre = inputNombre.value.trim();
+            const apellido = inputApellido.value.trim();
+            const dni = inputDNI.value.trim();
+
+            if (!nombre || !apellido || !dni) {
+                alert("Por favor, complete todos los datos personales.");
                 return;
             }
 
-            let mensaje = `Hola, quiero hacer el siguiente pedido:%0A`;
-            mensaje += `Nombre: ${inputNombre.value.trim()} ${inputApellido.value.trim()}%0A`;
-            mensaje += `DNI: ${inputDNI.value.trim()}%0A`;
-            mensaje += `Productos:%0A`;
+            if (Object.keys(carritoCompras).length === 0) {
+                alert("Agregue al menos un producto al carrito.");
+                return;
+            }
 
-            Object.values(carritoCompras).forEach(({producto, cantidad}) => {
-                mensaje += `- ${producto.nombre} (Código: ${producto.codigo}) x${cantidad} - $${(producto.precio_ars * cantidad).toFixed(2)}%0A`;
+            let mensaje = `Hola, soy ${nombre} ${apellido} (DNI: ${dni}).\nQuiero hacer el siguiente pedido:\n\n`;
+
+            Object.values(carritoCompras).forEach(({ producto, cantidad }) => {
+                mensaje += `- ${producto.nombre} (Código: ${producto.codigo}) x ${cantidad} - $${(
+                    producto.precio_ars * cantidad
+                ).toLocaleString("es-AR", {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2,
+                })}\n`;
             });
 
-            mensaje += `Total: $${totalCarrito.textContent}`;
+            mensaje += `\nTotal: $${totalCarrito.textContent}`;
 
-            const url = `https://wa.me/5491123456789?text=${mensaje}`;  // Cambiar al número correcto
-
-            window.open(url, '_blank');
+            const url = `https://wa.me/5491161478127?text=${encodeURIComponent(mensaje)}`;
+            window.open(url, "_blank");
         });
 
-        // Inicio
+        // Toggle carrito
+        botonCarrito.addEventListener("click", () => {
+            carrito.style.display = carrito.style.display === "flex" ? "none" : "flex";
+        });
+
+        // Mostrar inicialmente todos los productos
         mostrarProductos();
 
+        // Marquee animación (reinicio infinito para que se vea bien)
+        const marquee = document.getElementById("marquee-text");
+        marquee.addEventListener("animationiteration", () => {
+            marquee.style.animation = "none";
+            marquee.offsetHeight; // force reflow
+            marquee.style.animation = null;
+        });
     </script>
 </body>
 </html>
