@@ -324,7 +324,7 @@
     <header class="leyenda">
         <div>
             <h1 id="marquee-text">
-                🛒 &nbsp; COMPRA MINIMA: 5 artículos iguales o $100.000 en varios artículos diferentes &nbsp; 🛍️ &nbsp; - &nbsp; 🚚 &nbsp; ENVÍOS A TODO EL PAÍS &nbsp; 📦
+                🛒 &nbsp; COMPRA MINIMA: 5 artículos iguales o $150.000 en varios artículos diferentes &nbsp; 🛍️ &nbsp; - &nbsp; 🚚 &nbsp; ENVÍOS A TODO EL PAÍS &nbsp; 📦
             </h1>
         </div>
     </header>
@@ -368,6 +368,73 @@
 
     <script src="productos.js"></script>
     <script>
+        // Función para parsear precio correcto desde JSON
+        function parsearPrecioAR(p) {
+        // Quitar signo $ y espacios
+        let raw = p.precio_ars.toString().replace("$", "").trim();
+        // Reemplazar coma decimal por punto
+        raw = raw.replace(",", ".");
+        // Convertir a float
+        let precioBase = parseFloat(raw);
+        // Multiplicar por 1000 para pasar a entero pesos
+        precioBase = precioBase * 1000;
+        if (isNaN(precioBase)) {
+            console.warn(`Precio inválido: ${p.precio_ars}`);
+        return NaN;
+        }
+        return precioBase;
+}
+
+
+        // Función que calcula el precio final con incremento según rangos
+        function calcularPrecioFinalDesdeP(p) {
+          let precioBase = parsearPrecioAR(p);
+
+          if (isNaN(precioBase)) {
+            return {
+              precioFinal: "Error",
+              precioFinalEntero: "Error",
+            };
+          }
+
+          let incremento;
+
+          if (precioBase <= 10000) {
+            incremento = 3000;
+          } else if (precioBase <= 20000) {
+            incremento = 4000;
+          } else if (precioBase <= 30000) {
+            incremento = 5000;
+          } else if (precioBase <= 40000) {
+            incremento = 7000;
+          } else if (precioBase <= 100000) {
+            incremento = 10000;
+          } else if (precioBase <= 150000) {
+            incremento = 20000;
+          } else if (precioBase <= 250000) {
+            incremento = 25000;
+          } else if (precioBase <= 300000) {
+            incremento = 30000;
+          } else if (precioBase <= 350000) {
+            incremento = 35000;
+          } else if (precioBase <= 400000) {
+            return {
+              precioFinal: "Consultar",
+              precioFinalEntero: "Consultar",
+            };
+          } else {
+            incremento = 0;
+          }
+
+          const precioFinal = precioBase + incremento;
+          const precioFinalEntero = Math.round(precioFinal);
+
+          return {
+            precioFinal,
+            precioFinalEntero,
+          };
+        }
+
         const productosPorPagina = 30;
         let productosFiltrados = [...productos];
         let paginaActual = 1;
@@ -404,29 +471,22 @@
                 div.className = "producto";
                 div.style.setProperty("--color", p.color);
 
-                // Cálculo de margen escalonado sobre el precio base
-                let precioBase = parseFloat(
-                    p.precio_ars.replace("$", "").replace(/\./g, "").replace(",", ".")
-                );
-                let porcentaje = 0;
+                const resultado = calcularPrecioFinalDesdeP(p);
 
-                if (precioBase <= 20000) {
-                    porcentaje = 0.30;
-                } else if (precioBase <= 50000) {
-                    porcentaje = 0.20;
-                } else if (precioBase > 50000) {
-                    porcentaje = 0.15;
+                let textoPrecio;
+
+                if (resultado.precioFinal === "Consultar" || resultado.precioFinal === "Error") {
+                  textoPrecio = resultado.precioFinal;
+                } else {
+                  textoPrecio = "$" + resultado.precioFinalEntero.toLocaleString("es-AR");
                 }
-
-                const precioFinal = precioBase * (1 + porcentaje);
-                const precioFinalEntero = Math.round(precioFinal); // redondeo
 
                 div.innerHTML = `
                     <div class="etiqueta-estado">${p.etiqueta}</div>
                     <img src="${p.imagen}" alt="${p.nombre}" />
                     <h2>${p.nombre}</h2>
                     <p><strong>Código:</strong> ${p.codigo}</p>
-                    <p><strong>Precio ARS:</strong> $${precioFinalEntero}.000</p>
+                    <p><strong>Precio ARS:</strong> ${textoPrecio}</p>
                 `;
 
                 div.addEventListener("click", () => {
@@ -434,7 +494,7 @@
                         delete carritoCompras[p.codigo];
                         div.classList.remove("seleccionado");
                     } else {
-                        carritoCompras[p.codigo] = { producto: { ...p, precio_ars: precioFinalEntero }, cantidad: 1 };
+                        carritoCompras[p.codigo] = { producto: { ...p, precio_ars: resultado.precioFinalEntero }, cantidad: 1 };
                         div.classList.add("seleccionado");
                     }
                     actualizarCarrito();
@@ -509,7 +569,7 @@
                 div.innerHTML = `
                     <span>${producto.nombre} (${producto.codigo})</span>
                     <input type="number" min="1" value="${cantidad}" />
-                    <span>$${Math.round(subtotal)}.000</span>
+                    <span>$${Math.round(subtotal).toLocaleString("es-AR")}</span>
                     <button title="Eliminar">✕</button>
                 `;
 
