@@ -20,6 +20,7 @@ driver = webdriver.Chrome(service=service, options=options)
 
 url_base = 'https://home-point.com.ar/mayorista'
 driver.get(url_base)
+time.sleep(10)  # Espera para que cargue bien la página
 
 todos_los_productos = []
 pagina_actual = 1
@@ -81,7 +82,6 @@ while True:
                         precio_ars_num = float(precio_ars_raw.replace('$', '').replace('.', '').replace(',', '.'))
                         # Formatear con símbolo $ y coma decimal sin modificar valor
                         precio_ars = f"${precio_ars_num:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
-                        # Guardar solo precio_ars, sin precio_usd ni recargo
 
 
                 todos_los_productos.append({
@@ -100,7 +100,7 @@ while True:
         boton_siguiente = driver.find_elements(By.XPATH, '//button[text()="Siguiente"]')
         if boton_siguiente:
             driver.execute_script("arguments[0].click();", boton_siguiente[0])
-            time.sleep(3)
+            time.sleep(10)  # Espera para que cargue bien la siguiente página
             pagina_actual += 1
         else:
             print("No hay más páginas.")

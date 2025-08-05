@@ -48,6 +48,8 @@ while True:
 
         print(f"  → Productos encontrados en esta página: {len(productos)}")
 
+        productos_validos_en_pagina = 0  # Nuevo: contador de productos con imagen y datos válidos
+
         for i in range(len(productos)):
             try:
                 productos = driver.find_elements(By.CLASS_NAME, 'card')
@@ -55,7 +57,12 @@ while True:
 
                 codigo = producto.find_element(By.CSS_SELECTOR, 'input[type="hidden"]').get_attribute('value').strip()
                 nombre = producto.find_element(By.TAG_NAME, 'h3').text.strip()
-                imagen_url = producto.find_element(By.TAG_NAME, 'img').get_attribute('src').strip()
+                
+                try:
+                    imagen_url = producto.find_element(By.TAG_NAME, 'img').get_attribute('src').strip()
+                except:
+                    print(f"  [!] Producto sin imagen en índice {i}, se omite.")
+                    continue
 
                 estado_span = esperar_estado_valido(producto)
                 estado_texto = estado_span.text.strip().lower()
@@ -83,7 +90,6 @@ while True:
                         # Formatear con símbolo $ y coma decimal sin modificar valor
                         precio_ars = f"${precio_ars_num:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
 
-
                 todos_los_productos.append({
                     'codigo': codigo,
                     'nombre': nombre,
@@ -93,9 +99,16 @@ while True:
                     'precio_ars': precio_ars,
                 })
 
+                productos_validos_en_pagina += 1  # Nuevo: contamos este producto válido
+
             except Exception as e:
                 print(f"  [!] Error procesando un producto índice {i}: {e}")
                 continue
+
+        # Nuevo: si no se encontró ningún producto válido, se detiene
+        if productos_validos_en_pagina == 0:
+            print("⚠️  No se encontraron productos válidos en esta página. Se asume fin del catálogo.")
+            break
 
         boton_siguiente = driver.find_elements(By.XPATH, '//button[text()="Siguiente"]')
         if boton_siguiente:
