@@ -119,6 +119,14 @@
                     <p><strong>Precio ARS:</strong> ${textoPrecio}</p>
                 `;
 
+                // Aquí agregamos el evento solo a la imagen:
+                const imgProducto = div.querySelector('img');
+                imgProducto.addEventListener('click', (e) => {
+                e.stopPropagation(); // Para que el click no afecte al div padre
+                abrirImagen(p.imagen, p.nombre); // Abrir imagen en overlay
+                });
+
+
                 div.addEventListener("click", () => {
                     if (carritoCompras[p.codigo]) {
                         delete carritoCompras[p.codigo];
@@ -282,4 +290,29 @@
             marquee.style.animation = "none";
             marquee.offsetHeight; // force reflow
             marquee.style.animation = null;
+        });
+
+        // Obtener elementos overlay
+        const overlay = document.getElementById('overlay-img');
+        const imgAmpliada = document.getElementById('img-ampliada');
+
+        // Función para abrir imagen ampliada
+        function abrirImagen(src, alt) {
+        imgAmpliada.src = src;
+        imgAmpliada.alt = alt;
+        overlay.style.display = 'flex';
+        }
+
+        // Función para cerrar imagen ampliada
+        function cerrarImagen() {
+        overlay.style.display = 'none';
+        imgAmpliada.src = '';
+        imgAmpliada.alt = '';
+        }
+
+        // Evento click en overlay para cerrar si clickeas fuera de la imagen
+        overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) {
+        cerrarImagen();
+        }
         });
