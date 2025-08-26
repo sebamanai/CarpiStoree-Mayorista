@@ -1,39 +1,39 @@
 const productos = [
   {
-    nombre: `PARLANTE 6,5 " X 2 MS1953BT`,
+    nombre: `PARLANTE 6,5 X 2 MS1953BT`,
     codigo: `11140`,
     imagen: `https://homepoint.site/img/11140.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$32,15`
+    precio_ars: `$32,62`
   },
   {
-    nombre: `PARLANTE 8" MS2067BT`,
+    nombre: `PARLANTE 8 MS2067BT`,
     codigo: `11139`,
     imagen: `https://homepoint.site/img/11139.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$28,25`
+    precio_ars: `$27,30`
   },
   {
-    nombre: `PARLANTE 4" X 2 MS3627BT`,
+    nombre: `PARLANTE 4 X 2 MS3627BT`,
     codigo: `11138`,
     imagen: `https://homepoint.site/img/11138.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$20,18`
+    precio_ars: `$20,48`
   },
   {
-    nombre: `PARLANTE 8" X 2 MS2052BT`,
+    nombre: `PARLANTE 8 X 2 MS2052BT`,
     codigo: `11137`,
     imagen: `https://homepoint.site/img/11137.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$37,66`
+    precio_ars: `$36,85`
   },
   {
     nombre: `KIT TALADRO Y AMOLADORA`,
@@ -42,7 +42,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$96,84`
+    precio_ars: `$98,28`
   },
   {
     nombre: `LIMPIAVIDRIOS CHICO`,
@@ -51,7 +51,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,15`
+    precio_ars: `$2,18`
   },
   {
     nombre: `SET 5 RECIPIENTE / TUPPER`,
@@ -60,7 +60,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,54`
+    precio_ars: `$16,79`
   },
   {
     nombre: `PROYECTOR CARRUSEL / PATO`,
@@ -69,7 +69,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$17,75`
+    precio_ars: `$18,02`
   },
   {
     nombre: `MINI BATIDOR Y PROCESADOR`,
@@ -78,7 +78,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,03`
+    precio_ars: `$11,19`
   },
   {
     nombre: `CHISPERO`,
@@ -87,16 +87,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,09`
+    precio_ars: `$3,14`
   },
   {
     nombre: `MORTERO MADERA BAMBU`,
     codigo: `11129`,
     imagen: `https://homepoint.site/img/11129.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$6,86`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$6,96`
   },
   {
     nombre: `PICADOR DE VERDURA MULTI GATLING SLICER`,
@@ -105,16 +105,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `MANQUINA PANCHUQUERA`,
     codigo: `11127`,
     imagen: `https://homepoint.site/img/11127.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,94`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$24,30`
   },
   {
     nombre: `QUENCHER VIDRIO Y SORBETE`,
@@ -123,7 +123,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,34`
+    precio_ars: `$8,19`
   },
   {
     nombre: `MASAJEADOR DE CUELLO`,
@@ -132,7 +132,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$21,39`
+    precio_ars: `$21,70`
   },
   {
     nombre: `RELOJ SMART DOBLE JUEGO AURICULAR`,
@@ -141,7 +141,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,54`
+    precio_ars: `$23,89`
   },
   {
     nombre: `PANEL SOLAR BK10`,
@@ -150,7 +150,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `ASAD ZANZIBAR`,
@@ -159,7 +159,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$33,62`
+    precio_ars: `$34,12`
   },
   {
     nombre: `LATTAFA PRIDE FAKHAR FEMENINO 100 ML`,
@@ -168,7 +168,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$49,77`
+    precio_ars: `$47,77`
   },
   {
     nombre: `LATTAFA OUD MOOD`,
@@ -177,7 +177,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$43,04`
+    precio_ars: `$40,95`
   },
   {
     nombre: `XIAOMI POCO M6 PRO`,
@@ -186,16 +186,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$282,45`
+    precio_ars: `$286,65`
   },
   {
     nombre: `CLUB DE NUIT ELIXIR`,
     codigo: `11118`,
     imagen: `https://homepoint.site/img/11118.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$56,49`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$57,33`
   },
   {
     nombre: `CLUB DE NUIT MILESTONE`,
@@ -204,7 +204,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$52,45`
+    precio_ars: `$50,51`
   },
   {
     nombre: `TV SMART 32 TALENT`,
@@ -213,7 +213,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$199,06`
+    precio_ars: `$202,02`
   },
   {
     nombre: `LLAVE KIT 216 PCS`,
@@ -222,7 +222,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$123,74`
+    precio_ars: `$125,58`
   },
   {
     nombre: `NEBULIZADOR`,
@@ -231,7 +231,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,05`
+    precio_ars: `$13,24`
   },
   {
     nombre: `TV BOX MX10`,
@@ -240,7 +240,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$32,28`
+    precio_ars: `$32,76`
   },
   {
     nombre: `CONSOLA RETRO GAME STICK BLANCA`,
@@ -249,7 +249,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$36,31`
+    precio_ars: `$36,85`
   },
   {
     nombre: `AUTO CONTROL REMOTO CYBERTRUCK`,
@@ -258,7 +258,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,95`
+    precio_ars: `$17,20`
   },
   {
     nombre: `CARTEL ABIERTO/KIOSCO`,
@@ -267,7 +267,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,63`
+    precio_ars: `$10,78`
   },
   {
     nombre: `CAMARA CON IMPRESORA INFANTIL`,
@@ -276,7 +276,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$24,75`
+    precio_ars: `$25,12`
   },
   {
     nombre: `SET TUPPER COLORES X 4 UNIDADES`,
@@ -285,7 +285,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `ORGANIZADOR LAVARROPA`,
@@ -294,7 +294,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,39`
+    precio_ars: `$21,70`
   },
   {
     nombre: `AURICULAR VINCHA CAPIBARA`,
@@ -303,16 +303,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,87`
   },
   {
     nombre: `LINTERNA PARLANTE SOLAR`,
     codigo: `11105`,
     imagen: `https://homepoint.site/img/11105.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$10,49`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$10,65`
   },
   {
     nombre: `LUZ VINCHA MINERA`,
@@ -321,7 +321,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,41`
+    precio_ars: `$9,55`
   },
   {
     nombre: `ALARGUE TORRE`,
@@ -330,7 +330,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$14,12`
+    precio_ars: `$14,33`
   },
   {
     nombre: `CEPILLO ELECTRICO DE DUCHA`,
@@ -339,7 +339,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$18,02`
+    precio_ars: `$18,29`
   },
   {
     nombre: `HUMIDIFICADOR TEMPLO`,
@@ -348,7 +348,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `LICUADORA GRANDE JARRA SVD-703`,
@@ -357,7 +357,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$34,97`
+    precio_ars: `$35,49`
   },
   {
     nombre: `POWER BANK 20.000 HYTOSHY DOBLE CABLE`,
@@ -366,7 +366,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,12`
+    precio_ars: `$14,33`
   },
   {
     nombre: `PISTA DINOSAURIO FLEXIBLE`,
@@ -375,7 +375,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,74`
+    precio_ars: `$15,97`
   },
   {
     nombre: `PIZARRA GRANDE CAPIBARA / LABUBU`,
@@ -384,7 +384,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,72`
+    precio_ars: `$6,83`
   },
   {
     nombre: `FOUNTAIN CHOCOLATE`,
@@ -393,7 +393,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$32,28`
+    precio_ars: `$32,76`
   },
   {
     nombre: `AUTO ANIMALES TRANSFORMABLES`,
@@ -402,7 +402,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,01`
+    precio_ars: `$9,15`
   },
   {
     nombre: `AUTO CONTROL REMOTO RUEDA GRANDE`,
@@ -411,7 +411,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$33,36`
+    precio_ars: `$33,85`
   },
   {
     nombre: `AURICULAR SAMSUNG GALAXY BUDS 3 PRO`,
@@ -420,7 +420,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `AURICULAR JBL TUNE K63`,
@@ -429,7 +429,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,11`
+    precio_ars: `$11,74`
   },
   {
     nombre: `AURICULAR VINCHA JBL J127`,
@@ -438,7 +438,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `MAQUINA DE COSER SM505A`,
@@ -447,16 +447,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$39,01`
+    precio_ars: `$39,59`
   },
   {
     nombre: `SECARROPA ELECTRICO`,
     codigo: `11089`,
     imagen: `https://homepoint.site/img/11089.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$29,46`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$29,89`
   },
   {
     nombre: `PARÑANTE 4 X 2 RGB ZQS4210S`,
@@ -465,7 +465,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,67`
+    precio_ars: `$24,02`
   },
   {
     nombre: `LUZ DE RELLENO GRANDE`,
@@ -474,7 +474,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$23,54`
+    precio_ars: `$23,89`
   },
   {
     nombre: `HUMIDIFICADOR ENCASTRE LEGO`,
@@ -483,7 +483,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `MOPA C/BALDE SEPARADORA DE AGUA`,
@@ -492,7 +492,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$12,97`
   },
   {
     nombre: `PARLANTE BOOMBOX 2 RGB`,
@@ -501,7 +501,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$37,09`
+    precio_ars: `$35,49`
   },
   {
     nombre: `PARLANTE BOOMBOX 3`,
@@ -510,7 +510,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$38,60`
+    precio_ars: `$36,85`
   },
   {
     nombre: `PAVA ELECTRICA PLEGABLE`,
@@ -519,7 +519,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,18`
+    precio_ars: `$12,29`
   },
   {
     nombre: `MOCHILA MATERNAL CUNA CAMBIADOR`,
@@ -528,16 +528,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$25,82`
+    precio_ars: `$24,57`
   },
   {
     nombre: `AURICULAR INPODS 12 COLORES`,
     codigo: `11080`,
     imagen: `https://homepoint.site/img/11080.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$4,04`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$4,09`
   },
   {
     nombre: `CINTA LEVANTA BUSTO`,
@@ -546,7 +546,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,15`
+    precio_ars: `$2,18`
   },
   {
     nombre: `CARTERA MAQUILLAJE TINY`,
@@ -555,7 +555,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `MAQUILLAJE BLISTER TINY`,
@@ -564,7 +564,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,56`
+    precio_ars: `$3,62`
   },
   {
     nombre: `LIBRETA ANIMADA`,
@@ -573,7 +573,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `GAS PIMIENTA LLAVERO`,
@@ -582,7 +582,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,56`
+    precio_ars: `$2,59`
   },
   {
     nombre: `MAQUILLAJE MARIPOSA`,
@@ -591,16 +591,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
+    precio_ars: `$17,75`
   },
   {
     nombre: `SONNY ANGELS`,
     codigo: `11073`,
     imagen: `https://homepoint.site/img/11073.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$2,83`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$2,87`
   },
   {
     nombre: `KIT BASKET`,
@@ -609,7 +609,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$33,62`
+    precio_ars: `$34,12`
   },
   {
     nombre: `MAQUILLAJE CARRUAJE`,
@@ -618,7 +618,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,67`
+    precio_ars: `$24,02`
   },
   {
     nombre: `MAQUILLAJE PALETA`,
@@ -627,7 +627,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,64`
+    precio_ars: `$12,83`
   },
   {
     nombre: `BATE BASEBALL`,
@@ -636,7 +636,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,71`
+    precio_ars: `$4,78`
   },
   {
     nombre: `MAQUILLAJE VALIJA TINY`,
@@ -645,7 +645,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$32,28`
+    precio_ars: `$32,76`
   },
   {
     nombre: `SORPRESA CAPIBARA BOLA`,
@@ -654,7 +654,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `LABUBU SORPRESA CHICO`,
@@ -663,7 +663,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,56`
+    precio_ars: `$2,59`
   },
   {
     nombre: `ROMPECABEZA CHICO`,
@@ -672,7 +672,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,56`
+    precio_ars: `$2,59`
   },
   {
     nombre: `GOMA LABUBU X4`,
@@ -681,7 +681,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `GUITARRA MUSICAL`,
@@ -690,16 +690,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,87`
   },
   {
     nombre: `TERMOMETRO COCINA`,
     codigo: `11062`,
     imagen: `https://homepoint.site/img/11062.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,63`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$3,69`
   },
   {
     nombre: `CALCULADORA DM-1200V`,
@@ -708,7 +708,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `SLIME BOTELLA`,
@@ -717,7 +717,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,50`
+    precio_ars: `$3,55`
   },
   {
     nombre: `PONY SALTARIN`,
@@ -726,7 +726,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$20,58`
+    precio_ars: `$20,89`
   },
   {
     nombre: `HAMBURGUESA CAJA`,
@@ -735,7 +735,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,50`
+    precio_ars: `$3,55`
   },
   {
     nombre: `HAMBURGUESA BLISTER`,
@@ -744,7 +744,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,63`
+    precio_ars: `$3,69`
   },
   {
     nombre: `CARRITO BEBE`,
@@ -753,16 +753,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,63`
+    precio_ars: `$3,69`
   },
   {
     nombre: `GUANTE TOUCH`,
     codigo: `11055`,
     imagen: `https://homepoint.site/img/11055.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$6,72`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$6,83`
   },
   {
     nombre: `DINOSAURIO A CUERDA`,
@@ -771,7 +771,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,50`
+    precio_ars: `$3,55`
   },
   {
     nombre: `PELUCHE CAPIBARA XXL 90 CM`,
@@ -780,7 +780,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$69,94`
+    precio_ars: `$70,98`
   },
   {
     nombre: `PELUCHE COLAPINTO GRANDE`,
@@ -789,7 +789,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$60,52`
+    precio_ars: `$61,42`
   },
   {
     nombre: `CAJA REGISTRADORA GRANDE`,
@@ -798,7 +798,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$14,53`
+    precio_ars: `$14,74`
   },
   {
     nombre: `CAJA REGISTRADORA CHICA`,
@@ -807,7 +807,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `AUTO R.CONTROL ARTICULADO CX-83`,
@@ -816,7 +816,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,77`
+    precio_ars: `$27,16`
   },
   {
     nombre: `AUTO R.CONTROL ARTICULADO SPIDERMAN CX-86Z`,
@@ -825,7 +825,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$38,47`
+    precio_ars: `$39,04`
   },
   {
     nombre: `AUTO R.CONTROL SPIDERMAN CX-81Z`,
@@ -834,7 +834,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,77`
+    precio_ars: `$27,16`
   },
   {
     nombre: `JUEGO DE OLLAS CON PLANCHA TOKIO 8`,
@@ -843,7 +843,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$63,22`
+    precio_ars: `$64,16`
   },
   {
     nombre: `LUZ DE EMERGENCIA SOLAR`,
@@ -852,7 +852,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,24`
+    precio_ars: `$12,42`
   },
   {
     nombre: `CINTA NEUROMUSCULAR KINESIOLOGICA`,
@@ -861,7 +861,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,29`
+    precio_ars: `$2,32`
   },
   {
     nombre: `RODILLERA DE COMPRESION`,
@@ -870,7 +870,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,36`
+    precio_ars: `$3,41`
   },
   {
     nombre: `JUEGO DE OLLAS CON M. DESMONTABLE Y SARTENES`,
@@ -879,7 +879,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$57,81`
+    precio_ars: `$58,67`
   },
   {
     nombre: `ASPIRADORA INALAMBRICA CON BATERIA`,
@@ -888,7 +888,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,70`
   },
   {
     nombre: `LICUADORA DE MANO 6 CUCHILLAS`,
@@ -897,7 +897,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,76`
+    precio_ars: `$8,89`
   },
   {
     nombre: `BOTELLA ATOMIZADOR SPRAY DE ACEITE`,
@@ -906,7 +906,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,05`
+    precio_ars: `$2,08`
   },
   {
     nombre: `MAQUINA AFEITADORA FLIPULPS`,
@@ -915,7 +915,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,00`
+    precio_ars: `$9,13`
   },
   {
     nombre: `RELOJ SMART T900`,
@@ -924,7 +924,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,63`
+    precio_ars: `$6,72`
   },
   {
     nombre: `PERRITO LABUBU SONIDOS`,
@@ -933,7 +933,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,80`
+    precio_ars: `$7,92`
   },
   {
     nombre: `LLAVERO LABUBU/CAPIBARA`,
@@ -942,7 +942,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,16`
+    precio_ars: `$3,21`
   },
   {
     nombre: `LUZ DE LED PARA BOTELLA`,
@@ -951,7 +951,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,61`
+    precio_ars: `$8,74`
   },
   {
     nombre: `SOPORTE CELULAR VIDEO MAKER`,
@@ -960,7 +960,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,88`
+    precio_ars: `$9,01`
   },
   {
     nombre: `CANDADO CON ALARMA`,
@@ -969,7 +969,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,59`
+    precio_ars: `$6,69`
   },
   {
     nombre: `BASE CARGADOR DOBLE JOYSTICK PS5`,
@@ -978,7 +978,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,34`
+    precio_ars: `$8,46`
   },
   {
     nombre: `SORPRESA CAPIBARA`,
@@ -987,7 +987,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,29`
+    precio_ars: `$2,32`
   },
   {
     nombre: `TENSIOMETRO DE BRAZO DSH397`,
@@ -996,7 +996,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$18,70`
+    precio_ars: `$18,97`
   },
   {
     nombre: `SECADOR DE PELO 2200 W 4 EN 1 CAUIPE`,
@@ -1005,7 +1005,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,37`
+    precio_ars: `$12,56`
   },
   {
     nombre: `PISTA DE AUTOS LABUBU PARKING LOT`,
@@ -1014,7 +1014,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,08`
+    precio_ars: `$17,34`
   },
   {
     nombre: `CARGADOR CELULAR 25W CON CABLE USB-C`,
@@ -1023,7 +1023,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `ESCURRIDOR DE TELA PARA CUBIERTOS`,
@@ -1032,7 +1032,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,55`
+    precio_ars: `$9,69`
   },
   {
     nombre: `PISTOLA BURBUJERO CON REPUESTO THC01`,
@@ -1041,7 +1041,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,03`
+    precio_ars: `$11,19`
   },
   {
     nombre: `TABLA DE MADERA Y MARMOL`,
@@ -1050,7 +1050,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,72`
+    precio_ars: `$13,92`
   },
   {
     nombre: `CHALECO FLUOR REFLEX`,
@@ -1059,7 +1059,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,61`
+    precio_ars: `$1,64`
   },
   {
     nombre: `VINCHA DEPORTIVA CON BLUETOOTH`,
@@ -1068,7 +1068,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,99`
+    precio_ars: `$7,10`
   },
   {
     nombre: `ORGANIZADOR ESQUINERO DE BAÑO`,
@@ -1077,7 +1077,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,18`
+    precio_ars: `$13,38`
   },
   {
     nombre: `ORGANIZADOR PARA BAÑO TW103`,
@@ -1086,7 +1086,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,91`
+    precio_ars: `$20,20`
   },
   {
     nombre: `VALIJA DE PINTURA 42 PCS`,
@@ -1095,7 +1095,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,23`
+    precio_ars: `$3,28`
   },
   {
     nombre: `VALIJA DE PINTURA 160 PCS`,
@@ -1104,7 +1104,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `MATE LISTO 750 ML ROLAN`,
@@ -1113,7 +1113,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,22`
+    precio_ars: `$17,47`
   },
   {
     nombre: `MATE LISTO 500 ML ROLAN`,
@@ -1122,7 +1122,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,01`
+    precio_ars: `$16,24`
   },
   {
     nombre: `PISTA LABUBU CAPIBARA`,
@@ -1131,7 +1131,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,24`
+    precio_ars: `$12,42`
   },
   {
     nombre: `PULSERA LABUBU`,
@@ -1140,7 +1140,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,44`
+    precio_ars: `$4,50`
   },
   {
     nombre: `CINTA METRICA CON LASER Y NIVEL`,
@@ -1149,7 +1149,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `CUTTER 188 MM BLISTER X 12`,
@@ -1158,7 +1158,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,30`
+    precio_ars: `$4,09`
   },
   {
     nombre: `CARGADOR PARA AUTO CON LUCES 4 EN 1`,
@@ -1167,7 +1167,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,87`
+    precio_ars: `$16,11`
   },
   {
     nombre: `CABLE CARGADOR 4 EN 1 SPRING`,
@@ -1176,7 +1176,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,09`
+    precio_ars: `$2,73`
   },
   {
     nombre: `LAPIZ DEPILADOR DE CARA / BOZO`,
@@ -1185,7 +1185,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,77`
+    precio_ars: `$3,82`
   },
   {
     nombre: `AVION FIGHTER PLANE`,
@@ -1194,7 +1194,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$29,32`
+    precio_ars: `$29,76`
   },
   {
     nombre: `PINZA 8 PULGADAS`,
@@ -1203,7 +1203,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,25`
+    precio_ars: `$5,32`
   },
   {
     nombre: `MINI PIMER SOKANY`,
@@ -1212,7 +1212,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$17,48`
+    precio_ars: `$17,75`
   },
   {
     nombre: `MANTA CISNE EDREDON INTERMEDIO 2 1/2`,
@@ -1221,7 +1221,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$21,92`
+    precio_ars: `$22,25`
   },
   {
     nombre: `TRIPODE ALTO`,
@@ -1230,7 +1230,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,11`
+    precio_ars: `$5,19`
   },
   {
     nombre: `CABEZAL CARGADOR APPLE`,
@@ -1239,16 +1239,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,23`
+    precio_ars: `$3,28`
   },
   {
     nombre: `CABLE LIGHTNING APPLE`,
     codigo: `11001`,
     imagen: `https://homepoint.site/img/11001.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$2,15`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$2,18`
   },
   {
     nombre: `CABLE USB-C APPLE`,
@@ -1257,7 +1257,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `TV SMART 43 BGH B4325FH5`,
@@ -1266,7 +1266,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$295,90`
+    precio_ars: `$300,30`
   },
   {
     nombre: `TV SMART 32 BGH B3223H5`,
@@ -1275,7 +1275,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$212,51`
+    precio_ars: `$215,67`
   },
   {
     nombre: `PARLANTE 4 pulg 4 X 2 SV 2401`,
@@ -1284,7 +1284,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$21,52`
+    precio_ars: `$21,84`
   },
   {
     nombre: `ASPIRADORA MOPA`,
@@ -1293,7 +1293,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$21,12`
+    precio_ars: `$21,43`
   },
   {
     nombre: `INFLADOR COMPRESOR RUEDA`,
@@ -1302,7 +1302,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,24`
+    precio_ars: `$12,42`
   },
   {
     nombre: `HORNO CAFETERO DESAYUNADOR`,
@@ -1311,7 +1311,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$72,63`
+    precio_ars: `$73,71`
   },
   {
     nombre: `LUNCHERA CONSERVADORA 6 LTS`,
@@ -1320,7 +1320,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,76`
+    precio_ars: `$9,55`
   },
   {
     nombre: `LIFTING MASAJEADOR`,
@@ -1329,7 +1329,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,11`
+    precio_ars: `$10,92`
   },
   {
     nombre: `PANEL LUZ LED SELFIE BM017`,
@@ -1338,7 +1338,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,95`
+    precio_ars: `$10,10`
   },
   {
     nombre: `BANQUETAS PVC REFORZADAS`,
@@ -1347,7 +1347,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,57`
+    precio_ars: `$4,64`
   },
   {
     nombre: `SET DE BANO BAMBU`,
@@ -1356,7 +1356,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `RELOJ DESPERTADOR ESPEJO LED DT6505`,
@@ -1365,7 +1365,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,25`
+    precio_ars: `$5,32`
   },
   {
     nombre: `CINTA AISLADORA PACK X 10`,
@@ -1374,16 +1374,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,09`
+    precio_ars: `$3,14`
   },
   {
     nombre: `AURICULARES X15`,
     codigo: `10986`,
     imagen: `https://homepoint.site/img/10986.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,38`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$5,46`
   },
   {
     nombre: `HUMIDIFICADOR VOLCAN MACHINE JL1028`,
@@ -1392,7 +1392,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,18`
+    precio_ars: `$13,38`
   },
   {
     nombre: `HUMIDIFICADOR FOGATA CON LLAMAS CNW21608 270ML`,
@@ -1401,7 +1401,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$23,40`
+    precio_ars: `$23,75`
   },
   {
     nombre: `MOPA SIN LAVADO A MANO DSH`,
@@ -1410,7 +1410,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,70`
   },
   {
     nombre: `AURICULAR A9S PRO`,
@@ -1419,7 +1419,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,38`
+    precio_ars: `$5,46`
   },
   {
     nombre: `LATTAFA ASAD BOURBON`,
@@ -1428,7 +1428,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$49,77`
+    precio_ars: `$50,51`
   },
   {
     nombre: `TAZA DE VIDRIO MEZCLADORA MIXER`,
@@ -1437,7 +1437,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,01`
+    precio_ars: `$16,24`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA X 24 PCS`,
@@ -1446,7 +1446,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,11`
+    precio_ars: `$5,19`
   },
   {
     nombre: `FREIDORA OM 6 LITROS`,
@@ -1455,7 +1455,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$73,97`
+    precio_ars: `$75,08`
   },
   {
     nombre: `DRONE PLEGABLE`,
@@ -1464,7 +1464,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,90`
+    precio_ars: `$27,30`
   },
   {
     nombre: `POWER BANK 10.000 MAH`,
@@ -1473,7 +1473,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `SALERO Y PIMENTERO ALUMINIO 8971`,
@@ -1482,7 +1482,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,97`
+    precio_ars: `$4,03`
   },
   {
     nombre: `SET ASADOR X 2 PCS ESTUCHE NEGRO`,
@@ -1491,7 +1491,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$7,94`
+    precio_ars: `$8,05`
   },
   {
     nombre: `ZAPATILLA ALARGUE 6 USB POWERSOCKET`,
@@ -1500,7 +1500,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `CANDADO PLATEADO TLO3543`,
@@ -1509,7 +1509,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,28`
+    precio_ars: `$1,30`
   },
   {
     nombre: `CANDADO PLATEADO 3546`,
@@ -1518,7 +1518,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `DISPENSER PORTA ESPONJA`,
@@ -1527,7 +1527,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,72`
+    precio_ars: `$6,83`
   },
   {
     nombre: `SOPORTE CELULAR PARA AUTO CH252`,
@@ -1536,16 +1536,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,04`
+    precio_ars: `$4,09`
   },
   {
     nombre: `SOPORTE CELULAR PARA AUTO CH290`,
     codigo: `10968`,
     imagen: `https://homepoint.site/img/10968.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$4,04`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$4,09`
   },
   {
     nombre: `LATTAFA BADEE NOBLE BLUSH`,
@@ -1554,16 +1554,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$44,38`
+    precio_ars: `$45,05`
   },
   {
     nombre: `LATTAFA OPULENT DUBAI`,
     codigo: `10966`,
     imagen: `https://homepoint.site/img/10966.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$39,01`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$39,59`
   },
   {
     nombre: `LATTAFA KHAMRAH DUKHAN`,
@@ -1572,7 +1572,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$63,22`
+    precio_ars: `$64,16`
   },
   {
     nombre: `CLUB DE NUIT WOMAN`,
@@ -1581,7 +1581,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$55,15`
+    precio_ars: `$49,14`
   },
   {
     nombre: `JUEGO DE LLAVE ALEN 9 PCS`,
@@ -1590,7 +1590,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,50`
+    precio_ars: `$3,55`
   },
   {
     nombre: `HUMIDIFICADOR PIEDRAS VOLCANICAS`,
@@ -1599,16 +1599,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$21,52`
+    precio_ars: `$21,84`
   },
   {
     nombre: `POWER BANK PORTATIL 20000 MAH`,
     codigo: `10961`,
     imagen: `https://homepoint.site/img/10961.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,74`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$15,97`
   },
   {
     nombre: `AURICULAR INALAMBRICO M88`,
@@ -1617,7 +1617,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,13`
+    precio_ars: `$6,22`
   },
   {
     nombre: `TAZA CAPUCCINO X 4 PCS`,
@@ -1626,7 +1626,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,30`
+    precio_ars: `$4,37`
   },
   {
     nombre: `JUEGO DE OLLAS 10 PCS WOVE`,
@@ -1635,7 +1635,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$71,15`
+    precio_ars: `$72,21`
   },
   {
     nombre: `FREIDORA DE AIRE OM 3,5 LITROS`,
@@ -1644,7 +1644,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$55,15`
+    precio_ars: `$55,97`
   },
   {
     nombre: `FREIDORA DE AIRE DIGITAL OM 4,5 LITROS`,
@@ -1653,7 +1653,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$63,08`
+    precio_ars: `$64,02`
   },
   {
     nombre: `LINTERNA PICANA 1101AR2786`,
@@ -1662,16 +1662,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,47`
+    precio_ars: `$8,60`
   },
   {
     nombre: `SET BOUTIQUE TOKYO CON HERRAMIENTAS`,
     codigo: `10954`,
     imagen: `https://homepoint.site/img/10954.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$64,29`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$65,25`
   },
   {
     nombre: `VELADOR CAPIBARA XJD-74`,
@@ -1680,16 +1680,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `VELADOR DE FORMAS`,
     codigo: `10952`,
     imagen: `https://homepoint.site/img/10952.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$9,24`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$9,38`
   },
   {
     nombre: `VELADOR SILICONA CONEJITO`,
@@ -1698,7 +1698,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `VELADOR CAPIBARA HONGO 339/340H`,
@@ -1707,7 +1707,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `VELADOR CAPIBARA COD343H`,
@@ -1716,7 +1716,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,44`
+    precio_ars: `$4,50`
   },
   {
     nombre: `ESPEJO MAQUILLADOR PLEGABLE 3 VIDRIOS`,
@@ -1725,7 +1725,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,60`
+    precio_ars: `$15,83`
   },
   {
     nombre: `AFEITADORA SHAVER CON VISOR BATERIA`,
@@ -1734,7 +1734,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,77`
+    precio_ars: `$3,82`
   },
   {
     nombre: `TV STICK BLANCO X10`,
@@ -1743,7 +1743,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$41,70`
+    precio_ars: `$39,59`
   },
   {
     nombre: `CORTAPELO VINTAGE T9`,
@@ -1752,7 +1752,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,34`
+    precio_ars: `$8,46`
   },
   {
     nombre: `CAFETERA EXPRESO 3 EN 1 CAPSULAS`,
@@ -1761,7 +1761,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$111,64`
+    precio_ars: `$113,30`
   },
   {
     nombre: `LUZ BALIZA SOLAR HB6609`,
@@ -1770,7 +1770,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,97`
+    precio_ars: `$11,14`
   },
   {
     nombre: `PARLANTE 4X2 GTS 1773 CON MICROFONO`,
@@ -1779,25 +1779,25 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `CORREA PARA PERRO RETRACTIL 5M`,
     codigo: `10940`,
     imagen: `https://homepoint.site/img/10940.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$7,94`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$8,05`
   },
   {
     nombre: `CAFETERA EXPRESO DOBLE TAZA OM`,
     codigo: `10939`,
     imagen: `https://homepoint.site/img/10939.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$110,96`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$112,61`
   },
   {
     nombre: `LUZ DE EMERGENCIA 60 LED STAR 220V`,
@@ -1806,7 +1806,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$9,95`
+    precio_ars: `$10,10`
   },
   {
     nombre: `JUEGO DE HERRAMIENTAS 150 PCS KTO`,
@@ -1815,7 +1815,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$38,33`
+    precio_ars: `$38,90`
   },
   {
     nombre: `JUEGO DE HERRAMIENTAS 108 PCS KTO`,
@@ -1824,7 +1824,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$55,55`
+    precio_ars: `$56,38`
   },
   {
     nombre: `VALIJA DE HERRAMIENTAS 245 PCS`,
@@ -1833,7 +1833,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$153,33`
+    precio_ars: `$155,61`
   },
   {
     nombre: `MANTA PELUCHE CAPIBARA`,
@@ -1842,7 +1842,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,52`
+    precio_ars: `$21,84`
   },
   {
     nombre: `TV SMART 32 XIAOMI`,
@@ -1851,7 +1851,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$228,65`
+    precio_ars: `$232,05`
   },
   {
     nombre: `CUCHILLO 6 MANGO MADERA`,
@@ -1860,7 +1860,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `CUCHILLO N 8 TRAMONTINA MANGO BLANCO`,
@@ -1869,7 +1869,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,35`
+    precio_ars: `$2,39`
   },
   {
     nombre: `SET BOUTIQUE TOKYO CON MARTILLO Y CIERRA`,
@@ -1878,7 +1878,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$87,42`
+    precio_ars: `$88,72`
   },
   {
     nombre: `CUCHILLA P9 MANGO CROMADO`,
@@ -1887,7 +1887,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,36`
+    precio_ars: `$3,41`
   },
   {
     nombre: `VASO CAPIBARA CON PELOTITAS`,
@@ -1896,16 +1896,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,87`
+    precio_ars: `$16,11`
   },
   {
     nombre: `LATTAFA YARA TOUS`,
     codigo: `10925`,
     imagen: `https://homepoint.site/img/10925.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$40,35`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$40,95`
   },
   {
     nombre: `PATILLERA RETRO NOVATIX`,
@@ -1914,7 +1914,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,98`
+    precio_ars: `$5,05`
   },
   {
     nombre: `MOVEDOR AUXILIAR DE MUEBLES`,
@@ -1923,7 +1923,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `CORTADORA PELO PARA PERRO`,
@@ -1932,7 +1932,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,43`
+    precio_ars: `$11,60`
   },
   {
     nombre: `PARLANTE 6,5 PULGADAS`,
@@ -1941,7 +1941,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$19,64`
+    precio_ars: `$19,93`
   },
   {
     nombre: `ARRANCADOR AUTO CON COMPRESOR`,
@@ -1950,7 +1950,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$64,43`
+    precio_ars: `$65,38`
   },
   {
     nombre: `CINTA DOBLE FAZ`,
@@ -1959,7 +1959,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$807,00`
+    precio_ars: `$819,00`
   },
   {
     nombre: `CABLE PARA BATERIA 1000 W`,
@@ -1968,7 +1968,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,80`
+    precio_ars: `$7,92`
   },
   {
     nombre: `LINGA TRAKA CON TENSOR`,
@@ -1977,7 +1977,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,83`
+    precio_ars: `$2,87`
   },
   {
     nombre: `ORGANIZADOR DE CUBIERTOS 10 PCS`,
@@ -1986,7 +1986,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,51`
+    precio_ars: `$12,70`
   },
   {
     nombre: `ORGANIZADOR DE CUBIERTOS 7 PCS`,
@@ -1995,7 +1995,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `PARLANTE 4 GTS 1868`,
@@ -2004,7 +2004,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,11`
+    precio_ars: `$12,29`
   },
   {
     nombre: `ORGANIZADOR DE COCINA DSH888`,
@@ -2013,7 +2013,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,64`
+    precio_ars: `$12,83`
   },
   {
     nombre: `PARLANTE 3 X 2 KTX1475`,
@@ -2022,7 +2022,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,37`
+    precio_ars: `$12,56`
   },
   {
     nombre: `CONTROL REMOTO 4K SMART ST404`,
@@ -2031,7 +2031,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `BASE HUB USB CARGA RAPIDA 66W`,
@@ -2040,7 +2040,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `PARLANTE JBL ALEXE GRANDE`,
@@ -2049,7 +2049,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$21,39`
+    precio_ars: `$21,70`
   },
   {
     nombre: `PARLANTE JBL ALEXE CHICO`,
@@ -2058,7 +2058,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$18,16`
+    precio_ars: `$18,43`
   },
   {
     nombre: `LAPIZ 3D`,
@@ -2067,7 +2067,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$11,70`
+    precio_ars: `$11,88`
   },
   {
     nombre: `ESPEJO VIAJERO`,
@@ -2076,7 +2076,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,84`
+    precio_ars: `$12,01`
   },
   {
     nombre: `HUMIDIFICADOR NUBE`,
@@ -2085,7 +2085,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$20,44`
+    precio_ars: `$20,75`
   },
   {
     nombre: `PAVA ELECTRICA AUTO 500 ML`,
@@ -2094,7 +2094,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,43`
+    precio_ars: `$11,60`
   },
   {
     nombre: `MASAJEDOR CORPORAL`,
@@ -2103,7 +2103,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$26,90`
+    precio_ars: `$27,30`
   },
   {
     nombre: `TIRA LED RGB TV LEED MOOD LIGHTS`,
@@ -2112,7 +2112,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,23`
+    precio_ars: `$3,28`
   },
   {
     nombre: `CAJA FICHERO POKER 200 FICHAS WTJM01`,
@@ -2121,7 +2121,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,18`
+    precio_ars: `$13,38`
   },
   {
     nombre: `PICADORA DE VERDURAS A CUERDA PVKA17`,
@@ -2130,7 +2130,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,12`
+    precio_ars: `$3,17`
   },
   {
     nombre: `TERMOMETRO PARA HOGAR`,
@@ -2139,7 +2139,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `UTENSILLOS SILICONA 5 PCS`,
@@ -2148,7 +2148,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,19`
+    precio_ars: `$6,28`
   },
   {
     nombre: `ESCURRIDOR EXTENSIBLE`,
@@ -2157,7 +2157,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,76`
+    precio_ars: `$10,92`
   },
   {
     nombre: `BUFANDA CALEFACTOR USB`,
@@ -2166,7 +2166,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,70`
+    precio_ars: `$18,97`
   },
   {
     nombre: `LLAVE T 24 PCS AMARILLA TL00311 TL0125`,
@@ -2175,7 +2175,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `MASAJEADOR PIE USB CALEFACCION`,
@@ -2184,7 +2184,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,14`
+    precio_ars: `$15,02`
   },
   {
     nombre: `CARGADOR DE AUTO CARG7`,
@@ -2193,7 +2193,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,36`
+    precio_ars: `$3,41`
   },
   {
     nombre: `SOPORTE MOVIL 32-75`,
@@ -2202,7 +2202,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,36`
+    precio_ars: `$26,75`
   },
   {
     nombre: `LAMPARA DE CAMPING UFO LIGHT 150 W`,
@@ -2211,7 +2211,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,62`
+    precio_ars: `$9,76`
   },
   {
     nombre: `COMEDERO / BEBEDERO PARA MASCOTAS`,
@@ -2220,7 +2220,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,31`
+    precio_ars: `$5,39`
   },
   {
     nombre: `PELUCHE MANTA FRAZADA`,
@@ -2229,7 +2229,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,52`
+    precio_ars: `$21,84`
   },
   {
     nombre: `MOUSE INALAMBRICO`,
@@ -2238,7 +2238,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,32`
+    precio_ars: `$6,42`
   },
   {
     nombre: `CAJA SORPRESA LABUBU`,
@@ -2247,7 +2247,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,11`
+    precio_ars: `$12,29`
   },
   {
     nombre: `DISPENSER VIDRIO BASE BAMBU X 2`,
@@ -2256,7 +2256,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,33`
+    precio_ars: `$15,56`
   },
   {
     nombre: `CAFETERA ELECTRICA ORYX`,
@@ -2265,7 +2265,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$30,67`
+    precio_ars: `$31,12`
   },
   {
     nombre: `HUMIDIFICADOR LLAMAS DQ-701/P775`,
@@ -2274,7 +2274,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,51`
+    precio_ars: `$12,70`
   },
   {
     nombre: `MAQUINA CORTADORAPELO HITOSHY WL-10002`,
@@ -2283,25 +2283,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `PAVA ELECTRICA DIGITAL`,
     codigo: `10881`,
     imagen: `https://homepoint.site/img/10881.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$29,19`
-  },
-  {
-    nombre: `VAPER SUPREME`,
-    codigo: `10880`,
-    imagen: `https://homepoint.site/img/10880.jpg`,
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,11`
+    precio_ars: `$27,30`
   },
   {
     nombre: `SABANA TORERO 3800 HILOS KING`,
@@ -2310,7 +2301,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$23,97`
+    precio_ars: `$24,32`
   },
   {
     nombre: `SABANA TORERO 3800 HILOS QUEEN`,
@@ -2319,7 +2310,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,12`
+    precio_ars: `$21,43`
   },
   {
     nombre: `SABANA TORERO 3800 HILOS FULL`,
@@ -2328,7 +2319,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,50`
+    precio_ars: `$19,79`
   },
   {
     nombre: `SABANA TORERO 3800 HILOS TWIN`,
@@ -2337,7 +2328,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$16,41`
+    precio_ars: `$16,65`
   },
   {
     nombre: `MANTA PIEL DE ANGEL`,
@@ -2346,16 +2337,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,79`
+    precio_ars: `$22,11`
   },
   {
     nombre: `LATTAFA TERIAQ EDP 100 ML`,
     codigo: `10874`,
     imagen: `https://homepoint.site/img/10874.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$45,73`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$46,41`
   },
   {
     nombre: `LATTAFA HIS CINFESSION EDO 100 ML`,
@@ -2364,7 +2355,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$48,42`
+    precio_ars: `$49,14`
   },
   {
     nombre: `LATTAFA HER CONFESSION EDO 100 ML`,
@@ -2373,7 +2364,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$48,42`
+    precio_ars: `$49,14`
   },
   {
     nombre: `LATTAFA ANGHAM EDP 100 ML`,
@@ -2382,7 +2373,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$43,04`
+    precio_ars: `$43,68`
   },
   {
     nombre: `LATTAFA MAAHIR LEGACY EDP 100 ML`,
@@ -2391,7 +2382,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$39,01`
+    precio_ars: `$39,59`
   },
   {
     nombre: `SOPORTE CELULAR C/ INDUCCION IS53175`,
@@ -2400,7 +2391,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,76`
+    precio_ars: `$10,92`
   },
   {
     nombre: `LLAVE TUBO 121 PCS`,
@@ -2409,7 +2400,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$87,42`
+    precio_ars: `$88,72`
   },
   {
     nombre: `JARRA CUBIERTOS BARRICHELO`,
@@ -2418,7 +2409,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,63`
+    precio_ars: `$10,78`
   },
   {
     nombre: `RELOJ SMART P9 ULTRA CON VINCHA AURICULAR`,
@@ -2427,7 +2418,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,83`
+    precio_ars: `$19,11`
   },
   {
     nombre: `AURICULAR INALAMBRICO Y80`,
@@ -2436,7 +2427,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,59`
+    precio_ars: `$6,69`
   },
   {
     nombre: `PARLANTE CON IMAN RUEDA`,
@@ -2445,7 +2436,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `LAPIZ DEPILADOR DE CEJAS DSH1082`,
@@ -2454,7 +2445,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,63`
+    precio_ars: `$3,69`
   },
   {
     nombre: `RAYADOR DE MANO WISHOME`,
@@ -2463,7 +2454,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,16`
+    precio_ars: `$3,21`
   },
   {
     nombre: `SET CUCHILLO COCINA 2 PCS`,
@@ -2472,7 +2463,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,11`
+    precio_ars: `$5,19`
   },
   {
     nombre: `ORGANIZADOR DE MESADA`,
@@ -2481,7 +2472,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$2,64`
+    precio_ars: `$2,67`
   },
   {
     nombre: `MASAJEADOR DE PIE PLANTILLA`,
@@ -2490,7 +2481,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,36`
+    precio_ars: `$10,51`
   },
   {
     nombre: `RASURADORA / AFEITADORA`,
@@ -2499,7 +2490,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,41`
+    precio_ars: `$16,65`
   },
   {
     nombre: `BATIDOR INALAMBRICA OURUYU`,
@@ -2508,7 +2499,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,22`
+    precio_ars: `$10,37`
   },
   {
     nombre: `MINI CAMARA CON IMPRESORA PERRITO`,
@@ -2517,7 +2508,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,50`
+    precio_ars: `$26,89`
   },
   {
     nombre: `SET CUCHILLO DE COCINA 3 PCS`,
@@ -2526,7 +2517,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,37`
+    precio_ars: `$7,48`
   },
   {
     nombre: `CARGADOR IPHONE PH14P`,
@@ -2535,7 +2526,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,38`
+    precio_ars: `$5,46`
   },
   {
     nombre: `SOPLADORA ORYX`,
@@ -2544,7 +2535,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$37,26`
+    precio_ars: `$37,81`
   },
   {
     nombre: `DISPENSER DE HUEVOS`,
@@ -2553,7 +2544,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `GUANTES INVIERNO`,
@@ -2562,7 +2553,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$1,08`
+    precio_ars: `$1,09`
   },
   {
     nombre: `CAFETERA INALAMBRICA`,
@@ -2571,7 +2562,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$78,01`
+    precio_ars: `$79,17`
   },
   {
     nombre: `SOPORTE TRIANGULAR AUTO`,
@@ -2580,7 +2571,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,09`
+    precio_ars: `$3,14`
   },
   {
     nombre: `MINI CAMARA INFANTIL`,
@@ -2589,7 +2580,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `GORRO AURICULAR CON BLUETOOTH`,
@@ -2598,7 +2589,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,55`
+    precio_ars: `$9,69`
   },
   {
     nombre: `BOTELLA INFANTIL 550 ML 4316`,
@@ -2607,7 +2598,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,11`
+    precio_ars: `$12,29`
   },
   {
     nombre: `SET DESTORNILLADOR LLAVE T 29 PCS`,
@@ -2616,7 +2607,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `ASPIRADORA REMOVEDOR PELO Y PELUSA`,
@@ -2625,7 +2616,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,88`
+    precio_ars: `$9,01`
   },
   {
     nombre: `ANTIFAZ PARA DORMIR MUSIC BLUETOOTH`,
@@ -2634,7 +2625,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,02`
+    precio_ars: `$8,13`
   },
   {
     nombre: `TAG LOCALIZADOR BLUETOOTH`,
@@ -2643,7 +2634,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,72`
+    precio_ars: `$6,83`
   },
   {
     nombre: `BODY ARABES`,
@@ -2652,7 +2643,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,39`
+    precio_ars: `$14,61`
   },
   {
     nombre: `MOTOROLA G15 4RAM/128GB`,
@@ -2661,7 +2652,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$190,99`
+    precio_ars: `$193,83`
   },
   {
     nombre: `XIAOMI POCO C75 6RAM/128GB`,
@@ -2670,7 +2661,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$164,09`
+    precio_ars: `$166,53`
   },
   {
     nombre: `SAMSUNG A05 4RAM/128GB`,
@@ -2679,7 +2670,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$147,95`
+    precio_ars: `$150,15`
   },
   {
     nombre: `ASPIRADORA ROBOT 8088`,
@@ -2688,7 +2679,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$25,55`
+    precio_ars: `$25,93`
   },
   {
     nombre: `FABRICA DE PIZZAS`,
@@ -2697,7 +2688,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$54,74`
+    precio_ars: `$55,56`
   },
   {
     nombre: `MINI MASAJEADOR PORTATIL PARCHE`,
@@ -2706,7 +2697,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,69`
+    precio_ars: `$2,46`
   },
   {
     nombre: `SOPORTE PARA AUTO F04 CAJA NEGRA`,
@@ -2715,7 +2706,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,83`
+    precio_ars: `$3,89`
   },
   {
     nombre: `TIMBRE CON CAMARA`,
@@ -2724,7 +2715,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,57`
+    precio_ars: `$11,74`
   },
   {
     nombre: `CALCULADORA COLORES CT2278`,
@@ -2733,7 +2724,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,78`
+    precio_ars: `$5,87`
   },
   {
     nombre: `DESTORNILLADOR X 2`,
@@ -2742,7 +2733,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,75`
+    precio_ars: `$1,77`
   },
   {
     nombre: `CARGADOR PORTATIL ESPADA`,
@@ -2751,7 +2742,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `LUZ PARA BICI CROO667`,
@@ -2760,7 +2751,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,83`
+    precio_ars: `$2,87`
   },
   {
     nombre: `SET COMPOTERA`,
@@ -2769,7 +2760,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,49`
+    precio_ars: `$2,52`
   },
   {
     nombre: `MOPA CON BALDE CENTRIFUGADO`,
@@ -2778,7 +2769,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$16,01`
+    precio_ars: `$16,24`
   },
   {
     nombre: `LASER NIVEL LT11`,
@@ -2787,7 +2778,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$7,40`
+    precio_ars: `$7,51`
   },
   {
     nombre: `PARAGUA NEGRO CHICO`,
@@ -2796,7 +2787,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `PARLANTE 4X2 KTX1526`,
@@ -2805,7 +2796,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,43`
+    precio_ars: `$11,60`
   },
   {
     nombre: `PARLANTE 4X2 KK666/655`,
@@ -2814,7 +2805,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,88`
+    precio_ars: `$20,18`
   },
   {
     nombre: `SOPORTE MOTO MTC63`,
@@ -2823,7 +2814,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,25`
+    precio_ars: `$5,32`
   },
   {
     nombre: `RELOJ ELEGANTE LAIBIN CINTURON Y ANTEOJOS`,
@@ -2832,7 +2823,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,50`
+    precio_ars: `$19,79`
   },
   {
     nombre: `RELOJ ELEGANTE FASHION GYFT IS53530`,
@@ -2841,7 +2832,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,91`
+    precio_ars: `$20,20`
   },
   {
     nombre: `AURORA CHERRY IN THE WOODS 100 ML`,
@@ -2850,7 +2841,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$75,32`
+    precio_ars: `$76,44`
   },
   {
     nombre: `AURORA VANILLA EXPRESSO 100 ML`,
@@ -2859,7 +2850,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$61,87`
+    precio_ars: `$62,79`
   },
   {
     nombre: `AL HAR AMBER OUD DUBAI NIGHT 100 ML`,
@@ -2868,7 +2859,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$80,70`
+    precio_ars: `$81,90`
   },
   {
     nombre: `AL HAR AMBER OUD AQUA DUBAI 100 ML`,
@@ -2877,7 +2868,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$84,73`
+    precio_ars: `$86,00`
   },
   {
     nombre: `LATTAFA THE KINGDOM 100 ML`,
@@ -2886,7 +2877,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$55,15`
+    precio_ars: `$55,97`
   },
   {
     nombre: `AFNAM 9 AM DIVE 100 ML`,
@@ -2895,7 +2886,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$57,84`
+    precio_ars: `$51,87`
   },
   {
     nombre: `ALARGUE T23 ZAPATILLA`,
@@ -2904,16 +2895,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$14,54`
+    precio_ars: `$14,76`
   },
   {
     nombre: `EXPRIMIDOR ELECTRICO SL21109`,
     codigo: `10803`,
     imagen: `https://homepoint.site/img/10803.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$14,10`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$14,30`
   },
   {
     nombre: `MICROFONO WI-FI`,
@@ -2922,7 +2913,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,41`
+    precio_ars: `$5,49`
   },
   {
     nombre: `UTENSILLOS KIT 19 PCS`,
@@ -2931,7 +2922,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$25,55`
+    precio_ars: `$25,93`
   },
   {
     nombre: `POWER BANK MI XIAOMI`,
@@ -2940,7 +2931,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,11`
+    precio_ars: `$12,29`
   },
   {
     nombre: `LENTES INTELIGENTES CON AUDIO M8PRO`,
@@ -2949,7 +2940,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `ALARGUE ZAPATILLA 424U`,
@@ -2958,7 +2949,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `MASAJEADOR C/ MANGO JC395`,
@@ -2967,7 +2958,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,91`
+    precio_ars: `$24,27`
   },
   {
     nombre: `RELOJ SMART ET22 ULTRA`,
@@ -2976,7 +2967,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,73`
+    precio_ars: `$8,86`
   },
   {
     nombre: `RELOJ SMART T800 ULTRA`,
@@ -2985,7 +2976,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `PARLANTE BLUETOOTH PORTATIL LED`,
@@ -2994,16 +2985,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,98`
-  },
-  {
-    nombre: `CAFETERA EXPRESSO DIGITAL SUONO`,
-    codigo: `10792`,
-    imagen: `https://homepoint.site/img/10792.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$111,64`
+    precio_ars: `$5,05`
   },
   {
     nombre: `SOFA INFLABLE`,
@@ -3012,7 +2994,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$24,21`
+    precio_ars: `$23,89`
   },
   {
     nombre: `SOPORTE PARA AUTO F02`,
@@ -3021,7 +3003,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `SOPORTE PLEGABLE`,
@@ -3030,7 +3012,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$4,51`
+    precio_ars: `$4,57`
   },
   {
     nombre: `LINTERNA SWAT 8081`,
@@ -3039,7 +3021,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,92`
+    precio_ars: `$6,01`
   },
   {
     nombre: `SOPORTE DE AUTO F05`,
@@ -3048,7 +3030,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,28`
+    precio_ars: `$3,33`
   },
   {
     nombre: `LAMPARA DOBLE DE ESCRITORIO A8`,
@@ -3057,7 +3039,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,41`
+    precio_ars: `$9,55`
   },
   {
     nombre: `CEPILLO DE PELO`,
@@ -3066,16 +3048,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,88`
+    precio_ars: `$1,77`
   },
   {
     nombre: `DESPERTADOR CON CARGADOR SZ07`,
     codigo: `10784`,
     imagen: `https://homepoint.site/img/10784.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,81`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$17,06`
   },
   {
     nombre: `RELOJ SMART 8 EN 1 D 200`,
@@ -3084,7 +3066,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$21,25`
+    precio_ars: `$21,57`
   },
   {
     nombre: `CEPILLO PELO 5 EN 1 HYTOSHY`,
@@ -3093,7 +3075,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$19,50`
+    precio_ars: `$19,79`
   },
   {
     nombre: `MiCROONDAS ORYX 20 L`,
@@ -3102,7 +3084,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$138,53`
+    precio_ars: `$140,59`
   },
   {
     nombre: `WOK`,
@@ -3111,7 +3093,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,99`
+    precio_ars: `$11,15`
   },
   {
     nombre: `PILA RECARGABLES AA USB`,
@@ -3120,7 +3102,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,10`
+    precio_ars: `$5,17`
   },
   {
     nombre: `MINIPIMER / BATIDORA 4 EN 1`,
@@ -3129,7 +3111,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$38,33`
+    precio_ars: `$38,90`
   },
   {
     nombre: `RELOJ DESPERTADOR`,
@@ -3138,7 +3120,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,20`
+    precio_ars: `$7,30`
   },
   {
     nombre: `CABLE CARGADOR USB-C`,
@@ -3147,7 +3129,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,41`
+    precio_ars: `$1,43`
   },
   {
     nombre: `SANDWICHERA ELECTRICA ACERO HYTOSHY`,
@@ -3156,7 +3138,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$18,16`
+    precio_ars: `$18,43`
   },
   {
     nombre: `PICADORA DE CARNE`,
@@ -3165,7 +3147,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$29,19`
+    precio_ars: `$29,62`
   },
   {
     nombre: `CANDADO MOTO/BICICLETA ULOCK 214`,
@@ -3174,7 +3156,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,68`
+    precio_ars: `$7,79`
   },
   {
     nombre: `FREIDORA ELECTRICA CON ACEITE`,
@@ -3183,7 +3165,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$55,55`
+    precio_ars: `$56,38`
   },
   {
     nombre: `LAMPARA RECARGABLE JL719`,
@@ -3192,7 +3174,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,42`
+    precio_ars: `$2,46`
   },
   {
     nombre: `CABEZAL CARGADOR CELULAR`,
@@ -3201,7 +3183,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,42`
+    precio_ars: `$3,47`
   },
   {
     nombre: `PAVA PARA AUTO 1 L`,
@@ -3210,7 +3192,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$17,75`
+    precio_ars: `$18,02`
   },
   {
     nombre: `RELOJ DE PARED`,
@@ -3219,7 +3201,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,67`
+    precio_ars: `$7,78`
   },
   {
     nombre: `TERMO BALA PLATA 500 CC`,
@@ -3228,7 +3210,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,34`
+    precio_ars: `$8,46`
   },
   {
     nombre: `BOTELLA TERMICA ROMANIA 660 ML`,
@@ -3237,7 +3219,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,41`
+    precio_ars: `$9,55`
   },
   {
     nombre: `SELLADOR AL VACIO COMIDA`,
@@ -3246,7 +3228,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,32`
+    precio_ars: `$13,51`
   },
   {
     nombre: `LICUADORA JARRA VIDRIO`,
@@ -3255,7 +3237,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$37,26`
+    precio_ars: `$37,81`
   },
   {
     nombre: `ESCURRIDOR GRANDE BLANCO Y NEGRO`,
@@ -3264,7 +3246,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,79`
+    precio_ars: `$16,02`
   },
   {
     nombre: `RELOJ SMART 10 MALLAS W10`,
@@ -3273,16 +3255,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `RELOJ SMART WATCH S10`,
     codigo: `10759`,
     imagen: `https://homepoint.site/img/10759.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$13,18`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$12,29`
   },
   {
     nombre: `CEPILLO DE LIMPIEZA ELECTRICO`,
@@ -3291,7 +3273,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,71`
+    precio_ars: `$10,87`
   },
   {
     nombre: `SET DESTORNILLADORES X 6 PCS`,
@@ -3300,7 +3282,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,65`
+    precio_ars: `$5,46`
   },
   {
     nombre: `PINZA X 3 PCS`,
@@ -3309,7 +3291,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,49`
+    precio_ars: `$5,57`
   },
   {
     nombre: `CASCO PARA BICICLETA`,
@@ -3318,7 +3300,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,87`
+    precio_ars: `$16,11`
   },
   {
     nombre: `CAFETERA ITALIANA 600 ML`,
@@ -3327,7 +3309,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$15,87`
+    precio_ars: `$16,11`
   },
   {
     nombre: `POWER BANK HASTA 25000 MAH`,
@@ -3336,7 +3318,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$26,90`
+    precio_ars: `$27,30`
   },
   {
     nombre: `POWER BANK HASTA 15000 MAH`,
@@ -3345,7 +3327,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
+    precio_ars: `$17,75`
   },
   {
     nombre: `ASPIRADORA ROBOT`,
@@ -3354,7 +3336,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$110,29`
+    precio_ars: `$111,93`
   },
   {
     nombre: `ASPIRADORA INDUSTRIAL 25 L`,
@@ -3363,7 +3345,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$88,77`
+    precio_ars: `$90,09`
   },
   {
     nombre: `ASPIRADORA INDUSTRIAL 15 L`,
@@ -3372,7 +3354,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$86,08`
+    precio_ars: `$87,36`
   },
   {
     nombre: `CONTADORA PLATA GADMIC`,
@@ -3381,7 +3363,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$79,36`
+    precio_ars: `$80,53`
   },
   {
     nombre: `CAFETERA ITALIANA`,
@@ -3390,7 +3372,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `INFLADOR OM 4 EN 1`,
@@ -3399,7 +3381,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$29,59`
+    precio_ars: `$30,03`
   },
   {
     nombre: `CONVECTOR MAGICLICK`,
@@ -3408,7 +3390,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$32,55`
+    precio_ars: `$33,03`
   },
   {
     nombre: `CHANGUITO CON RUEDAS`,
@@ -3417,7 +3399,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,64`
+    precio_ars: `$12,83`
   },
   {
     nombre: `BALANZA COMERCIAL LUO 40KG`,
@@ -3426,7 +3408,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$37,80`
+    precio_ars: `$38,36`
   },
   {
     nombre: `HUMIDIFICADOR XM-006`,
@@ -3435,7 +3417,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `LINTERNA MILITAR TACTICA P50KA`,
@@ -3444,7 +3426,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,07`
+    precio_ars: `$8,19`
   },
   {
     nombre: `CEPILLO SACA PELUSA`,
@@ -3453,7 +3435,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,38`
+    precio_ars: `$4,37`
   },
   {
     nombre: `CAJA DE CUBIERTO X 24 BARICHELLO`,
@@ -3462,7 +3444,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,09`
+    precio_ars: `$9,83`
   },
   {
     nombre: `LINTERNA LED DOBLE CAMPING`,
@@ -3471,7 +3453,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,78`
+    precio_ars: `$5,87`
   },
   {
     nombre: `VELADOR DE ESCRITORIO FLEXIBLE`,
@@ -3480,16 +3462,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$14,79`
+    precio_ars: `$15,02`
   },
   {
     nombre: `FREIDORA DE AIRE 3.5 L HYTOSHY`,
     codigo: `10735`,
     imagen: `https://homepoint.site/img/10735.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$55,15`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$55,97`
   },
   {
     nombre: `TOSTADORA ACERO`,
@@ -3498,7 +3480,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$22,86`
+    precio_ars: `$22,93`
   },
   {
     nombre: `CORTAPELO DALING SEMIPROFESIONAL DL-1167`,
@@ -3507,7 +3489,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$18,29`
+    precio_ars: `$18,56`
   },
   {
     nombre: `HUMIDIFICADOR VOLCAN 1265`,
@@ -3516,7 +3498,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `BALANZA PERSONAL DIGITAL`,
@@ -3525,16 +3507,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,30`
+    precio_ars: `$11,47`
   },
   {
     nombre: `SET CUCHILLOS X 6`,
     codigo: `10730`,
     imagen: `https://homepoint.site/img/10730.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$13,72`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$13,92`
   },
   {
     nombre: `MASAJEADOR PISTOLA MANO`,
@@ -3543,7 +3525,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,79`
+    precio_ars: `$12,29`
   },
   {
     nombre: `BATERIA COCINA ORYX`,
@@ -3552,61 +3534,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$43,71`
-  },
-  {
-    nombre: `VAPER RABBEATS`,
-    codigo: `10727`,
-    imagen: `https://homepoint.site/img/10727.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$10,76`
-  },
-  {
-    nombre: `VAPER GEEK SKYVIEW`,
-    codigo: `10726`,
-    imagen: `https://homepoint.site/img/10726.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
-  },
-  {
-    nombre: `VAPER GEEK PULSE`,
-    codigo: `10725`,
-    imagen: `https://homepoint.site/img/10725.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
-  },
-  {
-    nombre: `VAPER ELFBAR 10 K`,
-    codigo: `10724`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
-  },
-  {
-    nombre: `VAPER IGNITE V120`,
-    codigo: `10722`,
-    imagen: `https://homepoint.site/img/10722.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$14,12`
-  },
-  {
-    nombre: `VAPER VPLAY`,
-    codigo: `10719`,
-    imagen: `https://homepoint.site/img/10719.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$14,12`
+    precio_ars: `$44,36`
   },
   {
     nombre: `MOTOROLA E14`,
@@ -3615,7 +3543,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$119,70`
+    precio_ars: `$121,48`
   },
   {
     nombre: `AURICULAR VINCHA JBL`,
@@ -3624,7 +3552,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,74`
+    precio_ars: `$15,97`
   },
   {
     nombre: `AURICULAR AIRPODS PRO 2`,
@@ -3633,7 +3561,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,14`
+    precio_ars: `$16,38`
   },
   {
     nombre: `AURICULAR AIRPOD MAX`,
@@ -3642,7 +3570,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$23,94`
+    precio_ars: `$24,30`
   },
   {
     nombre: `FOCO DE LUZ CON CONTROL REMOTO`,
@@ -3651,7 +3579,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,77`
+    precio_ars: `$3,82`
   },
   {
     nombre: `BOLSA DE DORMIR`,
@@ -3660,7 +3588,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,11`
+    precio_ars: `$16,35`
   },
   {
     nombre: `AURICULAR M25`,
@@ -3669,7 +3597,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,50`
+    precio_ars: `$6,59`
   },
   {
     nombre: `LUZ PARA BICI DOBLE`,
@@ -3678,7 +3606,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,30`
+    precio_ars: `$4,37`
   },
   {
     nombre: `KIT PINTURA DIAMANTE`,
@@ -3687,7 +3615,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,56`
+    precio_ars: `$2,59`
   },
   {
     nombre: `PATILLERA DRAGON OM T99`,
@@ -3696,7 +3624,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$11,70`
+    precio_ars: `$11,88`
   },
   {
     nombre: `RELOJ SMART T500`,
@@ -3705,7 +3633,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,88`
+    precio_ars: `$8,00`
   },
   {
     nombre: `RELOJ SMART X10`,
@@ -3714,7 +3642,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,30`
+    precio_ars: `$11,47`
   },
   {
     nombre: `MOPA CON BALDE`,
@@ -3723,7 +3651,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `PARLANTE JBL FLIP 6`,
@@ -3732,7 +3660,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$21,52`
+    precio_ars: `$20,48`
   },
   {
     nombre: `AURICULAR P9`,
@@ -3741,7 +3669,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,41`
+    precio_ars: `$9,28`
   },
   {
     nombre: `PARLANTE KTS 2205 CILINDRICO 6.5`,
@@ -3750,7 +3678,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,52`
+    precio_ars: `$21,84`
   },
   {
     nombre: `BOTELLA DEPORTIVA 350 ML SPORT`,
@@ -3759,7 +3687,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,87`
   },
   {
     nombre: `SET DE PINTURAS PARA CHICOS VALIJA 145 PCS`,
@@ -3768,7 +3696,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$22,60`
+    precio_ars: `$22,93`
   },
   {
     nombre: `SOPORTE TV FIJO 40 A 80`,
@@ -3777,7 +3705,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,66`
+    precio_ars: `$8,79`
   },
   {
     nombre: `LUNCHERA ELECTRICA`,
@@ -3786,7 +3714,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$26,63`
+    precio_ars: `$27,03`
   },
   {
     nombre: `VAPORERA PLANCHA VAPOR`,
@@ -3795,7 +3723,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$37,12`
+    precio_ars: `$37,67`
   },
   {
     nombre: `PLANCHA PARA PELO HT858`,
@@ -3804,7 +3732,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,75`
+    precio_ars: `$9,90`
   },
   {
     nombre: `ESPEJO MAQUILLADOR LED Y VENTILADOR`,
@@ -3813,7 +3741,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,22`
+    precio_ars: `$10,37`
   },
   {
     nombre: `BALANZA COMERCIAL COLORES 40 KG`,
@@ -3822,7 +3750,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$40,62`
+    precio_ars: `$41,22`
   },
   {
     nombre: `BARRA DE SONIDO`,
@@ -3831,7 +3759,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$45,73`
+    precio_ars: `$46,41`
   },
   {
     nombre: `LAMPARA PORTALAPICERA`,
@@ -3840,7 +3768,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `XIAOMI REDMI 14C 16 GB 256`,
@@ -3849,7 +3777,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$199,06`
+    precio_ars: `$202,02`
   },
   {
     nombre: `XIAOMI REDMI 14C 8 GB 128`,
@@ -3858,7 +3786,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$158,71`
+    precio_ars: `$161,07`
   },
   {
     nombre: `ARO DE LED RGB`,
@@ -3867,7 +3795,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,50`
+    precio_ars: `$8,63`
   },
   {
     nombre: `VELADOR LUNA LUZ LED`,
@@ -3876,7 +3804,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,75`
+    precio_ars: `$12,94`
   },
   {
     nombre: `RELOJ APPLE WATCH`,
@@ -3885,16 +3813,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$34,97`
+    precio_ars: `$34,12`
   },
   {
     nombre: `BATERY PACK IPHONE`,
     codigo: `10684`,
     imagen: `https://homepoint.site/img/10684.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$10,76`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$10,92`
   },
   {
     nombre: `PARLANTE JBL CILINDRO`,
@@ -3903,7 +3831,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,45`
+    precio_ars: `$11,74`
   },
   {
     nombre: `PARLANTE JBL CLIP`,
@@ -3912,7 +3840,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,97`
+    precio_ars: `$12,15`
   },
   {
     nombre: `REMERA MULTIMARCA`,
@@ -3930,7 +3858,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$90,11`
+    precio_ars: `$79,17`
   },
   {
     nombre: `CARGADOR MAGSAFE`,
@@ -3939,7 +3867,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,55`
+    precio_ars: `$9,69`
   },
   {
     nombre: `PARLANTE JBL B42`,
@@ -3948,7 +3876,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$24,21`
+    precio_ars: `$24,57`
   },
   {
     nombre: `PARLANTE JBL CUADRADO`,
@@ -3957,7 +3885,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,45`
+    precio_ars: `$11,60`
   },
   {
     nombre: `AUTO ESTEREO DESMONTABLE`,
@@ -3966,7 +3894,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,58`
+    precio_ars: `$19,87`
   },
   {
     nombre: `BALANZA MINI ORO`,
@@ -3975,7 +3903,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `SECADOR PELO OSR 2200 W`,
@@ -3984,7 +3912,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `CAMARA DOMO DOBLE V380`,
@@ -3993,7 +3921,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$34,97`
+    precio_ars: `$35,49`
   },
   {
     nombre: `ANAFE VITROCERAMICO`,
@@ -4002,7 +3930,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$40,08`
+    precio_ars: `$40,68`
   },
   {
     nombre: `CAFETERA EXPRESO`,
@@ -4011,7 +3939,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$111,64`
+    precio_ars: `$113,30`
   },
   {
     nombre: `LATTAFA YARA CANDY`,
@@ -4020,7 +3948,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$41,70`
+    precio_ars: `$42,31`
   },
   {
     nombre: `MANTA PLUSH ROMBO CORDERITO TONO`,
@@ -4029,7 +3957,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$21,12`
+    precio_ars: `$21,43`
   },
   {
     nombre: `LATTAFA QAED AL FURSAN 90 ML`,
@@ -4038,7 +3966,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$34,97`
+    precio_ars: `$35,49`
   },
   {
     nombre: `LATTAFA YARA PINK 100 ML`,
@@ -4047,7 +3975,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$48,42`
+    precio_ars: `$49,14`
   },
   {
     nombre: `LATTAFA BADEE OUD FOR GLORY`,
@@ -4056,7 +3984,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$37,66`
+    precio_ars: `$38,22`
   },
   {
     nombre: `ARMAF CLUB DE NUIT UNTOLD 105 ML`,
@@ -4065,7 +3993,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$64,56`
+    precio_ars: `$65,52`
   },
   {
     nombre: `AL HAR AMBER OUD GOLD 120 ML`,
@@ -4074,7 +4002,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$83,39`
+    precio_ars: `$84,63`
   },
   {
     nombre: `ARMAF ODYSSEY MANDARIN SKY`,
@@ -4083,7 +4011,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$63,22`
+    precio_ars: `$64,16`
   },
   {
     nombre: `LATTAFA HAYA 100 ML`,
@@ -4092,7 +4020,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$44,38`
+    precio_ars: `$45,05`
   },
   {
     nombre: `LATTAFA PRIDE FAKHAR 100 ML`,
@@ -4101,7 +4029,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$44,38`
+    precio_ars: `$45,05`
   },
   {
     nombre: `ARMAF CLUB DE NUIT INTENSE 105 ML`,
@@ -4110,7 +4038,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$52,45`
+    precio_ars: `$53,23`
   },
   {
     nombre: `LATTAFA ASAD 100 ML`,
@@ -4119,7 +4047,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$41,70`
+    precio_ars: `$42,31`
   },
   {
     nombre: `LATTAFA KHAMRAH QAHWA 100 ML`,
@@ -4128,7 +4056,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$48,42`
+    precio_ars: `$49,14`
   },
   {
     nombre: `BHARARA KING 150 ML`,
@@ -4137,7 +4065,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$83,39`
+    precio_ars: `$84,63`
   },
   {
     nombre: `AFNAN 9 PM 100 ML`,
@@ -4146,7 +4074,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$55,15`
+    precio_ars: `$55,97`
   },
   {
     nombre: `LATTAFA BADEE AL OUD SUBLIME 100 ML`,
@@ -4155,7 +4083,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$40,35`
+    precio_ars: `$40,95`
   },
   {
     nombre: `LATTAFA YARA MOI 100 ML`,
@@ -4164,7 +4092,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$43,04`
+    precio_ars: `$42,31`
   },
   {
     nombre: `PLANCHA DE PELO ONDAS VT-8010`,
@@ -4173,7 +4101,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,62`
+    precio_ars: `$9,76`
   },
   {
     nombre: `AURICULAR M90`,
@@ -4182,7 +4110,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `PARLANTE ACUATICO P171`,
@@ -4191,7 +4119,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,83`
+    precio_ars: `$9,98`
   },
   {
     nombre: `PARLANTE PORTATIL RX07`,
@@ -4200,7 +4128,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,41`
+    precio_ars: `$9,55`
   },
   {
     nombre: `PARLANTE RUEDA TOKIO X-507`,
@@ -4209,7 +4137,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,46`
   },
   {
     nombre: `PARLANTEJK P70`,
@@ -4218,7 +4146,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `PARLANTE CUBO X912`,
@@ -4227,7 +4155,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,88`
+    precio_ars: `$9,01`
   },
   {
     nombre: `AURICULAR CON PANTALLA T600`,
@@ -4236,7 +4164,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,16`
+    precio_ars: `$18,43`
   },
   {
     nombre: `AURICULAR OWS HEADSET`,
@@ -4245,7 +4173,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,28`
+    precio_ars: `$9,42`
   },
   {
     nombre: `AURICULAR VINCHA CONEJO CON PELO MSL 835`,
@@ -4254,7 +4182,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,02`
+    precio_ars: `$18,29`
   },
   {
     nombre: `AMOLADORA INALAMBRICA PORTATIL STARDOM`,
@@ -4263,7 +4191,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$35,91`
+    precio_ars: `$36,45`
   },
   {
     nombre: `RELOJ TK500`,
@@ -4272,7 +4200,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$24,77`
+    precio_ars: `$25,14`
   },
   {
     nombre: `RELOJ A58`,
@@ -4281,7 +4209,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$22,86`
+    precio_ars: `$21,84`
   },
   {
     nombre: `RELOJ SMART ULTRA 2 7 EN 1`,
@@ -4290,7 +4218,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,79`
+    precio_ars: `$15,02`
   },
   {
     nombre: `RELOJ Y AURICULARES 3 EN 1`,
@@ -4299,7 +4227,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,83`
+    precio_ars: `$19,11`
   },
   {
     nombre: `ESPEJO GRANDE MAQUILLADOR CON LUZ`,
@@ -4308,16 +4236,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,44`
+    precio_ars: `$10,59`
   },
   {
     nombre: `SANDWICHERA 3 EN 1 HITOSHY`,
     codigo: `10622`,
     imagen: `https://homepoint.site/img/10622.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$37,66`
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
+    precio_ars: `$38,22`
   },
   {
     nombre: `VELADOR CAPIBARA COD368`,
@@ -4326,7 +4254,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,07`
+    precio_ars: `$6,96`
   },
   {
     nombre: `BATIDOR CAFE A PILA`,
@@ -4335,7 +4263,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,72`
+    precio_ars: `$1,75`
   },
   {
     nombre: `CORTAPELO 2 EN 1 NARIZ DALING`,
@@ -4344,7 +4272,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,05`
+    precio_ars: `$6,14`
   },
   {
     nombre: `RASURADORA PELO 3 EN 1 DALING`,
@@ -4353,7 +4281,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,16`
+    precio_ars: `$11,33`
   },
   {
     nombre: `SOPORTE MOVIL OM 32-60`,
@@ -4362,7 +4290,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$20,98`
+    precio_ars: `$21,29`
   },
   {
     nombre: `CUBIERTOS PLASTICO X 25 PCS`,
@@ -4371,16 +4299,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `LAMPARA VELADOR TOUCH`,
     codigo: `10615`,
     imagen: `https://homepoint.site/img/10615.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$8,61`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$8,33`
   },
   {
     nombre: `SOPORTE CELULAR MAGNETICO AUTO`,
@@ -4389,7 +4317,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,30`
+    precio_ars: `$4,37`
   },
   {
     nombre: `TECLADO CON MOUSE INALAMBRICO AN030`,
@@ -4398,7 +4326,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,95`
+    precio_ars: `$9,83`
   },
   {
     nombre: `ADAPTADOR UNIVERSAL LWJ`,
@@ -4407,7 +4335,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$3,47`
+    precio_ars: `$3,52`
   },
   {
     nombre: `INFLADOR MULTIUSO COLORES`,
@@ -4416,7 +4344,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `AURICULARES M19`,
@@ -4425,7 +4353,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,19`
+    precio_ars: `$5,27`
   },
   {
     nombre: `SET HERRAMIENTAS 108 PCS STARDOM`,
@@ -4434,7 +4362,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$46,40`
+    precio_ars: `$47,09`
   },
   {
     nombre: `ESTUFA VELA CUARZO VERTICAL`,
@@ -4443,7 +4371,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,85`
+    precio_ars: `$14,06`
   },
   {
     nombre: `HUMIDIFICADOR JSQ07`,
@@ -4452,7 +4380,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,19`
+    precio_ars: `$5,32`
   },
   {
     nombre: `ESPUMADOR CAFE`,
@@ -4461,16 +4389,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,93`
+    precio_ars: `$7,03`
   },
   {
     nombre: `TESTER DIGITAL MULTIMETRO`,
     codigo: `10599`,
     imagen: `https://homepoint.site/img/10599.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$8,50`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$8,63`
   },
   {
     nombre: `PAVA ELECTRICA DE COLORES`,
@@ -4479,7 +4407,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,70`
   },
   {
     nombre: `PAVA ELETRICA DE VIDRIO CON LUZ`,
@@ -4488,7 +4416,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,54`
+    precio_ars: `$16,79`
   },
   {
     nombre: `POWER BANK CHICO`,
@@ -4497,7 +4425,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `PISTOLA DE HIDROGEL`,
@@ -4506,7 +4434,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,54`
+    precio_ars: `$16,79`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 12u.`,
@@ -4515,7 +4443,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,44`
+    precio_ars: `$4,37`
   },
   {
     nombre: `PICADOR DE ALIMENTOS CHOPPER`,
@@ -4524,7 +4452,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,16`
+    precio_ars: `$3,21`
   },
   {
     nombre: `SET DESTORNILLADOR CON CUTTER`,
@@ -4533,7 +4461,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,29`
+    precio_ars: `$5,36`
   },
   {
     nombre: `CUTER GRANDE`,
@@ -4542,7 +4470,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$1,59`
+    precio_ars: `$1,61`
   },
   {
     nombre: `HUMIDIFICADOR BLUETHOOT T00K8`,
@@ -4551,7 +4479,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$25,18`
+    precio_ars: `$25,55`
   },
   {
     nombre: `MAQUINA ALGODON DE AZUCAR`,
@@ -4560,7 +4488,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$29,05`
+    precio_ars: `$29,48`
   },
   {
     nombre: `MAQUINA PASTAS PORTATIL`,
@@ -4569,7 +4497,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$24,47`
+    precio_ars: `$24,83`
   },
   {
     nombre: `PARLANTE KARAOKE K12`,
@@ -4578,7 +4506,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,16`
+    precio_ars: `$8,87`
   },
   {
     nombre: `HIDROLAVADORA STARDOM`,
@@ -4587,7 +4515,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$85,88`
+    precio_ars: `$87,16`
   },
   {
     nombre: `TAPON TERMO SISTEM`,
@@ -4596,7 +4524,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,69`
+    precio_ars: `$2,73`
   },
   {
     nombre: `MOCHILA INFANTIL XXL TRIPLE CIERRE`,
@@ -4605,7 +4533,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$16,14`
+    precio_ars: `$15,02`
   },
   {
     nombre: `AURICULAR M 20`,
@@ -4614,7 +4542,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,18`
+    precio_ars: `$5,25`
   },
   {
     nombre: `AUTO ESTEREO FIJO`,
@@ -4623,7 +4551,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,02`
   },
   {
     nombre: `CARTERA GOLFITO N 2459`,
@@ -4632,7 +4560,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$22,12`
+    precio_ars: `$22,45`
   },
   {
     nombre: `CARTERA GOLFITO CALPE N2260`,
@@ -4641,7 +4569,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$22,06`
+    precio_ars: `$22,39`
   },
   {
     nombre: `CARTERA SOHPIA NAPA 9312`,
@@ -4650,7 +4578,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$25,82`
+    precio_ars: `$26,21`
   },
   {
     nombre: `CARTERA BIN BIN 0003`,
@@ -4659,7 +4587,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$22,73`
+    precio_ars: `$23,07`
   },
   {
     nombre: `CARTERA COCO NAPA S-002`,
@@ -4668,7 +4596,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$26,09`
+    precio_ars: `$26,48`
   },
   {
     nombre: `SALERO PIMENTERO VIDRIO Y ACERO`,
@@ -4677,7 +4605,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$1,76`
+    precio_ars: `$1,79`
   },
   {
     nombre: `AURICULAR ULTRAPODS`,
@@ -4686,7 +4614,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,30`
+    precio_ars: `$4,23`
   },
   {
     nombre: `CARGADOR CELULAR 3.1 TIPO C`,
@@ -4695,7 +4623,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,95`
+    precio_ars: `$1,98`
   },
   {
     nombre: `PILA AA`,
@@ -4704,7 +4632,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$242,00`
+    precio_ars: `$246,00`
   },
   {
     nombre: `SOPORTE PARA AUTO`,
@@ -4713,7 +4641,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `PLANCHA DE PELO GW7029`,
@@ -4722,7 +4650,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,28`
+    precio_ars: `$9,42`
   },
   {
     nombre: `PROYECTOR REDONDO ESTRELLAS`,
@@ -4731,7 +4659,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,19`
+    precio_ars: `$6,28`
   },
   {
     nombre: `BATERIA LITIO`,
@@ -4740,7 +4668,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,70`
   },
   {
     nombre: `RALLADOR MANUAL ACCESORIOS X 4`,
@@ -4749,7 +4677,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `TRABA DISCO CON ALARMA`,
@@ -4758,7 +4686,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,37`
+    precio_ars: `$12,56`
   },
   {
     nombre: `EXPRIMIDOR ELECTRICO CITRUS JUICER`,
@@ -4767,7 +4695,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$18,29`
+    precio_ars: `$18,56`
   },
   {
     nombre: `CINTA METRICA 10m`,
@@ -4776,7 +4704,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,17`
+    precio_ars: `$4,23`
   },
   {
     nombre: `CINTA METRICA 7,5m`,
@@ -4785,7 +4713,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,09`
+    precio_ars: `$3,14`
   },
   {
     nombre: `CINTA METRICA 5m`,
@@ -4794,7 +4722,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,88`
+    precio_ars: `$1,91`
   },
   {
     nombre: `CINTA METRICA 3m`,
@@ -4803,7 +4731,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$1,61`
+    precio_ars: `$1,64`
   },
   {
     nombre: `CONTADORA DE BILLETES`,
@@ -4812,7 +4740,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$67,25`
+    precio_ars: `$65,52`
   },
   {
     nombre: `ARMADOR DE EMPANADAS`,
@@ -4821,7 +4749,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$4,04`
+    precio_ars: `$4,09`
   },
   {
     nombre: `PECHERA ANTIROBO`,
@@ -4830,7 +4758,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `TAZA AUTOMEZCLADORA`,
@@ -4839,7 +4767,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,89`
+    precio_ars: `$11,06`
   },
   {
     nombre: `BOLSO MATELASE MARWAL MATERA`,
@@ -4848,7 +4776,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,70`
+    precio_ars: `$11,88`
   },
   {
     nombre: `ASTRONAUTA CHICO SIN PARLANTE SM9`,
@@ -4857,7 +4785,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,51`
+    precio_ars: `$12,70`
   },
   {
     nombre: `MANGUERA LUZ BLANCA LED`,
@@ -4866,7 +4794,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,44`
+    precio_ars: `$7,55`
   },
   {
     nombre: `SET CONDIMENTERO`,
@@ -4875,7 +4803,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `DISPENSER DE BAÑO PLASTICO`,
@@ -4884,7 +4812,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,90`
+    precio_ars: `$3,96`
   },
   {
     nombre: `CAFETERA ELECTRICA JARRA`,
@@ -4893,7 +4821,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$20,44`
+    precio_ars: `$20,75`
   },
   {
     nombre: `TV BOX`,
@@ -4902,7 +4830,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$33,09`
+    precio_ars: `$31,39`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 60u.`,
@@ -4911,7 +4839,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,51`
+    precio_ars: `$11,60`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 48u.`,
@@ -4920,7 +4848,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,68`
+    precio_ars: `$8,87`
   },
   {
     nombre: `LAMPARA SOLAR 2 LED LAMPARA`,
@@ -4929,7 +4857,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,53`
+    precio_ars: `$7,64`
   },
   {
     nombre: `LAMPARA SOLAR 3 LEDS LAMPARA`,
@@ -4938,7 +4866,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,87`
   },
   {
     nombre: `CONSOLA RETRO NEGRO Y VERDE`,
@@ -4947,7 +4875,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$39,68`
+    precio_ars: `$40,27`
   },
   {
     nombre: `MATA MOSQUITOS SOLAR`,
@@ -4956,7 +4884,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$9,55`
+    precio_ars: `$9,69`
   },
   {
     nombre: `CAMARA 4K SPORTS`,
@@ -4965,7 +4893,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$27,30`
+    precio_ars: `$27,71`
   },
   {
     nombre: `SET ASADOR ACERO Y MADERA 3 PCS ESTUCHE NEGRO`,
@@ -4974,7 +4902,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,84`
+    precio_ars: `$12,01`
   },
   {
     nombre: `LUZ RGB LUO CON CONTROL`,
@@ -4983,7 +4911,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,99`
+    precio_ars: `$7,10`
   },
   {
     nombre: `PICADORA ELECTRICA ORYX`,
@@ -4992,7 +4920,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$25,55`
+    precio_ars: `$25,93`
   },
   {
     nombre: `ESCURRIDOR PLEGABLE`,
@@ -5001,7 +4929,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,63`
+    precio_ars: `$3,69`
   },
   {
     nombre: `AURICULAR RGB VINCHA`,
@@ -5010,7 +4938,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,22`
+    precio_ars: `$17,47`
   },
   {
     nombre: `RELOJ SMART 8 MALLAS`,
@@ -5019,7 +4947,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$15,20`
+    precio_ars: `$15,43`
   },
   {
     nombre: `TV STICK GAME RETRO`,
@@ -5028,7 +4956,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$43,71`
+    precio_ars: `$44,36`
   },
   {
     nombre: `LUCES 3 SPOT CON CONTROL REMOTO`,
@@ -5037,7 +4965,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,78`
+    precio_ars: `$5,60`
   },
   {
     nombre: `AUTO PARLANTE`,
@@ -5046,7 +4974,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$25,42`
+    precio_ars: `$25,80`
   },
   {
     nombre: `SECADOR Y PLANCHA DE PELO COMBO`,
@@ -5055,7 +4983,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$24,75`
+    precio_ars: `$25,12`
   },
   {
     nombre: `PLANCHA DE PELO Y CEPILLO SECADOR COMBO`,
@@ -5064,7 +4992,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$30,80`
+    precio_ars: `$31,26`
   },
   {
     nombre: `VENTILADOR METALICO 18 3 EN 1`,
@@ -5073,7 +5001,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$37,66`
+    precio_ars: `$38,22`
   },
   {
     nombre: `PIZARRA MAGICA PERSONAJES GRANDE`,
@@ -5082,7 +5010,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,21`
+    precio_ars: `$8,33`
   },
   {
     nombre: `PIZARRA MAGICA PERSONAJES CHICA`,
@@ -5091,7 +5019,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,84`
+    precio_ars: `$4,91`
   },
   {
     nombre: `SET HERRAMIENTAS 129 PCS FR2262`,
@@ -5100,7 +5028,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$26,13`
+    precio_ars: `$26,52`
   },
   {
     nombre: `PANEL MATA MOSQUITO OM 757`,
@@ -5109,7 +5037,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$11,03`
+    precio_ars: `$11,19`
   },
   {
     nombre: `CARGADOR NOTEBOOK UNIVERSAL`,
@@ -5118,7 +5046,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,94`
+    precio_ars: `$8,05`
   },
   {
     nombre: `CORTAPELO 3 CABEZALES USB OM`,
@@ -5127,7 +5055,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,43`
+    precio_ars: `$11,60`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 80u.`,
@@ -5136,7 +5064,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$14,53`
+    precio_ars: `$13,65`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 40u.`,
@@ -5145,7 +5073,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,41`
+    precio_ars: `$8,19`
   },
   {
     nombre: `CEPILLO MOLDEADOR 5 EN 1 OM`,
@@ -5154,7 +5082,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,43`
+    precio_ars: `$18,70`
   },
   {
     nombre: `PURIFICADOR DE AGUA`,
@@ -5163,7 +5091,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,85`
+    precio_ars: `$5,94`
   },
   {
     nombre: `PLANCHA PELO CON BUCLERA`,
@@ -5172,7 +5100,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,97`
+    precio_ars: `$12,15`
   },
   {
     nombre: `MOCHILA INFANTIL`,
@@ -5181,7 +5109,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$13,18`
+    precio_ars: `$13,38`
   },
   {
     nombre: `PROYECTOR ANDROID 4K`,
@@ -5190,7 +5118,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$65,91`
+    precio_ars: `$66,89`
   },
   {
     nombre: `LICUADORA DEPORTIVA 600 ML ORYX`,
@@ -5199,7 +5127,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$37,66`
+    precio_ars: `$38,22`
   },
   {
     nombre: `CORTA PELO 2 PCS OM KM1948`,
@@ -5208,16 +5136,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,74`
-  },
-  {
-    nombre: `AURICULAR PANTALLA NEGRO YX29`,
-    codigo: `10402`,
-    imagen: `https://homepoint.site/img/10402.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$20,04`
+    precio_ars: `$15,97`
   },
   {
     nombre: `DESTORNILLADOR SET 41 PCS`,
@@ -5226,7 +5145,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,67`
+    precio_ars: `$4,74`
   },
   {
     nombre: `LUNCHERA TERMICA`,
@@ -5235,7 +5154,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$11,03`
+    precio_ars: `$11,19`
   },
   {
     nombre: `VENTILADOR PORTATIL DE MESA`,
@@ -5244,7 +5163,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$19,50`
+    precio_ars: `$19,79`
   },
   {
     nombre: `SOPORTE COLGANTE CELULAR`,
@@ -5253,7 +5172,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$942,00`
+    precio_ars: `$956,00`
   },
   {
     nombre: `CAMARA DIGITAL CON IMPRESORA`,
@@ -5262,16 +5181,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$33,62`
+    precio_ars: `$34,12`
   },
   {
     nombre: `LUZ ESTRELLAS CON PARLANTE`,
     codigo: `10395`,
-    imagen: `https://homepoint.site/img/10395.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,21`
+    precio_ars: `$8,33`
   },
   {
     nombre: `ATORNILLADOR INALAMBRICO KIT`,
@@ -5280,16 +5199,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,59`
+    precio_ars: `$13,79`
   },
   {
     nombre: `KIT HERRAMIENTAS LLAVES COMBINADAS`,
     codigo: `10390`,
-    imagen: `https://homepoint.site/img/10390.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$12,64`
+    precio_ars: `$12,83`
   },
   {
     nombre: `PLANCHA ELECTRICA CON GRILL PA2208`,
@@ -5298,7 +5217,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$40,35`
+    precio_ars: `$40,95`
   },
   {
     nombre: `LAMPARA GIRATORIA LUZ CALIDAD Y COLORES HW978`,
@@ -5307,7 +5226,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,01`
+    precio_ars: `$9,15`
   },
   {
     nombre: `SPINNER CON LUCES PELOTA O DISCO`,
@@ -5316,7 +5235,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,65`
+    precio_ars: `$5,73`
   },
   {
     nombre: `PARLANTE STEPHY YS110`,
@@ -5325,7 +5244,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$18,16`
+    precio_ars: `$18,43`
   },
   {
     nombre: `GAME BOX X7M PANTALLA Y JOYSTICK`,
@@ -5334,7 +5253,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,60`
+    precio_ars: `$15,83`
   },
   {
     nombre: `MINIPIMER 5 EN 1 LUMA BELLA`,
@@ -5343,7 +5262,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$39,27`
+    precio_ars: `$39,86`
   },
   {
     nombre: `LAMPARA VELADOR LED ANIMALITOS T512`,
@@ -5352,7 +5271,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,38`
+    precio_ars: `$5,46`
   },
   {
     nombre: `VELADOR JIRAFA`,
@@ -5361,7 +5280,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,05`
+    precio_ars: `$6,14`
   },
   {
     nombre: `ARRANCADOR DE AUTO`,
@@ -5370,7 +5289,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$47,34`
+    precio_ars: `$48,05`
   },
   {
     nombre: `TV STICK`,
@@ -5379,7 +5298,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$33,62`
+    precio_ars: `$32,76`
   },
   {
     nombre: `KIT UTENSILLOS COCINA`,
@@ -5388,7 +5307,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,72`
+    precio_ars: `$13,51`
   },
   {
     nombre: `AURICULAR DEPORTIVO MANOS LIBRES`,
@@ -5397,7 +5316,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,72`
+    precio_ars: `$6,83`
   },
   {
     nombre: `AURICULAR CON PANTALLA BLANCO`,
@@ -5406,16 +5325,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,79`
+    precio_ars: `$15,02`
   },
   {
     nombre: `CORTADORA DE PAPAS FRITAS`,
     codigo: `10365`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/10365.jpg`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,96`
+    precio_ars: `$3,00`
   },
   {
     nombre: `MANDOLINA GRANDE 2022`,
@@ -5424,7 +5343,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `SET DE SARTENES 3 PCS ORIX`,
@@ -5433,7 +5352,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$24,75`
+    precio_ars: `$25,12`
   },
   {
     nombre: `RAQUETA MATA MOSQUITOS CON BASE`,
@@ -5442,7 +5361,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,91`
+    precio_ars: `$10,06`
   },
   {
     nombre: `SARTEN MULTIFUNCION 3 EN 1`,
@@ -5451,7 +5370,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,97`
+    precio_ars: `$12,15`
   },
   {
     nombre: `PICADORA MINI USB`,
@@ -5460,7 +5379,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,71`
+    precio_ars: `$4,78`
   },
   {
     nombre: `CUBIERTERO DE COCINA BY-889`,
@@ -5469,7 +5388,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,72`
+    precio_ars: `$6,55`
   },
   {
     nombre: `HUMIDIFICADOR FOGATA`,
@@ -5478,16 +5397,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `DESTORNILLADOR 115 EN 1`,
     codigo: `10351`,
     imagen: `https://homepoint.site/img/10351.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$8,74`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$8,87`
   },
   {
     nombre: `AURICULAR INALAMBRICO A6S/E6S`,
@@ -5496,16 +5415,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,11`
+    precio_ars: `$5,19`
   },
   {
     nombre: `INFLADOR INALAMBRICO 3 EN 1`,
     codigo: `10349`,
     imagen: `https://homepoint.site/img/10349.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$25,55`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$25,93`
   },
   {
     nombre: `TIMBRE INALAMBRICO`,
@@ -5514,7 +5433,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,57`
+    precio_ars: `$4,64`
   },
   {
     nombre: `PATILLERA RETRO OM`,
@@ -5523,7 +5442,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,80`
+    precio_ars: `$7,92`
   },
   {
     nombre: `SOPLADORA CON 2 BATERIAS`,
@@ -5532,16 +5451,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$49,77`
-  },
-  {
-    nombre: `MATE ALPACA`,
-    codigo: `10337`,
-    imagen: `https://homepoint.site/img/10337.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
+    precio_ars: `$50,51`
   },
   {
     nombre: `MINI IMPRESORA`,
@@ -5550,7 +5460,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,47`
+    precio_ars: `$15,70`
   },
   {
     nombre: `TENDER ROPA`,
@@ -5559,7 +5469,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$24,21`
+    precio_ars: `$23,20`
   },
   {
     nombre: `PICADORA MANUAL PARA VERDURAS`,
@@ -5568,7 +5478,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,25`
+    precio_ars: `$5,32`
   },
   {
     nombre: `PANQUEQUERA ELECTRICA`,
@@ -5577,7 +5487,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$19,23`
+    precio_ars: `$19,52`
   },
   {
     nombre: `EXPRIMIDOR ELECTRICO`,
@@ -5586,7 +5496,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,06`
+    precio_ars: `$15,29`
   },
   {
     nombre: `ARO LED RGB CON TRIPODE`,
@@ -5595,7 +5505,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `OLLA ELECTRICA`,
@@ -5604,7 +5514,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$30,80`
+    precio_ars: `$31,26`
   },
   {
     nombre: `ESCURRIDOR ADAPTABLE PVC`,
@@ -5613,7 +5523,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,78`
+    precio_ars: `$5,87`
   },
   {
     nombre: `SACACORCHO PARA VINO USB`,
@@ -5622,7 +5532,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,41`
+    precio_ars: `$8,19`
   },
   {
     nombre: `AURICULAR M10`,
@@ -5631,7 +5541,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,98`
+    precio_ars: `$5,05`
   },
   {
     nombre: `BOTELLA INFANTIL 500 ML YQ`,
@@ -5640,7 +5550,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,64`
+    precio_ars: `$12,83`
   },
   {
     nombre: `MASAJEADOR CERVICAL`,
@@ -5649,7 +5559,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$23,81`
+    precio_ars: `$24,16`
   },
   {
     nombre: `LAMPARA LED SOLAR BK-100`,
@@ -5658,7 +5568,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,44`
+    precio_ars: `$4,37`
   },
   {
     nombre: `SANDWICHERA PANINI ORYX OR-1700`,
@@ -5667,7 +5577,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$25,02`
+    precio_ars: `$25,39`
   },
   {
     nombre: `LAMPARA MATA MOSQUITOS`,
@@ -5676,7 +5586,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,46`
+    precio_ars: `$6,55`
   },
   {
     nombre: `VENTILADOR DE PIE`,
@@ -5685,7 +5595,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$33,62`
+    precio_ars: `$34,12`
   },
   {
     nombre: `LICUADORA PORTATIL`,
@@ -5694,7 +5604,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,26`
+    precio_ars: `$7,37`
   },
   {
     nombre: `MOCHILA ANTI-ROBO`,
@@ -5703,7 +5613,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,59`
+    precio_ars: `$13,79`
   },
   {
     nombre: `MARCADORES DOBLE PUNTA x 30u.`,
@@ -5712,7 +5622,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,19`
   },
   {
     nombre: `RAQUETA MATA MOSQUITOS`,
@@ -5721,7 +5631,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,05`
+    precio_ars: `$6,14`
   },
   {
     nombre: `MAQUINA POCHOCLERA`,
@@ -5730,7 +5640,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$35,78`
+    precio_ars: `$36,31`
   },
   {
     nombre: `ASPIRADORA DE MANO`,
@@ -5739,7 +5649,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,78`
+    precio_ars: `$5,19`
   },
   {
     nombre: `BATIDORA MANUAL`,
@@ -5748,7 +5658,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,08`
+    precio_ars: `$12,26`
   },
   {
     nombre: `SECAPLATO ESCURRIDOR`,
@@ -5757,7 +5667,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,98`
+    precio_ars: `$19,26`
   },
   {
     nombre: `BRAZO DUCHA`,
@@ -5766,16 +5676,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,69`
+    precio_ars: `$2,73`
   },
   {
     nombre: `PELOTA FUTBOL`,
     codigo: `10263`,
     imagen: `https://homepoint.site/img/10263.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$5,92`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$6,01`
   },
   {
     nombre: `CONSOLA PORTATIL GAME BOX`,
@@ -5784,7 +5694,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$9,15`
+    precio_ars: `$9,28`
   },
   {
     nombre: `PARLANTE KARAOKE REDONDO`,
@@ -5793,16 +5703,16 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$11,84`
+    precio_ars: `$12,01`
   },
   {
     nombre: `MAQUINA BOXEO`,
     codigo: `10242`,
-    imagen: `https://homepoint.site/img/10242.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$38,06`
+    precio_ars: `$38,63`
   },
   {
     nombre: `CORTINA BLACK OUT TEXTIL LINO`,
@@ -5811,16 +5721,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$30,93`
+    precio_ars: `$28,66`
   },
   {
     nombre: `PIZARRA MAGICA 12`,
     codigo: `10235`,
-    imagen: `https://homepoint.site/img/10235.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,69`
+    precio_ars: `$2,73`
   },
   {
     nombre: `MONOPATIN PLEGABLE`,
@@ -5829,7 +5739,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,54`
+    precio_ars: `$23,89`
   },
   {
     nombre: `BURBUJERO`,
@@ -5838,7 +5748,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$1,48`
+    precio_ars: `$1,50`
   },
   {
     nombre: `VASO CAFETERO PUSH`,
@@ -5847,16 +5757,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,88`
+    precio_ars: `$9,01`
   },
   {
     nombre: `CONTROL REMOTO UNIVERSAL`,
     codigo: `10223`,
     imagen: `https://homepoint.site/img/10223.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$3,36`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$3,41`
   },
   {
     nombre: `GRIFERIA MONOCOMANDO ALTA NEGRA`,
@@ -5865,7 +5775,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$20,18`
+    precio_ars: `$20,48`
   },
   {
     nombre: `LUZ NEON`,
@@ -5874,7 +5784,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$8,61`
+    precio_ars: `$8,74`
   },
   {
     nombre: `CACTUS BAILARIN SIN ROPA`,
@@ -5883,7 +5793,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,40`
+    precio_ars: `$7,51`
   },
   {
     nombre: `FOCO PARLANTE`,
@@ -5892,7 +5802,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `FOCO GIRATORIO CON ESTRELLAS`,
@@ -5901,7 +5811,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$2,29`
+    precio_ars: `$2,32`
   },
   {
     nombre: `MONOPATIN CANASTO PERSONAJES`,
@@ -5910,7 +5820,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$23,13`
+    precio_ars: `$23,48`
   },
   {
     nombre: `BALANZA PERSONAL 180 KG`,
@@ -5919,7 +5829,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,95`
+    precio_ars: `$9,55`
   },
   {
     nombre: `PITON MOTO`,
@@ -5928,7 +5838,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$6,19`
+    precio_ars: `$6,28`
   },
   {
     nombre: `HIDROLAVADORA PORTATIL`,
@@ -5937,7 +5847,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$42,37`
+    precio_ars: `$43,00`
   },
   {
     nombre: `TALADRO INALAMBRICO KIT 24 PCS`,
@@ -5946,7 +5856,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$41,70`
+    precio_ars: `$42,31`
   },
   {
     nombre: `AFEITADORA SHAVER`,
@@ -5955,7 +5865,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `CORTADORA PELO TRANSPARENTE`,
@@ -5964,7 +5874,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,32`
+    precio_ars: `$5,87`
   },
   {
     nombre: `PROYECTOR ASTRONAUTA CON PARLANTE`,
@@ -5973,7 +5883,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,64`
+    precio_ars: `$19,11`
   },
   {
     nombre: `KIT HERRAMIENTAS TUBO 53 PCS`,
@@ -5982,7 +5892,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,79`
+    precio_ars: `$15,02`
   },
   {
     nombre: `VASO CAFETERO`,
@@ -5991,7 +5901,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,28`
+    precio_ars: `$9,42`
   },
   {
     nombre: `ESTUFA DOS VELAS HORIZONTAL CUARZO`,
@@ -6000,7 +5910,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$19,77`
+    precio_ars: `$20,07`
   },
   {
     nombre: `ESPEJO LED`,
@@ -6009,7 +5919,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,67`
+    precio_ars: `$7,78`
   },
   {
     nombre: `SECADOR PELO SY2436 OM`,
@@ -6018,7 +5928,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,91`
+    precio_ars: `$12,29`
   },
   {
     nombre: `PLANCHA A VAPOR ROPA 1172F`,
@@ -6027,7 +5937,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$19,64`
+    precio_ars: `$19,93`
   },
   {
     nombre: `CONSOLA RETRO STICK M15`,
@@ -6036,7 +5946,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$34,97`
+    precio_ars: `$35,49`
   },
   {
     nombre: `CEPILLO ALISADOR`,
@@ -6045,7 +5955,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$12,78`
+    precio_ars: `$12,97`
   },
   {
     nombre: `CALOVENTOR / CONVECTOR`,
@@ -6054,7 +5964,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$17,62`
+    precio_ars: `$17,88`
   },
   {
     nombre: `MONOCOMANDO GRIFERIA BANO CORTA RORY`,
@@ -6063,7 +5973,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,05`
+    precio_ars: `$12,56`
   },
   {
     nombre: `PATILLERA RETRO`,
@@ -6072,7 +5982,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,77`
+    precio_ars: `$3,55`
   },
   {
     nombre: `RELOJ INTELIGENTE T20 ULTRA 2`,
@@ -6081,12 +5991,12 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$13,45`
+    precio_ars: `$13,65`
   },
   {
     nombre: `MINIPIMER LUMABELLA COMUN`,
     codigo: `10158`,
-    imagen: `https://homepoint.site/img/10158.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -6099,7 +6009,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$15,60`
+    precio_ars: `$15,83`
   },
   {
     nombre: `MAQUINA CUPKES`,
@@ -6108,7 +6018,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$34,97`
+    precio_ars: `$35,49`
   },
   {
     nombre: `CACTUS BAILARIN CON ROPA`,
@@ -6117,7 +6027,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$7,67`
+    precio_ars: `$7,78`
   },
   {
     nombre: `PLANCHA PELO SZPL047`,
@@ -6126,7 +6036,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,69`
+    precio_ars: `$10,85`
   },
   {
     nombre: `AURICULAR KD38`,
@@ -6135,7 +6045,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,76`
+    precio_ars: `$10,92`
   },
   {
     nombre: `AURICULAR VINCHA K12`,
@@ -6144,7 +6054,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,00`
+    precio_ars: `$8,12`
   },
   {
     nombre: `KIT HERRAMIENTAS TUBO 108 PCS`,
@@ -6153,7 +6063,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$56,22`
+    precio_ars: `$57,06`
   },
   {
     nombre: `MAQUINA DONAS`,
@@ -6162,7 +6072,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$33,29`
+    precio_ars: `$33,78`
   },
   {
     nombre: `AURICULAR GAMER`,
@@ -6171,7 +6081,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,59`
+    precio_ars: `$6,69`
   },
   {
     nombre: `MATE LISTO 750 ML`,
@@ -6180,7 +6090,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$13,32`
+    precio_ars: `$13,10`
   },
   {
     nombre: `MOTOSIERRA CHICA`,
@@ -6189,7 +6099,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$39,01`
+    precio_ars: `$39,59`
   },
   {
     nombre: `LINGA MOTO 22mm`,
@@ -6198,7 +6108,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,02`
+    precio_ars: `$8,13`
   },
   {
     nombre: `PIZARRA DIBUJO 8,5`,
@@ -6207,7 +6117,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,29`
+    precio_ars: `$2,32`
   },
   {
     nombre: `ANAFE ELECTRICO 2 ORNALLAS 2000w`,
@@ -6216,7 +6126,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$23,13`
+    precio_ars: `$23,48`
   },
   {
     nombre: `CAMARA WI-FI 360 SMART IP66`,
@@ -6225,7 +6135,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$25,42`
+    precio_ars: `$23,89`
   },
   {
     nombre: `CARGADOR-PARLANTE 3-1 G`,
@@ -6234,7 +6144,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$15,74`
+    precio_ars: `$15,02`
   },
   {
     nombre: `KIT HERRAMIENTAS TUBO 46 PCS`,
@@ -6243,7 +6153,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `INFLADOR ALUMINIO BICI`,
@@ -6252,7 +6162,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$3,23`
+    precio_ars: `$3,28`
   },
   {
     nombre: `ALFORJA BICI B-SOUL`,
@@ -6261,7 +6171,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$1,98`
+    precio_ars: `$2,01`
   },
   {
     nombre: `LINGA BICICLETA`,
@@ -6270,7 +6180,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,93`
+    precio_ars: `$2,05`
   },
   {
     nombre: `GRIFERIA MONOCOMANDO COCINA FLEXIBLE CROMADA`,
@@ -6279,7 +6189,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$18,29`
+    precio_ars: `$18,56`
   },
   {
     nombre: `GRIFERIA MONOCOMANDO COCINA FLEXIBLE NEGRA`,
@@ -6288,7 +6198,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$17,75`
+    precio_ars: `$18,02`
   },
   {
     nombre: `FLOR DUCHA CUADRADA`,
@@ -6297,7 +6207,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$3,93`
+    precio_ars: `$3,99`
   },
   {
     nombre: `ROLLO LED RGB 5M`,
@@ -6306,7 +6216,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,65`
+    precio_ars: `$5,32`
   },
   {
     nombre: `AURICULAR P47`,
@@ -6315,7 +6225,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,37`
+    precio_ars: `$4,44`
   },
   {
     nombre: `MANTA ACANALADA CORDERITO 2 PLAZAS Y MEDIA`,
@@ -6324,7 +6234,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$17,48`
+    precio_ars: `$17,75`
   },
   {
     nombre: `MATERA ECOCUERO`,
@@ -6333,7 +6243,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,51`
+    precio_ars: `$5,60`
   },
   {
     nombre: `PARLANTE ORYX CANCUN 8 SP1949-2`,
@@ -6342,7 +6252,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$34,70`
+    precio_ars: `$34,53`
   },
   {
     nombre: `CADENA MOTO ANCHI`,
@@ -6351,7 +6261,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$8,74`
+    precio_ars: `$8,33`
   },
   {
     nombre: `LATA YERBERA / AZUCARERA MATERO`,
@@ -6360,7 +6270,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$4,71`
+    precio_ars: `$4,78`
   },
   {
     nombre: `BALANZA COMERCIAL 40 KG`,
@@ -6369,7 +6279,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$32,28`
+    precio_ars: `$31,39`
   },
   {
     nombre: `LUZ LED EMERGENCIA`,
@@ -6378,7 +6288,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$9,28`
+    precio_ars: `$9,15`
   },
   {
     nombre: `BALANZA COCINA 10 KG`,
@@ -6387,7 +6297,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,04`
+    precio_ars: `$4,09`
   },
   {
     nombre: `GRIFERIA RORY COCINA LARGA`,
@@ -6396,7 +6306,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,53`
+    precio_ars: `$12,70`
   },
   {
     nombre: `KIT HERRAMIENTAS TUBO 10 PCS`,
@@ -6405,7 +6315,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$5,92`
+    precio_ars: `$6,01`
   },
   {
     nombre: `KIT HERRAMIENTAS TUBO 40 PCS`,
@@ -6414,7 +6324,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$6,46`
+    precio_ars: `$5,73`
   },
   {
     nombre: `JOYSTICK PS3`,
@@ -6423,7 +6333,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$10,49`
+    precio_ars: `$10,65`
   },
   {
     nombre: `SOPORTE MOVIL TV-117-2`,
@@ -6432,16 +6342,16 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$7,53`
+    precio_ars: `$7,51`
   },
   {
     nombre: `SOPORTE FIJO TV-50 26/63`,
     codigo: `10044`,
     imagen: `https://homepoint.site/img/10044.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
-    precio_ars: `$4,84`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$3,69`
   },
   {
     nombre: `SOPORTE FIJO TV-14-42`,
@@ -6450,7 +6360,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$2,69`
+    precio_ars: `$2,46`
   },
   {
     nombre: `PILA AAA`,
@@ -6459,7 +6369,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$229,00`
+    precio_ars: `$232,00`
   },
   {
     nombre: `PARLANTE 3 Pulgadas`,
@@ -6468,7 +6378,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,65`
+    precio_ars: `$5,32`
   },
   {
     nombre: `JOYSTICK PS4`,
@@ -6477,7 +6387,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$17,35`
+    precio_ars: `$17,61`
   },
   {
     nombre: `FOCO CAMARA`,
@@ -6486,7 +6396,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$14,53`
+    precio_ars: `$14,06`
   },
   {
     nombre: `POPIT ELECTRONICO`,
@@ -6495,7 +6405,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$4,17`
+    precio_ars: `$4,23`
   },
   {
     nombre: `PAVA ELECTRICA`,
@@ -6504,7 +6414,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$11,84`
+    precio_ars: `$10,51`
   },
   {
     nombre: `BOTELLA DEPORTIVA 750 ML`,
@@ -6513,7 +6423,7 @@ const productos = [
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
-    precio_ars: `$10,09`
+    precio_ars: `$10,24`
   },
   {
     nombre: `DISPENSER AUTOMATICO`,
@@ -6522,7 +6432,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,25`
+    precio_ars: `$5,32`
   },
   {
     nombre: `ANAFE ELECTRICO 1 ORNALLA 1000w`,
@@ -6531,16 +6441,16 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$12,51`
+    precio_ars: `$12,70`
   },
   {
     nombre: `REFLECTOR LED 100W`,
     codigo: `10008`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/10008.jpg`,
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$7,80`
+    precio_ars: `$7,37`
   },
   {
     nombre: `ORYX SANDWICHERA OR-1800`,
@@ -6549,7 +6459,7 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$17,48`
+    precio_ars: `$17,75`
   },
   {
     nombre: `WAFLERA SK -114`,
@@ -6558,6 +6468,6 @@ const productos = [
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$16,57`
+    precio_ars: `$16,82`
   },
 ];
