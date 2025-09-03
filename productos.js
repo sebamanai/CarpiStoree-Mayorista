@@ -1,8 +1,98 @@
 const productos = [
   {
+    nombre: `LUZ LINTERNA CAMPING EXT / INT`,
+    codigo: `11155`,
+    imagen: `https://homepoint.site/img/11155.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$5,67`
+  },
+  {
+    nombre: `PARLANTE TRANSFORMER`,
+    codigo: `11154`,
+    imagen: `https://homepoint.site/img/11154.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$12,15`
+  },
+  {
+    nombre: `PINZA X 3 PCS VERDES`,
+    codigo: `11153`,
+    imagen: `https://homepoint.site/img/11153.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$12,15`
+  },
+  {
+    nombre: `FREIDORA DE AIRE 4 L SPRINT`,
+    codigo: `11152`,
+    imagen: `https://homepoint.site/img/11152.jpg`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$63,85`
+  },
+  {
+    nombre: `DEPILADORA 4 EN 1 LADY SHAVER SN8866`,
+    codigo: `11151`,
+    imagen: `https://homepoint.site/img/11151.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$14,71`
+  },
+  {
+    nombre: `MOLINILLO ELECTRICO`,
+    codigo: `11150`,
+    imagen: `https://homepoint.site/img/11150.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$9,72`
+  },
+  {
+    nombre: `POWER BANCK 25 MAH TECH`,
+    codigo: `11149`,
+    imagen: `https://homepoint.site/img/11149.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$12,02`
+  },
+  {
+    nombre: `VENTILADOR TURBO 20 PULGADAS 90W`,
+    codigo: `11148`,
+    imagen: `https://homepoint.site/img/11148.jpg`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$26,32`
+  },
+  {
+    nombre: `TV BOX BLANCO MXPRO`,
+    codigo: `11147`,
+    imagen: `https://homepoint.site/img/11147.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$28,89`
+  },
+  {
+    nombre: `TCL 40SE 128GB / 8 RAM`,
+    codigo: `11146`,
+    imagen: `https://homepoint.site/img/11146.jpg`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$130,95`
+  },
+  {
     nombre: `TOALLON SECADO RAPIDO`,
     codigo: `11145`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/11145.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
@@ -11,7 +101,7 @@ const productos = [
   {
     nombre: `TOALLON PESADO PREMIUN`,
     codigo: `11144`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/11144.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
@@ -20,7 +110,7 @@ const productos = [
   {
     nombre: `TUPPER MAGICLICK X 5 PCS`,
     codigo: `11143`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/11143.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
@@ -29,7 +119,7 @@ const productos = [
   {
     nombre: `KIT DE LIMPIEZA PARA AUTO`,
     codigo: `11142`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/11142.jpg`,
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
@@ -38,7 +128,7 @@ const productos = [
   {
     nombre: `PISTOLA DE RIEGO 5 PCS`,
     codigo: `11141`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/11141.jpg`,
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
@@ -147,9 +237,9 @@ const productos = [
     nombre: `PICADOR DE VERDURA MULTI GATLING SLICER`,
     codigo: `11128`,
     imagen: `https://homepoint.site/img/11128.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$7,16`
   },
   {
@@ -309,18 +399,18 @@ const productos = [
     nombre: `CAMARA CON IMPRESORA INFANTIL`,
     codigo: `11109`,
     imagen: `https://homepoint.site/img/11109.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
-    precio_ars: `$25,25`
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$24,30`
   },
   {
     nombre: `SET TUPPER COLORES X 4 UNIDADES`,
     codigo: `11108`,
     imagen: `https://homepoint.site/img/11108.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$3,92`
   },
   {
@@ -372,9 +462,9 @@ const productos = [
     nombre: `CEPILLO ELECTRICO DE DUCHA`,
     codigo: `11102`,
     imagen: `https://homepoint.site/img/11102.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$19,17`
   },
   {
@@ -417,9 +507,9 @@ const productos = [
     nombre: `PIZARRA GRANDE CAPIBARA / LABUBU`,
     codigo: `11097`,
     imagen: `https://homepoint.site/img/11097.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$6,75`
   },
   {
@@ -552,9 +642,9 @@ const productos = [
     nombre: `AURICULAR INPODS 12 COLORES`,
     codigo: `11080`,
     imagen: `https://homepoint.site/img/11080.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
     precio_ars: `$4,05`
   },
   {
@@ -597,9 +687,9 @@ const productos = [
     nombre: `GAS PIMIENTA LLAVERO`,
     codigo: `11075`,
     imagen: `https://homepoint.site/img/11075.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$2,56`
   },
   {
@@ -774,7 +864,7 @@ const productos = [
     precio_ars: `$59,27`
   },
   {
-    nombre: `ASPIRADORA INALAMBRICA CON BATERIA`,
+    nombre: `ASPIRADORA INALAMBRICA GRANDE`,
     codigo: `11041`,
     imagen: `https://homepoint.site/img/11041.jpg`,
     estado: `Disponible`,
@@ -861,7 +951,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$19,30`
+    precio_ars: `$17,55`
   },
   {
     nombre: `SECADOR DE PELO 2200 W 4 EN 1 CAUIPE`,
@@ -1002,9 +1092,9 @@ const productos = [
     nombre: `CARGADOR PARA AUTO CON LUCES 4 EN 1`,
     codigo: `11010`,
     imagen: `https://homepoint.site/img/11010.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$15,93`
   },
   {
@@ -1047,9 +1137,9 @@ const productos = [
     nombre: `MANTA CISNE EDREDON INTERMEDIO 2 1/2`,
     codigo: `11004`,
     imagen: `https://homepoint.site/img/11004.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$22,00`
   },
   {
@@ -1101,9 +1191,9 @@ const productos = [
     nombre: `TV SMART 32 BGH B3223H5`,
     codigo: `10998`,
     imagen: `https://homepoint.site/img/10998.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$213,30`
   },
   {
@@ -1173,9 +1263,9 @@ const productos = [
     nombre: `BANQUETAS PVC REFORZADAS`,
     codigo: `10990`,
     imagen: `https://homepoint.site/img/10990.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$4,59`
   },
   {
@@ -1200,9 +1290,9 @@ const productos = [
     nombre: `CINTA AISLADORA PACK X 10`,
     codigo: `10987`,
     imagen: `https://homepoint.site/img/10987.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$3,10`
   },
   {
@@ -1262,20 +1352,20 @@ const productos = [
   {
     nombre: `FREIDORA OM 6 LITROS`,
     codigo: `10978`,
-    imagen: `https://homepoint.site/img/10978.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$78,30`
   },
   {
     nombre: `DRONE PLEGABLE`,
     codigo: `10977`,
     imagen: `https://homepoint.site/img/10977.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$28,08`
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$28,75`
   },
   {
     nombre: `POWER BANK 10.000 MAH`,
@@ -1326,18 +1416,18 @@ const productos = [
     nombre: `CANDADO PLATEADO 3546`,
     codigo: `10971`,
     imagen: `https://homepoint.site/img/10971.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$3,38`
   },
   {
     nombre: `DISPENSER PORTA ESPONJA`,
     codigo: `10970`,
     imagen: `https://homepoint.site/img/10970.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$6,75`
   },
   {
@@ -1461,18 +1551,18 @@ const productos = [
     nombre: `FREIDORA DE AIRE DIGITAL OM 4,5 LITROS`,
     codigo: `10956`,
     imagen: `https://homepoint.site/img/10956.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$64,80`
   },
   {
     nombre: `LINTERNA PICANA 1101AR2786`,
     codigo: `10955`,
     imagen: `https://homepoint.site/img/10955.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$8,51`
   },
   {
@@ -1587,9 +1677,9 @@ const productos = [
     nombre: `PARLANTE 4X2 GTS 1773 CON MICROFONO`,
     codigo: `10941`,
     imagen: `https://homepoint.site/img/10941.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$12,82`
   },
   {
@@ -1614,9 +1704,9 @@ const productos = [
     nombre: `LUZ DE EMERGENCIA 60 LED STAR 220V`,
     codigo: `10938`,
     imagen: `https://homepoint.site/img/10938.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$9,99`
   },
   {
@@ -1640,7 +1730,7 @@ const productos = [
   {
     nombre: `VALIJA DE HERRAMIENTAS 245 PCS`,
     codigo: `10935`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/10935.jpg`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -1658,7 +1748,7 @@ const productos = [
   {
     nombre: `TV SMART 32 XIAOMI`,
     codigo: `10931`,
-    imagen: `https://home-point.com.ar/no-disponible.png`,
+    imagen: `https://homepoint.site/img/10931.jpg`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -2046,9 +2136,9 @@ const productos = [
     nombre: `DISPENSER VIDRIO BASE BAMBU X 2`,
     codigo: `10885`,
     imagen: `https://homepoint.site/img/10885.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$15,39`
   },
   {
@@ -2190,10 +2280,10 @@ const productos = [
     nombre: `LLAVE TUBO 121 PCS`,
     codigo: `10868`,
     imagen: `https://homepoint.site/img/10868.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$87,75`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$90,45`
   },
   {
     nombre: `JARRA CUBIERTOS BARRICHELO`,
@@ -2208,18 +2298,18 @@ const productos = [
     nombre: `PARLANTE CON IMAN RUEDA`,
     codigo: `10864`,
     imagen: `https://homepoint.site/img/10864.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$10,53`
   },
   {
     nombre: `LAPIZ DEPILADOR DE CEJAS DSH1082`,
     codigo: `10863`,
     imagen: `https://homepoint.site/img/10863.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$3,65`
   },
   {
@@ -2307,9 +2397,9 @@ const productos = [
     nombre: `DISPENSER DE HUEVOS`,
     codigo: `10851`,
     imagen: `https://homepoint.site/img/10851.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$7,29`
   },
   {
@@ -2415,9 +2505,9 @@ const productos = [
     nombre: `MOTOROLA G15 4RAM/128GB`,
     codigo: `10835`,
     imagen: `https://homepoint.site/img/10835.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$191,70`
   },
   {
@@ -2487,9 +2577,9 @@ const productos = [
     nombre: `CALCULADORA COLORES CT2278`,
     codigo: `10823`,
     imagen: `https://homepoint.site/img/10823.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$5,80`
   },
   {
@@ -2505,9 +2595,9 @@ const productos = [
     nombre: `CARGADOR PORTATIL ESPADA`,
     codigo: `10821`,
     imagen: `https://homepoint.site/img/10821.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$14,31`
   },
   {
@@ -2796,7 +2886,7 @@ const productos = [
     estado: `Disponible`,
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
-    precio_ars: `$5,33`
+    precio_ars: `$4,86`
   },
   {
     nombre: `MINIPIMER / BATIDORA 4 EN 1`,
@@ -2901,18 +2991,18 @@ const productos = [
     nombre: `TERMO BALA PLATA 500 CC`,
     codigo: `10765`,
     imagen: `https://homepoint.site/img/10765.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$8,37`
   },
   {
     nombre: `BOTELLA TERMICA ROMANIA 660 ML`,
     codigo: `10764`,
     imagen: `https://homepoint.site/img/10764.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$9,45`
   },
   {
@@ -2968,15 +3058,6 @@ const productos = [
     color: `#4caf50`,
     etiqueta: `✔ Disponible`,
     precio_ars: `$5,80`
-  },
-  {
-    nombre: `PINZA X 3 PCS`,
-    codigo: `10756`,
-    imagen: `https://homepoint.site/img/10756.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$5,51`
   },
   {
     nombre: `CASCO PARA BICICLETA`,
@@ -3117,10 +3198,10 @@ const productos = [
     nombre: `FREIDORA DE AIRE 3.5 L HYTOSHY`,
     codigo: `10735`,
     imagen: `https://homepoint.site/img/10735.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$55,35`
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
+    precio_ars: `$56,70`
   },
   {
     nombre: `TOSTADORA ACERO`,
@@ -3189,9 +3270,9 @@ const productos = [
     nombre: `MOTOROLA E14`,
     codigo: `10718`,
     imagen: `https://homepoint.site/img/10718.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$122,85`
   },
   {
@@ -3405,9 +3486,9 @@ const productos = [
     nombre: `XIAOMI REDMI 14C 16 GB 256`,
     codigo: `10689`,
     imagen: `https://homepoint.site/img/10689.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$199,80`
   },
   {
@@ -3513,9 +3594,9 @@ const productos = [
     nombre: `AUTO ESTEREO DESMONTABLE`,
     codigo: `10675`,
     imagen: `https://homepoint.site/img/10675.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$19,66`
   },
   {
@@ -3612,9 +3693,9 @@ const productos = [
     nombre: `ARMAF ODYSSEY MANDARIN SKY`,
     codigo: `10658`,
     imagen: `https://homepoint.site/img/10658.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$66,15`
   },
   {
@@ -3684,10 +3765,10 @@ const productos = [
     nombre: `LATTAFA BADEE AL OUD SUBLIME 100 ML`,
     codigo: `10650`,
     imagen: `https://homepoint.site/img/10650.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$40,50`
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$47,25`
   },
   {
     nombre: `LATTAFA YARA MOI 100 ML`,
@@ -3999,9 +4080,9 @@ const productos = [
     nombre: `PARLANTE KARAOKE K12`,
     codigo: `10585`,
     imagen: `https://homepoint.site/img/10585.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$8,78`
   },
   {
@@ -4215,9 +4296,9 @@ const productos = [
     nombre: `ASTRONAUTA CHICO SIN PARLANTE SM9`,
     codigo: `10532`,
     imagen: `https://homepoint.site/img/10532.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$12,55`
   },
   {
@@ -4275,16 +4356,16 @@ const productos = [
     precio_ars: `$9,31`
   },
   {
-    nombre: `LAMPARA SOLAR 2 LED LAMPARA`,
+    nombre: `LAMPARA SOLAR 2 LED`,
     codigo: `10516`,
     imagen: `https://homepoint.site/img/10516.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$8,37`
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$4,59`
   },
   {
-    nombre: `LAMPARA SOLAR 3 LEDS LAMPARA`,
+    nombre: `LAMPARA SOLAR 3 LEDS`,
     codigo: `10515`,
     imagen: `https://homepoint.site/img/10515.jpg`,
     estado: `Sin Stock`,
@@ -4296,9 +4377,9 @@ const productos = [
     nombre: `CAMARA 4K SPORTS`,
     codigo: `10511`,
     imagen: `https://homepoint.site/img/10511.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$27,41`
   },
   {
@@ -4341,9 +4422,9 @@ const productos = [
     nombre: `AURICULAR RGB VINCHA`,
     codigo: `10496`,
     imagen: `https://homepoint.site/img/10496.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$17,28`
   },
   {
@@ -4395,9 +4476,9 @@ const productos = [
     nombre: `PLANCHA DE PELO Y CEPILLO SECADOR COMBO`,
     codigo: `10487`,
     imagen: `https://homepoint.site/img/10487.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$32,27`
   },
   {
@@ -4503,10 +4584,10 @@ const productos = [
     nombre: `PROYECTOR ANDROID 4K`,
     codigo: `10405`,
     imagen: `https://homepoint.site/img/10405.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
-    precio_ars: `$66,15`
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$62,10`
   },
   {
     nombre: `LICUADORA DEPORTIVA 600 ML ORYX`,
@@ -4565,7 +4646,7 @@ const productos = [
   {
     nombre: `LUZ ESTRELLAS CON PARLANTE`,
     codigo: `10395`,
-    imagen: `https://homepoint.site/img/10395.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -4583,7 +4664,7 @@ const productos = [
   {
     nombre: `KIT HERRAMIENTAS LLAVES COMBINADAS`,
     codigo: `10390`,
-    imagen: `https://homepoint.site/img/10390.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -4773,9 +4854,9 @@ const productos = [
     nombre: `INFLADOR INALAMBRICO 3 EN 1`,
     codigo: `10349`,
     imagen: `https://homepoint.site/img/10349.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
     precio_ars: `$25,65`
   },
   {
@@ -4806,6 +4887,15 @@ const productos = [
     precio_ars: `$49,95`
   },
   {
+    nombre: `VENTILADOR DE TECHO RETRACTIL`,
+    codigo: `10339`,
+    imagen: `https://homepoint.site/img/10339.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$87,75`
+  },
+  {
     nombre: `MINI IMPRESORA`,
     codigo: `10334`,
     imagen: `https://homepoint.site/img/10334.jpg`,
@@ -4818,9 +4908,9 @@ const productos = [
     nombre: `TENDER ROPA`,
     codigo: `10333`,
     imagen: `https://homepoint.site/img/10333.jpg`,
-    estado: `Sin Stock`,
-    color: `#f44336`,
-    etiqueta: `❌ Sin stock`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$22,95`
   },
   {
@@ -4863,9 +4953,9 @@ const productos = [
     nombre: `ESCURRIDOR ADAPTABLE PVC`,
     codigo: `10321`,
     imagen: `https://homepoint.site/img/10321.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$5,80`
   },
   {
@@ -4986,7 +5076,7 @@ const productos = [
     precio_ars: `$35,91`
   },
   {
-    nombre: `ASPIRADORA DE MANO`,
+    nombre: `ASPIRADORA DE MANO CHICA`,
     codigo: `10275`,
     imagen: `https://homepoint.site/img/10275.jpg`,
     estado: `Disponible`,
@@ -5051,7 +5141,7 @@ const productos = [
   {
     nombre: `MAQUINA BOXEO`,
     codigo: `10242`,
-    imagen: `https://homepoint.site/img/10242.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Pocas Unidades`,
     color: `#ffeb3b`,
     etiqueta: `⚠ Pocas unidades`,
@@ -5069,7 +5159,7 @@ const productos = [
   {
     nombre: `PIZARRA MAGICA 12`,
     codigo: `10235`,
-    imagen: `https://homepoint.site/img/10235.jpg`,
+    imagen: `https://home-point.com.ar/no-disponible.png`,
     estado: `Sin Stock`,
     color: `#f44336`,
     etiqueta: `❌ Sin stock`,
@@ -5160,9 +5250,9 @@ const productos = [
     nombre: `TALADRO INALAMBRICO KIT 24 PCS`,
     codigo: `10201`,
     imagen: `https://homepoint.site/img/10201.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$43,20`
   },
   {
@@ -5385,9 +5475,9 @@ const productos = [
     nombre: `ANAFE ELECTRICO 2 ORNALLAS 2000w`,
     codigo: `10115`,
     imagen: `https://homepoint.site/img/10115.jpg`,
-    estado: `Disponible`,
-    color: `#4caf50`,
-    etiqueta: `✔ Disponible`,
+    estado: `Pocas Unidades`,
+    color: `#ffeb3b`,
+    etiqueta: `⚠ Pocas unidades`,
     precio_ars: `$23,62`
   },
   {
@@ -5430,9 +5520,9 @@ const productos = [
     nombre: `ALFORJA BICI B-SOUL`,
     codigo: `10104`,
     imagen: `https://homepoint.site/img/10104.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$1,99`
   },
   {
@@ -5475,9 +5565,9 @@ const productos = [
     nombre: `PARLANTE ORYX CANCUN 8 SP1949-2`,
     codigo: `10067`,
     imagen: `https://homepoint.site/img/10067.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Sin Stock`,
+    color: `#f44336`,
+    etiqueta: `❌ Sin stock`,
     precio_ars: `$34,16`
   },
   {
@@ -5661,12 +5751,21 @@ const productos = [
     precio_ars: `$12,82`
   },
   {
+    nombre: `REFLECTOR LED 150W`,
+    codigo: `10009`,
+    imagen: `https://homepoint.site/img/10009.jpg`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
+    precio_ars: `$10,80`
+  },
+  {
     nombre: `REFLECTOR LED 100W`,
     codigo: `10008`,
     imagen: `https://homepoint.site/img/10008.jpg`,
-    estado: `Pocas Unidades`,
-    color: `#ffeb3b`,
-    etiqueta: `⚠ Pocas unidades`,
+    estado: `Disponible`,
+    color: `#4caf50`,
+    etiqueta: `✔ Disponible`,
     precio_ars: `$7,42`
   },
   {
