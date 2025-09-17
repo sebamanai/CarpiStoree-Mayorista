@@ -6,16 +6,16 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
-# Ruta local al chromedriver (ajustala a tu path)
-chrome_driver_path = 'C:/Users/smanai/catalogo-mayorista/chromedriver.exe'
+
 
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
 
-service = Service(executable_path=chrome_driver_path)
+service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
 url_base = 'https://home-point.com.ar/mayorista'
