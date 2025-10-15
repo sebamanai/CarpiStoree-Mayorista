@@ -8,8 +8,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-
-
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--disable-gpu")
@@ -48,7 +46,7 @@ while True:
 
         print(f"  → Productos encontrados en esta página: {len(productos)}")
 
-        productos_validos_en_pagina = 0  # Nuevo: contador de productos con imagen y datos válidos
+        productos_validos_en_pagina = 0  # Contador de productos válidos
 
         for i in range(len(productos)):
             try:
@@ -78,17 +76,20 @@ while True:
 
                 print(f"Estado raw detectado: '{estado_texto}' → Interpretado como: '{estado}'")
 
+                # Bloque corregido para extraer precio “Ahora $”
                 p_tags = producto.find_elements(By.TAG_NAME, 'p')
                 precio_usd = None
                 precio_ars = None
+
                 for p in p_tags:
-                    strong_text = p.find_element(By.TAG_NAME, 'strong').text.strip()
-                    if 'Valor $' in strong_text:
-                        precio_ars_raw = p.text.replace('Valor $', '').strip()
-                        # Convertir a float sin recargo
-                        precio_ars_num = float(precio_ars_raw.replace('$', '').replace('.', '').replace(',', '.'))
-                        # Formatear con símbolo $ y coma decimal sin modificar valor
-                        precio_ars = f"${precio_ars_num:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+                    try:
+                        strong_text = p.find_element(By.TAG_NAME, 'strong').text.strip()
+                        if 'Ahora $' in strong_text:
+                            precio_ars_raw = p.text.replace('Ahora $', '').strip()
+                            precio_ars_num = float(precio_ars_raw.replace('.', '').replace(',', '.'))
+                            precio_ars = f"${precio_ars_num:,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+                    except:
+                        continue
 
                 todos_los_productos.append({
                     'codigo': codigo,
@@ -99,13 +100,12 @@ while True:
                     'precio_ars': precio_ars,
                 })
 
-                productos_validos_en_pagina += 1  # Nuevo: contamos este producto válido
+                productos_validos_en_pagina += 1
 
             except Exception as e:
                 print(f"  [!] Error procesando un producto índice {i}: {e}")
                 continue
 
-        # Nuevo: si no se encontró ningún producto válido, se detiene
         if productos_validos_en_pagina == 0:
             print("⚠️  No se encontraron productos válidos en esta página. Se asume fin del catálogo.")
             break
@@ -113,7 +113,7 @@ while True:
         boton_siguiente = driver.find_elements(By.XPATH, '//button[text()="Siguiente"]')
         if boton_siguiente:
             driver.execute_script("arguments[0].click();", boton_siguiente[0])
-            time.sleep(10)  # Espera para que cargue bien la siguiente página
+            time.sleep(10)
             pagina_actual += 1
         else:
             print("No hay más páginas.")
