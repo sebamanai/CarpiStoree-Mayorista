@@ -1,11 +1,19 @@
 [
     {
+        "codigo": "11147",
+        "nombre": "TV BOX BLANCO MXPRO",
+        "imagen_url": "https://homepoint.site/img/11147.jpg",
+        "estado": "Disponible",
+        "precio_usd": null,
+        "precio_ars": "$23,44"
+    },
+    {
         "codigo": "10004",
         "nombre": "WAFLERA SK -114",
         "imagen_url": "https://homepoint.site/img/10004.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$16,31"
+        "precio_ars": "$16,64"
     },
     {
         "codigo": "10241",
@@ -13,7 +21,7 @@
         "imagen_url": "https://homepoint.site/img/10241.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$28,98"
+        "precio_ars": "$29,57"
     },
     {
         "codigo": "10373",
@@ -21,7 +29,7 @@
         "imagen_url": "https://homepoint.site/img/10373.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$28,24"
+        "precio_ars": "$30,69"
     },
     {
         "codigo": "10490",
@@ -29,7 +37,7 @@
         "imagen_url": "https://homepoint.site/img/10490.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,09"
+        "precio_ars": "$6,22"
     },
     {
         "codigo": "10588",
@@ -37,7 +45,7 @@
         "imagen_url": "https://homepoint.site/img/10588.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$32,10"
+        "precio_ars": "$32,76"
     },
     {
         "codigo": "10731",
@@ -45,7 +53,7 @@
         "imagen_url": "https://homepoint.site/img/10731.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,89"
+        "precio_ars": "$10,09"
     },
     {
         "codigo": "10766",
@@ -53,7 +61,7 @@
         "imagen_url": "https://homepoint.site/img/10766.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,96"
+        "precio_ars": "$9,14"
     },
     {
         "codigo": "11096",
@@ -61,7 +69,7 @@
         "imagen_url": "https://homepoint.site/img/11096.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$31,23"
+        "precio_ars": "$31,87"
     },
     {
         "codigo": "11178",
@@ -69,7 +77,7 @@
         "imagen_url": "https://homepoint.site/img/11178.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,16"
+        "precio_ars": "$8,32"
     },
     {
         "codigo": "11227",
@@ -77,119 +85,119 @@
         "imagen_url": "https://homepoint.site/img/11227.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,56"
+        "precio_ars": "$2,61"
     },
     {
         "codigo": "11246",
         "nombre": "CARGADOR CON CABLE 45 W",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11246.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,01"
+        "precio_ars": "$5,12"
     },
     {
         "codigo": "11247",
         "nombre": "SOLDADOROR DE MANO",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11247.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,19"
+        "precio_ars": "$2,23"
     },
     {
         "codigo": "11248",
         "nombre": "AURICULAR OREJITAS INFANTIL",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11248.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,93"
+        "precio_ars": "$6,06"
     },
     {
         "codigo": "11249",
         "nombre": "AURICULAR BINCHA LED SUPER BASS",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11249.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,96"
+        "precio_ars": "$8,13"
     },
     {
         "codigo": "11250",
         "nombre": "TENSOR CON DOBLE GANCHO",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11250.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,53"
+        "precio_ars": "$1,56"
     },
     {
         "codigo": "11251",
         "nombre": "COPA STELLA X 2 PCS",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11251.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,03"
+        "precio_ars": "$13,30"
     },
     {
         "codigo": "11252",
         "nombre": "VASO PATAGONIA X 2 PCS",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
-        "estado": "Disponible",
+        "imagen_url": "https://homepoint.site/img/11252.jpg",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,26"
+        "precio_ars": "$13,53"
     },
     {
         "codigo": "11253",
         "nombre": "LUZ RGB PROTON 12 LED",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11253.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,75"
+        "precio_ars": "$8,92"
     },
     {
         "codigo": "11254",
         "nombre": "CARTEL LETRA LED LIGHT BOX",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11254.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,62"
+        "precio_ars": "$8,80"
     },
     {
         "codigo": "11255",
         "nombre": "MINI PLANCHITA DE PELO",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11255.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,77"
+        "precio_ars": "$2,82"
     },
     {
         "codigo": "11256",
         "nombre": "RELOJ CON BIROME Y ANILLO",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11256.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,29"
+        "precio_ars": "$7,43"
     },
     {
         "codigo": "11257",
         "nombre": "PARLANTE MEDUSA CON LUCES",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11257.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$23,69"
+        "precio_ars": "$24,17"
     },
     {
         "codigo": "11258",
         "nombre": "LAMPARA HONGO COLORES",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11258.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,20"
+        "precio_ars": "$10,41"
     },
     {
         "codigo": "11259",
         "nombre": "PARAGUA SIETE VARILLAS",
-        "imagen_url": "https://home-point.com.ar/no-disponible.png",
+        "imagen_url": "https://homepoint.site/img/11259.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,92"
+        "precio_ars": "$2,97"
     },
     {
         "codigo": "11260",
@@ -197,7 +205,7 @@
         "imagen_url": "https://home-point.com.ar/no-disponible.png",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,88"
+        "precio_ars": "$17,23"
     },
     {
         "codigo": "10818",
@@ -205,7 +213,7 @@
         "imagen_url": "https://homepoint.site/img/10818.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,79"
+        "precio_ars": "$13,05"
     },
     {
         "codigo": "10152",
@@ -213,7 +221,7 @@
         "imagen_url": "https://homepoint.site/img/10152.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,18"
+        "precio_ars": "$15,49"
     },
     {
         "codigo": "10182",
@@ -221,7 +229,7 @@
         "imagen_url": "https://homepoint.site/img/10182.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,70"
+        "precio_ars": "$10,92"
     },
     {
         "codigo": "10597",
@@ -229,7 +237,7 @@
         "imagen_url": "https://homepoint.site/img/10597.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$18,01"
+        "precio_ars": "$18,38"
     },
     {
         "codigo": "10776",
@@ -237,7 +245,7 @@
         "imagen_url": "https://homepoint.site/img/10776.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$37,75"
+        "precio_ars": "$38,52"
     },
     {
         "codigo": "10881",
@@ -245,7 +253,7 @@
         "imagen_url": "https://homepoint.site/img/10881.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$24,28"
+        "precio_ars": "$24,78"
     },
     {
         "codigo": "10904",
@@ -253,7 +261,7 @@
         "imagen_url": "https://homepoint.site/img/10904.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,77"
+        "precio_ars": "$9,97"
     },
     {
         "codigo": "11100",
@@ -261,7 +269,7 @@
         "imagen_url": "https://homepoint.site/img/11100.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$33,28"
+        "precio_ars": "$33,95"
     },
     {
         "codigo": "11195",
@@ -269,7 +277,7 @@
         "imagen_url": "https://homepoint.site/img/11195.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$52,36"
+        "precio_ars": "$53,43"
     },
     {
         "codigo": "11197",
@@ -277,7 +285,7 @@
         "imagen_url": "https://homepoint.site/img/11197.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$38,18"
+        "precio_ars": "$38,95"
     },
     {
         "codigo": "11199",
@@ -285,7 +293,7 @@
         "imagen_url": "https://homepoint.site/img/11199.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$23,13"
+        "precio_ars": "$23,60"
     },
     {
         "codigo": "11205",
@@ -293,7 +301,7 @@
         "imagen_url": "https://homepoint.site/img/11205.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,84"
+        "precio_ars": "$2,90"
     },
     {
         "codigo": "11208",
@@ -301,7 +309,7 @@
         "imagen_url": "https://homepoint.site/img/11208.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,10"
+        "precio_ars": "$6,23"
     },
     {
         "codigo": "11238",
@@ -309,7 +317,7 @@
         "imagen_url": "https://homepoint.site/img/11238.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,35"
+        "precio_ars": "$12,60"
     },
     {
         "codigo": "11239",
@@ -317,7 +325,7 @@
         "imagen_url": "https://homepoint.site/img/11239.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$39,10"
+        "precio_ars": "$39,89"
     },
     {
         "codigo": "11240",
@@ -325,7 +333,7 @@
         "imagen_url": "https://homepoint.site/img/11240.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$46,22"
+        "precio_ars": "$47,16"
     },
     {
         "codigo": "11241",
@@ -333,7 +341,7 @@
         "imagen_url": "https://homepoint.site/img/11241.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,59"
+        "precio_ars": "$16,93"
     },
     {
         "codigo": "11242",
@@ -341,7 +349,7 @@
         "imagen_url": "https://homepoint.site/img/11242.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$28,51"
+        "precio_ars": "$29,09"
     },
     {
         "codigo": "11243",
@@ -349,15 +357,15 @@
         "imagen_url": "https://homepoint.site/img/11243.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$25,37"
+        "precio_ars": "$25,89"
     },
     {
         "codigo": "11244",
         "nombre": "YOGURTERA 1.2 LTS DIGITAL NOVOHOME",
         "imagen_url": "https://homepoint.site/img/11244.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$27,74"
+        "precio_ars": "$28,31"
     },
     {
         "codigo": "11245",
@@ -365,7 +373,7 @@
         "imagen_url": "https://homepoint.site/img/11245.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,79"
+        "precio_ars": "$16,11"
     },
     {
         "codigo": "10024",
@@ -373,7 +381,7 @@
         "imagen_url": "https://homepoint.site/img/10024.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,54"
+        "precio_ars": "$9,74"
     },
     {
         "codigo": "10124",
@@ -381,7 +389,7 @@
         "imagen_url": "https://homepoint.site/img/10124.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,88"
+        "precio_ars": "$14,16"
     },
     {
         "codigo": "11237",
@@ -389,7 +397,7 @@
         "imagen_url": "https://homepoint.site/img/11237.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,31"
+        "precio_ars": "$13,58"
     },
     {
         "codigo": "10044",
@@ -397,7 +405,7 @@
         "imagen_url": "https://homepoint.site/img/10044.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,80"
+        "precio_ars": "$3,88"
     },
     {
         "codigo": "10055",
@@ -405,7 +413,7 @@
         "imagen_url": "https://homepoint.site/img/10055.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,41"
+        "precio_ars": "$4,50"
     },
     {
         "codigo": "10081",
@@ -413,7 +421,7 @@
         "imagen_url": "https://homepoint.site/img/10081.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,93"
+        "precio_ars": "$4,01"
     },
     {
         "codigo": "10087",
@@ -421,7 +429,7 @@
         "imagen_url": "https://homepoint.site/img/10087.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,62"
+        "precio_ars": "$4,71"
     },
     {
         "codigo": "10217",
@@ -429,7 +437,7 @@
         "imagen_url": "https://homepoint.site/img/10217.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,69"
+        "precio_ars": "$7,84"
     },
     {
         "codigo": "10223",
@@ -437,7 +445,7 @@
         "imagen_url": "https://homepoint.site/img/10223.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,97"
+        "precio_ars": "$3,03"
     },
     {
         "codigo": "10359",
@@ -445,7 +453,7 @@
         "imagen_url": "https://homepoint.site/img/10359.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,25"
+        "precio_ars": "$5,36"
     },
     {
         "codigo": "10360",
@@ -453,7 +461,7 @@
         "imagen_url": "https://homepoint.site/img/10360.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,94"
+        "precio_ars": "$12,19"
     },
     {
         "codigo": "10738",
@@ -461,7 +469,7 @@
         "imagen_url": "https://homepoint.site/img/10738.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,96"
+        "precio_ars": "$10,16"
     },
     {
         "codigo": "10802",
@@ -469,7 +477,7 @@
         "imagen_url": "https://homepoint.site/img/10802.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,03"
+        "precio_ars": "$7,17"
     },
     {
         "codigo": "10976",
@@ -477,15 +485,15 @@
         "imagen_url": "https://homepoint.site/img/10976.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,96"
+        "precio_ars": "$12,21"
     },
     {
         "codigo": "10990",
         "nombre": "BANQUETAS PVC REFORZADAS",
         "imagen_url": "https://homepoint.site/img/10990.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,83"
+        "precio_ars": "$4,93"
     },
     {
         "codigo": "11062",
@@ -493,7 +501,7 @@
         "imagen_url": "https://homepoint.site/img/11062.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,31"
+        "precio_ars": "$2,35"
     },
     {
         "codigo": "11221",
@@ -501,7 +509,7 @@
         "imagen_url": "https://homepoint.site/img/11221.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,22"
+        "precio_ars": "$9,41"
     },
     {
         "codigo": "11231",
@@ -509,7 +517,7 @@
         "imagen_url": "https://homepoint.site/img/11231.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,06"
+        "precio_ars": "$8,22"
     },
     {
         "codigo": "11232",
@@ -517,7 +525,7 @@
         "imagen_url": "https://homepoint.site/img/11232.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,36"
+        "precio_ars": "$5,46"
     },
     {
         "codigo": "11233",
@@ -525,7 +533,7 @@
         "imagen_url": "https://homepoint.site/img/11233.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,10"
+        "precio_ars": "$13,37"
     },
     {
         "codigo": "11234",
@@ -533,7 +541,7 @@
         "imagen_url": "https://homepoint.site/img/11234.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,89"
+        "precio_ars": "$10,09"
     },
     {
         "codigo": "11235",
@@ -541,7 +549,7 @@
         "imagen_url": "https://homepoint.site/img/11235.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,34"
+        "precio_ars": "$11,57"
     },
     {
         "codigo": "11236",
@@ -549,7 +557,7 @@
         "imagen_url": "https://homepoint.site/img/11236.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,13"
+        "precio_ars": "$7,27"
     },
     {
         "codigo": "10684",
@@ -557,7 +565,7 @@
         "imagen_url": "https://homepoint.site/img/10684.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$10,55"
+        "precio_ars": "$10,77"
     },
     {
         "codigo": "10287",
@@ -565,7 +573,7 @@
         "imagen_url": "https://homepoint.site/img/10287.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,68"
+        "precio_ars": "$8,85"
     },
     {
         "codigo": "10394",
@@ -573,7 +581,7 @@
         "imagen_url": "https://homepoint.site/img/10394.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,99"
+        "precio_ars": "$15,30"
     },
     {
         "codigo": "10543",
@@ -581,7 +589,7 @@
         "imagen_url": "https://homepoint.site/img/10543.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,25"
+        "precio_ars": "$17,60"
     },
     {
         "codigo": "10551",
@@ -589,15 +597,15 @@
         "imagen_url": "https://homepoint.site/img/10551.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,75"
+        "precio_ars": "$9,95"
     },
     {
         "codigo": "11151",
         "nombre": "DEPILADORA 4 EN 1 LADY SHAVER SN8866",
         "imagen_url": "https://homepoint.site/img/11151.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$14,77"
+        "precio_ars": "$15,07"
     },
     {
         "codigo": "11216",
@@ -605,7 +613,7 @@
         "imagen_url": "https://homepoint.site/img/11216.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,11"
+        "precio_ars": "$5,21"
     },
     {
         "codigo": "11217",
@@ -613,7 +621,7 @@
         "imagen_url": "https://homepoint.site/img/11217.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$35,90"
+        "precio_ars": "$36,63"
     },
     {
         "codigo": "11218",
@@ -621,7 +629,7 @@
         "imagen_url": "https://homepoint.site/img/11218.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,33"
+        "precio_ars": "$8,50"
     },
     {
         "codigo": "11219",
@@ -629,7 +637,7 @@
         "imagen_url": "https://homepoint.site/img/11219.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,21"
+        "precio_ars": "$16,54"
     },
     {
         "codigo": "11220",
@@ -637,15 +645,15 @@
         "imagen_url": "https://homepoint.site/img/11220.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$7,24"
+        "precio_ars": "$7,38"
     },
     {
         "codigo": "11223",
         "nombre": "CONSERVADORA HELADERA 34 LTS",
         "imagen_url": "https://homepoint.site/img/11223.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,93"
+        "precio_ars": "$18,29"
     },
     {
         "codigo": "11224",
@@ -653,7 +661,7 @@
         "imagen_url": "https://homepoint.site/img/11224.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,82"
+        "precio_ars": "$10,02"
     },
     {
         "codigo": "11225",
@@ -661,7 +669,7 @@
         "imagen_url": "https://homepoint.site/img/11225.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,19"
+        "precio_ars": "$13,46"
     },
     {
         "codigo": "11226",
@@ -669,7 +677,7 @@
         "imagen_url": "https://homepoint.site/img/11226.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,15"
+        "precio_ars": "$12,40"
     },
     {
         "codigo": "11228",
@@ -677,7 +685,7 @@
         "imagen_url": "https://homepoint.site/img/11228.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,02"
+        "precio_ars": "$8,19"
     },
     {
         "codigo": "11229",
@@ -685,7 +693,7 @@
         "imagen_url": "https://homepoint.site/img/11229.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,47"
+        "precio_ars": "$8,64"
     },
     {
         "codigo": "10928",
@@ -693,7 +701,7 @@
         "imagen_url": "https://homepoint.site/img/10928.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$71,70"
+        "precio_ars": "$73,16"
     },
     {
         "codigo": "11029",
@@ -701,7 +709,7 @@
         "imagen_url": "https://homepoint.site/img/11029.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,75"
+        "precio_ars": "$15,05"
     },
     {
         "codigo": "11114",
@@ -709,7 +717,7 @@
         "imagen_url": "https://homepoint.site/img/11114.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,35"
+        "precio_ars": "$11,58"
     },
     {
         "codigo": "11209",
@@ -717,7 +725,7 @@
         "imagen_url": "https://homepoint.site/img/11209.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,49"
+        "precio_ars": "$13,76"
     },
     {
         "codigo": "11210",
@@ -725,7 +733,7 @@
         "imagen_url": "https://homepoint.site/img/11210.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,81"
+        "precio_ars": "$7,97"
     },
     {
         "codigo": "11211",
@@ -733,7 +741,7 @@
         "imagen_url": "https://homepoint.site/img/11211.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,81"
+        "precio_ars": "$7,97"
     },
     {
         "codigo": "11212",
@@ -741,7 +749,7 @@
         "imagen_url": "https://homepoint.site/img/11212.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$62,47"
+        "precio_ars": "$63,74"
     },
     {
         "codigo": "11213",
@@ -749,15 +757,15 @@
         "imagen_url": "https://homepoint.site/img/11213.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,94"
+        "precio_ars": "$7,08"
     },
     {
         "codigo": "11214",
         "nombre": "LAVADORA PORTATIL 4.5 LTS",
         "imagen_url": "https://homepoint.site/img/11214.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$25,46"
+        "precio_ars": "$25,98"
     },
     {
         "codigo": "11215",
@@ -765,7 +773,7 @@
         "imagen_url": "https://homepoint.site/img/11215.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,21"
+        "precio_ars": "$5,31"
     },
     {
         "codigo": "10288",
@@ -773,7 +781,7 @@
         "imagen_url": "https://homepoint.site/img/10288.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$32,10"
+        "precio_ars": "$32,76"
     },
     {
         "codigo": "11194",
@@ -781,7 +789,7 @@
         "imagen_url": "https://homepoint.site/img/11194.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$26,34"
+        "precio_ars": "$26,88"
     },
     {
         "codigo": "11196",
@@ -789,7 +797,7 @@
         "imagen_url": "https://homepoint.site/img/11196.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$21,94"
+        "precio_ars": "$22,39"
     },
     {
         "codigo": "11198",
@@ -797,7 +805,7 @@
         "imagen_url": "https://homepoint.site/img/11198.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$24,99"
+        "precio_ars": "$25,50"
     },
     {
         "codigo": "11200",
@@ -805,7 +813,7 @@
         "imagen_url": "https://homepoint.site/img/11200.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$40,38"
+        "precio_ars": "$41,20"
     },
     {
         "codigo": "11201",
@@ -813,7 +821,7 @@
         "imagen_url": "https://homepoint.site/img/11201.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,01"
+        "precio_ars": "$17,35"
     },
     {
         "codigo": "11202",
@@ -821,7 +829,7 @@
         "imagen_url": "https://homepoint.site/img/11202.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$51,54"
+        "precio_ars": "$52,59"
     },
     {
         "codigo": "11203",
@@ -829,7 +837,7 @@
         "imagen_url": "https://homepoint.site/img/11203.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$30,79"
+        "precio_ars": "$31,42"
     },
     {
         "codigo": "11206",
@@ -837,15 +845,15 @@
         "imagen_url": "https://homepoint.site/img/11206.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,17"
+        "precio_ars": "$3,24"
     },
     {
         "codigo": "11207",
         "nombre": "JARRO VIDRIO DOBLE TERMICO 350 ML",
         "imagen_url": "https://homepoint.site/img/11207.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,67"
+        "precio_ars": "$4,76"
     },
     {
         "codigo": "11181",
@@ -853,7 +861,7 @@
         "imagen_url": "https://homepoint.site/img/11181.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$20,19"
+        "precio_ars": "$20,60"
     },
     {
         "codigo": "11182",
@@ -861,7 +869,7 @@
         "imagen_url": "https://homepoint.site/img/11182.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$23,35"
+        "precio_ars": "$23,83"
     },
     {
         "codigo": "11185",
@@ -869,7 +877,7 @@
         "imagen_url": "https://homepoint.site/img/11185.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$21,07"
+        "precio_ars": "$21,50"
     },
     {
         "codigo": "11186",
@@ -877,7 +885,7 @@
         "imagen_url": "https://homepoint.site/img/11186.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$24,58"
+        "precio_ars": "$25,08"
     },
     {
         "codigo": "11187",
@@ -885,7 +893,7 @@
         "imagen_url": "https://homepoint.site/img/11187.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$28,01"
+        "precio_ars": "$28,58"
     },
     {
         "codigo": "11189",
@@ -893,7 +901,7 @@
         "imagen_url": "https://homepoint.site/img/11189.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$50,92"
+        "precio_ars": "$51,96"
     },
     {
         "codigo": "11190",
@@ -901,7 +909,7 @@
         "imagen_url": "https://homepoint.site/img/11190.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$25,73"
+        "precio_ars": "$26,25"
     },
     {
         "codigo": "11192",
@@ -909,7 +917,7 @@
         "imagen_url": "https://homepoint.site/img/11192.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$60,37"
+        "precio_ars": "$61,60"
     },
     {
         "codigo": "11193",
@@ -917,7 +925,7 @@
         "imagen_url": "https://homepoint.site/img/11193.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$48,37"
+        "precio_ars": "$49,35"
     },
     {
         "codigo": "10202",
@@ -925,7 +933,7 @@
         "imagen_url": "https://homepoint.site/img/10202.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$41,37"
+        "precio_ars": "$42,21"
     },
     {
         "codigo": "10266",
@@ -933,7 +941,7 @@
         "imagen_url": "https://homepoint.site/img/10266.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$19,96"
+        "precio_ars": "$20,36"
     },
     {
         "codigo": "10730",
@@ -941,7 +949,7 @@
         "imagen_url": "https://homepoint.site/img/10730.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$14,59"
+        "precio_ars": "$14,89"
     },
     {
         "codigo": "10775",
@@ -949,7 +957,7 @@
         "imagen_url": "https://homepoint.site/img/10775.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,51"
+        "precio_ars": "$6,64"
     },
     {
         "codigo": "10851",
@@ -957,7 +965,7 @@
         "imagen_url": "https://homepoint.site/img/10851.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,42"
+        "precio_ars": "$8,59"
     },
     {
         "codigo": "10955",
@@ -965,7 +973,7 @@
         "imagen_url": "https://homepoint.site/img/10955.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,73"
+        "precio_ars": "$8,91"
     },
     {
         "codigo": "11163",
@@ -973,7 +981,7 @@
         "imagen_url": "https://homepoint.site/img/11163.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,04"
+        "precio_ars": "$6,16"
     },
     {
         "codigo": "11177",
@@ -981,7 +989,7 @@
         "imagen_url": "https://homepoint.site/img/11177.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,17"
+        "precio_ars": "$11,40"
     },
     {
         "codigo": "11179",
@@ -989,15 +997,7 @@
         "imagen_url": "https://homepoint.site/img/11179.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,95"
-    },
-    {
-        "codigo": "11180",
-        "nombre": "PARASOL DE AUTO CON FUNDA",
-        "imagen_url": "https://homepoint.site/img/11180.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$7,15"
+        "precio_ars": "$5,05"
     },
     {
         "codigo": "10114",
@@ -1005,7 +1005,7 @@
         "imagen_url": "https://homepoint.site/img/10114.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$23,38"
+        "precio_ars": "$23,85"
     },
     {
         "codigo": "10206",
@@ -1013,7 +1013,7 @@
         "imagen_url": "https://homepoint.site/img/10206.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,22"
+        "precio_ars": "$8,39"
     },
     {
         "codigo": "10292",
@@ -1021,7 +1021,7 @@
         "imagen_url": "https://homepoint.site/img/10292.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,90"
+        "precio_ars": "$3,98"
     },
     {
         "codigo": "10532",
@@ -1029,7 +1029,7 @@
         "imagen_url": "https://homepoint.site/img/10532.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,64"
+        "precio_ars": "$10,86"
     },
     {
         "codigo": "11033",
@@ -1037,7 +1037,7 @@
         "imagen_url": "https://homepoint.site/img/11033.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,76"
+        "precio_ars": "$6,90"
     },
     {
         "codigo": "11168",
@@ -1045,7 +1045,7 @@
         "imagen_url": "https://homepoint.site/img/11168.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,62"
+        "precio_ars": "$4,71"
     },
     {
         "codigo": "11169",
@@ -1053,7 +1053,7 @@
         "imagen_url": "https://homepoint.site/img/11169.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,39"
+        "precio_ars": "$2,44"
     },
     {
         "codigo": "11170",
@@ -1061,7 +1061,7 @@
         "imagen_url": "https://homepoint.site/img/11170.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,87"
+        "precio_ars": "$15,18"
     },
     {
         "codigo": "11172",
@@ -1069,7 +1069,7 @@
         "imagen_url": "https://homepoint.site/img/11172.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,65"
+        "precio_ars": "$3,72"
     },
     {
         "codigo": "11173",
@@ -1077,7 +1077,7 @@
         "imagen_url": "https://homepoint.site/img/11173.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,71"
+        "precio_ars": "$1,74"
     },
     {
         "codigo": "11174",
@@ -1085,7 +1085,7 @@
         "imagen_url": "https://homepoint.site/img/11174.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,45"
+        "precio_ars": "$2,50"
     },
     {
         "codigo": "11175",
@@ -1093,7 +1093,7 @@
         "imagen_url": "https://homepoint.site/img/11175.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,63"
+        "precio_ars": "$3,71"
     },
     {
         "codigo": "11176",
@@ -1101,7 +1101,7 @@
         "imagen_url": "https://homepoint.site/img/11176.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,22"
+        "precio_ars": "$8,39"
     },
     {
         "codigo": "10321",
@@ -1109,7 +1109,7 @@
         "imagen_url": "https://homepoint.site/img/10321.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,25"
+        "precio_ars": "$6,37"
     },
     {
         "codigo": "10335",
@@ -1117,7 +1117,7 @@
         "imagen_url": "https://homepoint.site/img/10335.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$103,25"
+        "precio_ars": "$105,35"
     },
     {
         "codigo": "10372",
@@ -1125,7 +1125,7 @@
         "imagen_url": "https://homepoint.site/img/10372.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,28"
+        "precio_ars": "$13,54"
     },
     {
         "codigo": "10544",
@@ -1133,7 +1133,7 @@
         "imagen_url": "https://homepoint.site/img/10544.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,08"
+        "precio_ars": "$12,33"
     },
     {
         "codigo": "10585",
@@ -1141,7 +1141,7 @@
         "imagen_url": "https://homepoint.site/img/10585.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,74"
+        "precio_ars": "$5,86"
     },
     {
         "codigo": "10971",
@@ -1149,7 +1149,7 @@
         "imagen_url": "https://homepoint.site/img/10971.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$2,59"
+        "precio_ars": "$2,64"
     },
     {
         "codigo": "10989",
@@ -1157,7 +1157,7 @@
         "imagen_url": "https://homepoint.site/img/10989.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,23"
+        "precio_ars": "$12,48"
     },
     {
         "codigo": "11143",
@@ -1165,7 +1165,7 @@
         "imagen_url": "https://homepoint.site/img/11143.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,09"
+        "precio_ars": "$5,19"
     },
     {
         "codigo": "11164",
@@ -1173,7 +1173,7 @@
         "imagen_url": "https://homepoint.site/img/11164.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,85"
+        "precio_ars": "$4,95"
     },
     {
         "codigo": "11165",
@@ -1181,7 +1181,7 @@
         "imagen_url": "https://homepoint.site/img/11165.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$11,94"
+        "precio_ars": "$12,18"
     },
     {
         "codigo": "11166",
@@ -1189,7 +1189,7 @@
         "imagen_url": "https://homepoint.site/img/11166.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,28"
+        "precio_ars": "$13,54"
     },
     {
         "codigo": "11167",
@@ -1197,7 +1197,7 @@
         "imagen_url": "https://homepoint.site/img/11167.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,28"
+        "precio_ars": "$6,41"
     },
     {
         "codigo": "10186",
@@ -1205,7 +1205,7 @@
         "imagen_url": "https://homepoint.site/img/10186.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,45"
+        "precio_ars": "$11,69"
     },
     {
         "codigo": "10322",
@@ -1213,15 +1213,15 @@
         "imagen_url": "https://homepoint.site/img/10322.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$31,73"
+        "precio_ars": "$32,38"
     },
     {
         "codigo": "10364",
         "nombre": "CORTADORA MANDOLINA GRANDE",
         "imagen_url": "https://homepoint.site/img/10364.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,06"
+        "precio_ars": "$12,31"
     },
     {
         "codigo": "10488",
@@ -1229,7 +1229,7 @@
         "imagen_url": "https://homepoint.site/img/10488.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$23,77"
+        "precio_ars": "$24,26"
     },
     {
         "codigo": "10489",
@@ -1237,7 +1237,7 @@
         "imagen_url": "https://homepoint.site/img/10489.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$24,35"
+        "precio_ars": "$24,84"
     },
     {
         "codigo": "10668",
@@ -1245,7 +1245,7 @@
         "imagen_url": "https://homepoint.site/img/10668.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$36,57"
+        "precio_ars": "$37,31"
     },
     {
         "codigo": "10675",
@@ -1253,7 +1253,7 @@
         "imagen_url": "https://homepoint.site/img/10675.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$19,61"
+        "precio_ars": "$20,01"
     },
     {
         "codigo": "10740",
@@ -1261,7 +1261,7 @@
         "imagen_url": "https://homepoint.site/img/10740.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,63"
+        "precio_ars": "$11,86"
     },
     {
         "codigo": "10746",
@@ -1269,7 +1269,7 @@
         "imagen_url": "https://homepoint.site/img/10746.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$27,66"
+        "precio_ars": "$28,22"
     },
     {
         "codigo": "10763",
@@ -1277,7 +1277,7 @@
         "imagen_url": "https://homepoint.site/img/10763.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,00"
+        "precio_ars": "$16,32"
     },
     {
         "codigo": "10902",
@@ -1285,7 +1285,7 @@
         "imagen_url": "https://homepoint.site/img/10902.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,77"
+        "precio_ars": "$6,91"
     },
     {
         "codigo": "11158",
@@ -1293,7 +1293,7 @@
         "imagen_url": "https://homepoint.site/img/11158.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,55"
+        "precio_ars": "$9,75"
     },
     {
         "codigo": "11159",
@@ -1301,7 +1301,7 @@
         "imagen_url": "https://homepoint.site/img/11159.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,85"
+        "precio_ars": "$3,93"
     },
     {
         "codigo": "11160",
@@ -1309,7 +1309,7 @@
         "imagen_url": "https://homepoint.site/img/11160.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,57"
+        "precio_ars": "$6,70"
     },
     {
         "codigo": "10340",
@@ -1317,7 +1317,7 @@
         "imagen_url": "https://homepoint.site/img/10340.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$52,32"
+        "precio_ars": "$53,38"
     },
     {
         "codigo": "10670",
@@ -1325,7 +1325,7 @@
         "imagen_url": "https://homepoint.site/img/10670.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$38,04"
+        "precio_ars": "$38,82"
     },
     {
         "codigo": "10948",
@@ -1333,7 +1333,7 @@
         "imagen_url": "https://homepoint.site/img/10948.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,00"
+        "precio_ars": "$17,34"
     },
     {
         "codigo": "11156",
@@ -1341,7 +1341,7 @@
         "imagen_url": "https://homepoint.site/img/11156.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,88"
+        "precio_ars": "$17,23"
     },
     {
         "codigo": "11003",
@@ -1349,7 +1349,7 @@
         "imagen_url": "https://homepoint.site/img/11003.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,20"
+        "precio_ars": "$6,32"
     },
     {
         "codigo": "11133",
@@ -1357,15 +1357,7 @@
         "imagen_url": "https://homepoint.site/img/11133.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$18,62"
-    },
-    {
-        "codigo": "10339",
-        "nombre": "VENTILADOR DE TECHO RETRACTIL",
-        "imagen_url": "https://homepoint.site/img/10339.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$89,82"
+        "precio_ars": "$19,00"
     },
     {
         "codigo": "10516",
@@ -1373,7 +1365,7 @@
         "imagen_url": "https://homepoint.site/img/10516.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,57"
+        "precio_ars": "$4,67"
     },
     {
         "codigo": "10735",
@@ -1381,7 +1373,7 @@
         "imagen_url": "https://homepoint.site/img/10735.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$58,81"
+        "precio_ars": "$60,01"
     },
     {
         "codigo": "10777",
@@ -1389,7 +1381,7 @@
         "imagen_url": "https://homepoint.site/img/10777.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,56"
+        "precio_ars": "$4,66"
     },
     {
         "codigo": "10868",
@@ -1397,7 +1389,7 @@
         "imagen_url": "https://homepoint.site/img/10868.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$94,87"
+        "precio_ars": "$96,80"
     },
     {
         "codigo": "11080",
@@ -1405,15 +1397,15 @@
         "imagen_url": "https://homepoint.site/img/11080.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,99"
+        "precio_ars": "$4,07"
     },
     {
         "codigo": "11109",
         "nombre": "CAMARA CON IMPRESORA INFANTIL",
         "imagen_url": "https://homepoint.site/img/11109.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$22,95"
+        "precio_ars": "$23,42"
     },
     {
         "codigo": "11153",
@@ -1421,7 +1413,7 @@
         "imagen_url": "https://homepoint.site/img/11153.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,29"
+        "precio_ars": "$12,54"
     },
     {
         "codigo": "11155",
@@ -1429,7 +1421,7 @@
         "imagen_url": "https://homepoint.site/img/11155.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,67"
+        "precio_ars": "$5,79"
     },
     {
         "codigo": "10349",
@@ -1437,7 +1429,7 @@
         "imagen_url": "https://homepoint.site/img/10349.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$27,66"
+        "precio_ars": "$28,22"
     },
     {
         "codigo": "10405",
@@ -1445,7 +1437,7 @@
         "imagen_url": "https://homepoint.site/img/10405.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$62,69"
+        "precio_ars": "$63,96"
     },
     {
         "codigo": "10650",
@@ -1453,7 +1445,7 @@
         "imagen_url": "https://homepoint.site/img/10650.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$46,85"
+        "precio_ars": "$47,81"
     },
     {
         "codigo": "10977",
@@ -1461,7 +1453,7 @@
         "imagen_url": "https://homepoint.site/img/10977.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$29,16"
+        "precio_ars": "$29,75"
     },
     {
         "codigo": "11112",
@@ -1469,7 +1461,7 @@
         "imagen_url": "https://homepoint.site/img/11112.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$37,48"
+        "precio_ars": "$38,24"
     },
     {
         "codigo": "10057",
@@ -1477,7 +1469,7 @@
         "imagen_url": "https://homepoint.site/img/10057.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,89"
+        "precio_ars": "$10,09"
     },
     {
         "codigo": "10972",
@@ -1485,7 +1477,7 @@
         "imagen_url": "https://homepoint.site/img/10972.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$1,44"
+        "precio_ars": "$1,47"
     },
     {
         "codigo": "11097",
@@ -1493,7 +1485,7 @@
         "imagen_url": "https://homepoint.site/img/11097.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$7,38"
+        "precio_ars": "$7,53"
     },
     {
         "codigo": "10050",
@@ -1501,23 +1493,15 @@
         "imagen_url": "https://homepoint.site/img/10050.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,49"
+        "precio_ars": "$6,62"
     },
     {
         "codigo": "10112",
         "nombre": "KIT HERRAMIENTAS TUBO 46 PCS",
         "imagen_url": "https://homepoint.site/img/10112.jpg",
-        "estado": "Disponible",
-        "precio_usd": null,
-        "precio_ars": "$10,24"
-    },
-    {
-        "codigo": "10519",
-        "nombre": "TV BOX",
-        "imagen_url": "https://homepoint.site/img/10519.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$32,10"
+        "precio_ars": "$10,45"
     },
     {
         "codigo": "10741",
@@ -1525,7 +1509,7 @@
         "imagen_url": "https://homepoint.site/img/10741.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,07"
+        "precio_ars": "$6,20"
     },
     {
         "codigo": "10877",
@@ -1533,7 +1517,7 @@
         "imagen_url": "https://homepoint.site/img/10877.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$20,51"
+        "precio_ars": "$20,93"
     },
     {
         "codigo": "10879",
@@ -1541,7 +1525,7 @@
         "imagen_url": "https://homepoint.site/img/10879.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$25,16"
+        "precio_ars": "$25,67"
     },
     {
         "codigo": "11144",
@@ -1549,7 +1533,7 @@
         "imagen_url": "https://homepoint.site/img/11144.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,29"
+        "precio_ars": "$7,43"
     },
     {
         "codigo": "11145",
@@ -1557,7 +1541,7 @@
         "imagen_url": "https://homepoint.site/img/11145.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,64"
+        "precio_ars": "$4,74"
     },
     {
         "codigo": "10010",
@@ -1565,7 +1549,7 @@
         "imagen_url": "https://homepoint.site/img/10010.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,97"
+        "precio_ars": "$13,23"
     },
     {
         "codigo": "10115",
@@ -1573,7 +1557,7 @@
         "imagen_url": "https://homepoint.site/img/10115.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$23,75"
+        "precio_ars": "$24,24"
     },
     {
         "codigo": "10195",
@@ -1581,7 +1565,7 @@
         "imagen_url": "https://homepoint.site/img/10195.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,75"
+        "precio_ars": "$15,05"
     },
     {
         "codigo": "10245",
@@ -1589,7 +1573,7 @@
         "imagen_url": "https://homepoint.site/img/10245.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,98"
+        "precio_ars": "$10,18"
     },
     {
         "codigo": "10622",
@@ -1597,7 +1581,7 @@
         "imagen_url": "https://homepoint.site/img/10622.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$39,36"
+        "precio_ars": "$40,16"
     },
     {
         "codigo": "10907",
@@ -1605,7 +1589,7 @@
         "imagen_url": "https://homepoint.site/img/10907.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,36"
+        "precio_ars": "$11,59"
     },
     {
         "codigo": "10939",
@@ -1613,7 +1597,7 @@
         "imagen_url": "https://homepoint.site/img/10939.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$117,06"
+        "precio_ars": "$119,44"
     },
     {
         "codigo": "11104",
@@ -1621,7 +1605,7 @@
         "imagen_url": "https://homepoint.site/img/11104.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,73"
+        "precio_ars": "$9,93"
     },
     {
         "codigo": "11142",
@@ -1629,7 +1613,7 @@
         "imagen_url": "https://homepoint.site/img/11142.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$18,74"
+        "precio_ars": "$19,12"
     },
     {
         "codigo": "10028",
@@ -1637,7 +1621,7 @@
         "imagen_url": "https://homepoint.site/img/10028.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,28"
+        "precio_ars": "$11,51"
     },
     {
         "codigo": "10103",
@@ -1645,7 +1629,7 @@
         "imagen_url": "https://homepoint.site/img/10103.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,02"
+        "precio_ars": "$2,06"
     },
     {
         "codigo": "10538",
@@ -1653,7 +1637,7 @@
         "imagen_url": "https://homepoint.site/img/10538.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$67,05"
+        "precio_ars": "$68,41"
     },
     {
         "codigo": "10781",
@@ -1661,7 +1645,7 @@
         "imagen_url": "https://homepoint.site/img/10781.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,34"
+        "precio_ars": "$15,65"
     },
     {
         "codigo": "11131",
@@ -1669,7 +1653,7 @@
         "imagen_url": "https://homepoint.site/img/11131.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,31"
+        "precio_ars": "$11,54"
     },
     {
         "codigo": "11132",
@@ -1677,7 +1661,7 @@
         "imagen_url": "https://homepoint.site/img/11132.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$19,09"
+        "precio_ars": "$19,48"
     },
     {
         "codigo": "11134",
@@ -1685,7 +1669,7 @@
         "imagen_url": "https://homepoint.site/img/11134.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,16"
+        "precio_ars": "$2,20"
     },
     {
         "codigo": "11135",
@@ -1693,7 +1677,7 @@
         "imagen_url": "https://homepoint.site/img/11135.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$98,91"
+        "precio_ars": "$100,92"
     },
     {
         "codigo": "11137",
@@ -1701,7 +1685,7 @@
         "imagen_url": "https://homepoint.site/img/11137.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$37,77"
+        "precio_ars": "$38,54"
     },
     {
         "codigo": "11138",
@@ -1709,7 +1693,7 @@
         "imagen_url": "https://homepoint.site/img/11138.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$20,69"
+        "precio_ars": "$21,11"
     },
     {
         "codigo": "11139",
@@ -1717,7 +1701,7 @@
         "imagen_url": "https://homepoint.site/img/11139.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$26,98"
+        "precio_ars": "$27,53"
     },
     {
         "codigo": "11140",
@@ -1725,7 +1709,7 @@
         "imagen_url": "https://homepoint.site/img/11140.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$33,46"
+        "precio_ars": "$34,14"
     },
     {
         "codigo": "10520",
@@ -1733,7 +1717,7 @@
         "imagen_url": "https://homepoint.site/img/10520.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$23,60"
+        "precio_ars": "$24,08"
     },
     {
         "codigo": "10576",
@@ -1741,7 +1725,7 @@
         "imagen_url": "https://homepoint.site/img/10576.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,96"
+        "precio_ars": "$16,29"
     },
     {
         "codigo": "10687",
@@ -1749,7 +1733,7 @@
         "imagen_url": "https://homepoint.site/img/10687.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,54"
+        "precio_ars": "$9,74"
     },
     {
         "codigo": "10857",
@@ -1757,7 +1741,7 @@
         "imagen_url": "https://homepoint.site/img/10857.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,62"
+        "precio_ars": "$15,94"
     },
     {
         "codigo": "10910",
@@ -1765,7 +1749,7 @@
         "imagen_url": "https://homepoint.site/img/10910.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$5,90"
+        "precio_ars": "$6,02"
     },
     {
         "codigo": "10994",
@@ -1773,7 +1757,7 @@
         "imagen_url": "https://homepoint.site/img/10994.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$78,96"
+        "precio_ars": "$80,56"
     },
     {
         "codigo": "11123",
@@ -1781,7 +1765,7 @@
         "imagen_url": "https://homepoint.site/img/11123.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,66"
+        "precio_ars": "$9,85"
     },
     {
         "codigo": "11124",
@@ -1789,7 +1773,7 @@
         "imagen_url": "https://homepoint.site/img/11124.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$25,22"
+        "precio_ars": "$25,74"
     },
     {
         "codigo": "11125",
@@ -1797,7 +1781,7 @@
         "imagen_url": "https://homepoint.site/img/11125.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$22,63"
+        "precio_ars": "$23,09"
     },
     {
         "codigo": "11126",
@@ -1805,7 +1789,7 @@
         "imagen_url": "https://homepoint.site/img/11126.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,38"
+        "precio_ars": "$8,55"
     },
     {
         "codigo": "11129",
@@ -1813,7 +1797,7 @@
         "imagen_url": "https://homepoint.site/img/11129.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$7,10"
+        "precio_ars": "$7,24"
     },
     {
         "codigo": "10653",
@@ -1821,7 +1805,7 @@
         "imagen_url": "https://homepoint.site/img/10653.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$41,65"
+        "precio_ars": "$42,49"
     },
     {
         "codigo": "10805",
@@ -1829,15 +1813,7 @@
         "imagen_url": "https://homepoint.site/img/10805.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$50,32"
-    },
-    {
-        "codigo": "10964",
-        "nombre": "CLUB DE NUIT WOMAN",
-        "imagen_url": "https://homepoint.site/img/10964.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$46,31"
+        "precio_ars": "$51,35"
     },
     {
         "codigo": "11117",
@@ -1845,7 +1821,7 @@
         "imagen_url": "https://homepoint.site/img/11117.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$50,32"
+        "precio_ars": "$51,35"
     },
     {
         "codigo": "11120",
@@ -1853,7 +1829,7 @@
         "imagen_url": "https://homepoint.site/img/11120.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$39,91"
+        "precio_ars": "$40,72"
     },
     {
         "codigo": "11122",
@@ -1861,7 +1837,7 @@
         "imagen_url": "https://homepoint.site/img/11122.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$31,23"
+        "precio_ars": "$31,87"
     },
     {
         "codigo": "10652",
@@ -1869,7 +1845,7 @@
         "imagen_url": "https://homepoint.site/img/10652.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$87,51"
+        "precio_ars": "$89,29"
     },
     {
         "codigo": "10659",
@@ -1877,7 +1853,7 @@
         "imagen_url": "https://homepoint.site/img/10659.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$87,51"
+        "precio_ars": "$89,29"
     },
     {
         "codigo": "10665",
@@ -1885,7 +1861,7 @@
         "imagen_url": "https://homepoint.site/img/10665.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$42,69"
+        "precio_ars": "$43,56"
     },
     {
         "codigo": "11032",
@@ -1893,7 +1869,7 @@
         "imagen_url": "https://homepoint.site/img/11032.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,12"
+        "precio_ars": "$7,26"
     },
     {
         "codigo": "11121",
@@ -1901,7 +1877,7 @@
         "imagen_url": "https://homepoint.site/img/11121.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$48,03"
+        "precio_ars": "$49,01"
     },
     {
         "codigo": "10119",
@@ -1909,15 +1885,7 @@
         "imagen_url": "https://homepoint.site/img/10119.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,11"
-    },
-    {
-        "codigo": "10140",
-        "nombre": "MAQUINA DONAS",
-        "imagen_url": "https://homepoint.site/img/10140.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$34,58"
+        "precio_ars": "$9,30"
     },
     {
         "codigo": "10517",
@@ -1925,15 +1893,15 @@
         "imagen_url": "https://homepoint.site/img/10517.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,26"
+        "precio_ars": "$9,45"
     },
     {
         "codigo": "10518",
         "nombre": "MARCADORES DOBLE PUNTA x 60u.",
         "imagen_url": "https://homepoint.site/img/10518.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,49"
+        "precio_ars": "$12,75"
     },
     {
         "codigo": "10536",
@@ -1941,7 +1909,7 @@
         "imagen_url": "https://homepoint.site/img/10536.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,54"
+        "precio_ars": "$12,79"
     },
     {
         "codigo": "10594",
@@ -1949,7 +1917,7 @@
         "imagen_url": "https://homepoint.site/img/10594.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$17,75"
+        "precio_ars": "$18,11"
     },
     {
         "codigo": "10679",
@@ -1957,7 +1925,7 @@
         "imagen_url": "https://homepoint.site/img/10679.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$76,35"
+        "precio_ars": "$77,91"
     },
     {
         "codigo": "10554",
@@ -1965,7 +1933,7 @@
         "imagen_url": "https://homepoint.site/img/10554.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$240,00"
+        "precio_ars": "$245,00"
     },
     {
         "codigo": "11018",
@@ -1973,7 +1941,7 @@
         "imagen_url": "https://homepoint.site/img/11018.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,10"
+        "precio_ars": "$3,16"
     },
     {
         "codigo": "11102",
@@ -1981,7 +1949,7 @@
         "imagen_url": "https://homepoint.site/img/11102.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$19,09"
+        "precio_ars": "$19,48"
     },
     {
         "codigo": "11103",
@@ -1989,7 +1957,7 @@
         "imagen_url": "https://homepoint.site/img/11103.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,08"
+        "precio_ars": "$15,39"
     },
     {
         "codigo": "10824",
@@ -1997,7 +1965,7 @@
         "imagen_url": "https://homepoint.site/img/10824.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,03"
+        "precio_ars": "$12,27"
     },
     {
         "codigo": "10696",
@@ -2005,7 +1973,7 @@
         "imagen_url": "https://homepoint.site/img/10696.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$29,20"
+        "precio_ars": "$29,80"
     },
     {
         "codigo": "10389",
@@ -2013,7 +1981,7 @@
         "imagen_url": "https://homepoint.site/img/10389.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$44,25"
+        "precio_ars": "$45,15"
     },
     {
         "codigo": "10714",
@@ -2021,7 +1989,7 @@
         "imagen_url": "https://homepoint.site/img/10714.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,89"
+        "precio_ars": "$3,97"
     },
     {
         "codigo": "10734",
@@ -2029,7 +1997,7 @@
         "imagen_url": "https://homepoint.site/img/10734.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$24,01"
+        "precio_ars": "$24,50"
     },
     {
         "codigo": "10801",
@@ -2037,7 +2005,7 @@
         "imagen_url": "https://homepoint.site/img/10801.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$26,58"
+        "precio_ars": "$27,12"
     },
     {
         "codigo": "11021",
@@ -2045,7 +2013,7 @@
         "imagen_url": "https://homepoint.site/img/11021.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,46"
+        "precio_ars": "$7,61"
     },
     {
         "codigo": "11099",
@@ -2053,7 +2021,7 @@
         "imagen_url": "https://homepoint.site/img/11099.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,10"
+        "precio_ars": "$15,40"
     },
     {
         "codigo": "11101",
@@ -2061,7 +2029,7 @@
         "imagen_url": "https://homepoint.site/img/11101.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$17,35"
+        "precio_ars": "$17,71"
     },
     {
         "codigo": "10043",
@@ -2069,7 +2037,7 @@
         "imagen_url": "https://homepoint.site/img/10043.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,52"
+        "precio_ars": "$2,57"
     },
     {
         "codigo": "10085",
@@ -2077,7 +2045,7 @@
         "imagen_url": "https://homepoint.site/img/10085.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,58"
+        "precio_ars": "$5,69"
     },
     {
         "codigo": "10296",
@@ -2085,7 +2053,7 @@
         "imagen_url": "https://homepoint.site/img/10296.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$23,38"
+        "precio_ars": "$23,86"
     },
     {
         "codigo": "10685",
@@ -2093,7 +2061,7 @@
         "imagen_url": "https://homepoint.site/img/10685.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$34,71"
+        "precio_ars": "$35,41"
     },
     {
         "codigo": "10703",
@@ -2101,7 +2069,7 @@
         "imagen_url": "https://homepoint.site/img/10703.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$19,67"
+        "precio_ars": "$20,07"
     },
     {
         "codigo": "10716",
@@ -2109,7 +2077,7 @@
         "imagen_url": "https://homepoint.site/img/10716.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,19"
+        "precio_ars": "$16,52"
     },
     {
         "codigo": "10992",
@@ -2117,7 +2085,7 @@
         "imagen_url": "https://homepoint.site/img/10992.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,28"
+        "precio_ars": "$11,51"
     },
     {
         "codigo": "11083",
@@ -2125,7 +2093,7 @@
         "imagen_url": "https://homepoint.site/img/11083.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$35,95"
+        "precio_ars": "$36,68"
     },
     {
         "codigo": "11084",
@@ -2133,7 +2101,7 @@
         "imagen_url": "https://homepoint.site/img/11084.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$35,95"
+        "precio_ars": "$36,68"
     },
     {
         "codigo": "11085",
@@ -2141,7 +2109,7 @@
         "imagen_url": "https://homepoint.site/img/11085.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,59"
+        "precio_ars": "$12,85"
     },
     {
         "codigo": "11086",
@@ -2149,7 +2117,7 @@
         "imagen_url": "https://homepoint.site/img/11086.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,11"
+        "precio_ars": "$13,38"
     },
     {
         "codigo": "11087",
@@ -2157,7 +2125,7 @@
         "imagen_url": "https://homepoint.site/img/11087.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$26,90"
+        "precio_ars": "$27,44"
     },
     {
         "codigo": "11088",
@@ -2165,7 +2133,7 @@
         "imagen_url": "https://homepoint.site/img/11088.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$26,03"
+        "precio_ars": "$26,56"
     },
     {
         "codigo": "11089",
@@ -2173,7 +2141,7 @@
         "imagen_url": "https://homepoint.site/img/11089.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$31,23"
+        "precio_ars": "$31,87"
     },
     {
         "codigo": "11090",
@@ -2181,7 +2149,7 @@
         "imagen_url": "https://homepoint.site/img/11090.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$41,65"
+        "precio_ars": "$42,49"
     },
     {
         "codigo": "11091",
@@ -2189,7 +2157,7 @@
         "imagen_url": "https://homepoint.site/img/11091.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,88"
+        "precio_ars": "$14,16"
     },
     {
         "codigo": "11092",
@@ -2197,7 +2165,7 @@
         "imagen_url": "https://homepoint.site/img/11092.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,15"
+        "precio_ars": "$12,39"
     },
     {
         "codigo": "11093",
@@ -2205,7 +2173,7 @@
         "imagen_url": "https://homepoint.site/img/11093.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,76"
+        "precio_ars": "$17,10"
     },
     {
         "codigo": "10066",
@@ -2213,7 +2181,7 @@
         "imagen_url": "https://homepoint.site/img/10066.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,93"
+        "precio_ars": "$8,09"
     },
     {
         "codigo": "10491",
@@ -2221,7 +2189,7 @@
         "imagen_url": "https://homepoint.site/img/10491.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$45,17"
+        "precio_ars": "$46,09"
     },
     {
         "codigo": "10556",
@@ -2229,7 +2197,7 @@
         "imagen_url": "https://homepoint.site/img/10556.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,61"
+        "precio_ars": "$4,70"
     },
     {
         "codigo": "11081",
@@ -2237,7 +2205,7 @@
         "imagen_url": "https://homepoint.site/img/11081.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$25,77"
+        "precio_ars": "$26,29"
     },
     {
         "codigo": "11082",
@@ -2245,7 +2213,7 @@
         "imagen_url": "https://homepoint.site/img/11082.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,28"
+        "precio_ars": "$13,54"
     },
     {
         "codigo": "11051",
@@ -2253,7 +2221,7 @@
         "imagen_url": "https://homepoint.site/img/11051.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,34"
+        "precio_ars": "$15,65"
     },
     {
         "codigo": "11052",
@@ -2261,7 +2229,7 @@
         "imagen_url": "https://homepoint.site/img/11052.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$66,96"
+        "precio_ars": "$68,32"
     },
     {
         "codigo": "11053",
@@ -2269,7 +2237,7 @@
         "imagen_url": "https://homepoint.site/img/11053.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$66,96"
+        "precio_ars": "$68,32"
     },
     {
         "codigo": "11055",
@@ -2277,7 +2245,7 @@
         "imagen_url": "https://homepoint.site/img/11055.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,26"
+        "precio_ars": "$8,43"
     },
     {
         "codigo": "11056",
@@ -2285,7 +2253,7 @@
         "imagen_url": "https://homepoint.site/img/11056.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,75"
+        "precio_ars": "$3,83"
     },
     {
         "codigo": "11057",
@@ -2293,7 +2261,7 @@
         "imagen_url": "https://homepoint.site/img/11057.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,75"
+        "precio_ars": "$3,83"
     },
     {
         "codigo": "11061",
@@ -2301,7 +2269,7 @@
         "imagen_url": "https://homepoint.site/img/11061.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,64"
+        "precio_ars": "$6,77"
     },
     {
         "codigo": "11063",
@@ -2309,7 +2277,7 @@
         "imagen_url": "https://homepoint.site/img/11063.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,99"
+        "precio_ars": "$9,18"
     },
     {
         "codigo": "11068",
@@ -2317,7 +2285,7 @@
         "imagen_url": "https://homepoint.site/img/11068.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$34,20"
+        "precio_ars": "$34,89"
     },
     {
         "codigo": "11071",
@@ -2325,7 +2293,7 @@
         "imagen_url": "https://homepoint.site/img/11071.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$24,79"
+        "precio_ars": "$25,29"
     },
     {
         "codigo": "11074",
@@ -2333,7 +2301,7 @@
         "imagen_url": "https://homepoint.site/img/11074.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,18"
+        "precio_ars": "$17,53"
     },
     {
         "codigo": "11076",
@@ -2341,7 +2309,7 @@
         "imagen_url": "https://homepoint.site/img/11076.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$2,65"
+        "precio_ars": "$2,71"
     },
     {
         "codigo": "11078",
@@ -2349,7 +2317,7 @@
         "imagen_url": "https://homepoint.site/img/11078.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$16,12"
+        "precio_ars": "$16,45"
     },
     {
         "codigo": "11043",
@@ -2357,7 +2325,7 @@
         "imagen_url": "https://homepoint.site/img/11043.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,47"
+        "precio_ars": "$3,54"
     },
     {
         "codigo": "11044",
@@ -2365,7 +2333,7 @@
         "imagen_url": "https://homepoint.site/img/11044.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,43"
+        "precio_ars": "$2,48"
     },
     {
         "codigo": "11079",
@@ -2373,7 +2341,7 @@
         "imagen_url": "https://homepoint.site/img/11079.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,34"
+        "precio_ars": "$2,39"
     },
     {
         "codigo": "10051",
@@ -2381,7 +2349,7 @@
         "imagen_url": "https://homepoint.site/img/10051.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,48"
+        "precio_ars": "$13,75"
     },
     {
         "codigo": "10174",
@@ -2389,7 +2357,7 @@
         "imagen_url": "https://homepoint.site/img/10174.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,04"
+        "precio_ars": "$13,30"
     },
     {
         "codigo": "11045",
@@ -2397,23 +2365,15 @@
         "imagen_url": "https://homepoint.site/img/11045.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,41"
+        "precio_ars": "$12,66"
     },
     {
         "codigo": "11046",
         "nombre": "JUEGO DE OLLAS CON PLANCHA TOKIO 8",
         "imagen_url": "https://homepoint.site/img/11046.jpg",
-        "estado": "Disponible",
-        "precio_usd": null,
-        "precio_ars": "$67,16"
-    },
-    {
-        "codigo": "10605",
-        "nombre": "HUMIDIFICADOR JSQ07",
-        "imagen_url": "https://homepoint.site/img/10605.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$5,67"
+        "precio_ars": "$68,52"
     },
     {
         "codigo": "10654",
@@ -2421,7 +2381,7 @@
         "imagen_url": "https://homepoint.site/img/10654.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$39,91"
+        "precio_ars": "$40,72"
     },
     {
         "codigo": "10729",
@@ -2429,7 +2389,7 @@
         "imagen_url": "https://homepoint.site/img/10729.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,28"
+        "precio_ars": "$13,54"
     },
     {
         "codigo": "10794",
@@ -2437,7 +2397,7 @@
         "imagen_url": "https://homepoint.site/img/10794.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,07"
+        "precio_ars": "$5,17"
     },
     {
         "codigo": "10799",
@@ -2445,7 +2405,7 @@
         "imagen_url": "https://homepoint.site/img/10799.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,54"
+        "precio_ars": "$13,81"
     },
     {
         "codigo": "10886",
@@ -2453,7 +2413,7 @@
         "imagen_url": "https://homepoint.site/img/10886.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,16"
+        "precio_ars": "$12,41"
     },
     {
         "codigo": "10946",
@@ -2461,7 +2421,7 @@
         "imagen_url": "https://homepoint.site/img/10946.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$39,91"
+        "precio_ars": "$40,72"
     },
     {
         "codigo": "10996",
@@ -2469,7 +2429,7 @@
         "imagen_url": "https://homepoint.site/img/10996.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$22,04"
+        "precio_ars": "$22,49"
     },
     {
         "codigo": "11038",
@@ -2477,7 +2437,7 @@
         "imagen_url": "https://homepoint.site/img/11038.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,21"
+        "precio_ars": "$9,40"
     },
     {
         "codigo": "11041",
@@ -2485,7 +2445,7 @@
         "imagen_url": "https://homepoint.site/img/11041.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,40"
+        "precio_ars": "$16,73"
     },
     {
         "codigo": "11042",
@@ -2493,7 +2453,7 @@
         "imagen_url": "https://homepoint.site/img/11042.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$59,19"
+        "precio_ars": "$60,40"
     },
     {
         "codigo": "10214",
@@ -2501,7 +2461,7 @@
         "imagen_url": "https://homepoint.site/img/10214.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,90"
+        "precio_ars": "$6,02"
     },
     {
         "codigo": "10487",
@@ -2509,7 +2469,7 @@
         "imagen_url": "https://homepoint.site/img/10487.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$35,25"
+        "precio_ars": "$35,97"
     },
     {
         "codigo": "10846",
@@ -2517,7 +2477,7 @@
         "imagen_url": "https://homepoint.site/img/10846.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,84"
+        "precio_ars": "$14,12"
     },
     {
         "codigo": "11022",
@@ -2525,7 +2485,7 @@
         "imagen_url": "https://homepoint.site/img/11022.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,65"
+        "precio_ars": "$1,68"
     },
     {
         "codigo": "11027",
@@ -2533,7 +2493,7 @@
         "imagen_url": "https://homepoint.site/img/11027.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$16,96"
+        "precio_ars": "$17,31"
     },
     {
         "codigo": "11031",
@@ -2541,7 +2501,7 @@
         "imagen_url": "https://homepoint.site/img/11031.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,75"
+        "precio_ars": "$8,93"
     },
     {
         "codigo": "11034",
@@ -2549,7 +2509,7 @@
         "imagen_url": "https://homepoint.site/img/11034.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,01"
+        "precio_ars": "$9,20"
     },
     {
         "codigo": "10366",
@@ -2557,7 +2517,7 @@
         "imagen_url": "https://homepoint.site/img/10366.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,11"
+        "precio_ars": "$14,39"
     },
     {
         "codigo": "10042",
@@ -2565,7 +2525,7 @@
         "imagen_url": "https://homepoint.site/img/10042.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$234,00"
+        "precio_ars": "$239,00"
     },
     {
         "codigo": "10113",
@@ -2573,7 +2533,7 @@
         "imagen_url": "https://homepoint.site/img/10113.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,75"
+        "precio_ars": "$15,05"
     },
     {
         "codigo": "10635",
@@ -2581,7 +2541,7 @@
         "imagen_url": "https://homepoint.site/img/10635.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,75"
+        "precio_ars": "$8,92"
     },
     {
         "codigo": "10893",
@@ -2589,7 +2549,7 @@
         "imagen_url": "https://homepoint.site/img/10893.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,63"
+        "precio_ars": "$3,70"
     },
     {
         "codigo": "10950",
@@ -2597,7 +2557,7 @@
         "imagen_url": "https://homepoint.site/img/10950.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,59"
+        "precio_ars": "$9,78"
     },
     {
         "codigo": "10143",
@@ -2605,7 +2565,7 @@
         "imagen_url": "https://homepoint.site/img/10143.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$61,46"
+        "precio_ars": "$62,71"
     },
     {
         "codigo": "10038",
@@ -2613,7 +2573,7 @@
         "imagen_url": "https://homepoint.site/img/10038.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$17,35"
+        "precio_ars": "$17,71"
     },
     {
         "codigo": "10596",
@@ -2621,7 +2581,7 @@
         "imagen_url": "https://homepoint.site/img/10596.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,08"
+        "precio_ars": "$7,22"
     },
     {
         "codigo": "10957",
@@ -2629,7 +2589,7 @@
         "imagen_url": "https://homepoint.site/img/10957.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$57,61"
+        "precio_ars": "$58,78"
     },
     {
         "codigo": "11005",
@@ -2637,7 +2597,7 @@
         "imagen_url": "https://homepoint.site/img/11005.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$18,85"
+        "precio_ars": "$19,23"
     },
     {
         "codigo": "11006",
@@ -2645,7 +2605,7 @@
         "imagen_url": "https://homepoint.site/img/11006.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,73"
+        "precio_ars": "$5,84"
     },
     {
         "codigo": "11009",
@@ -2653,7 +2613,7 @@
         "imagen_url": "https://homepoint.site/img/11009.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,78"
+        "precio_ars": "$2,83"
     },
     {
         "codigo": "11011",
@@ -2661,7 +2621,7 @@
         "imagen_url": "https://homepoint.site/img/11011.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,32"
+        "precio_ars": "$4,41"
     },
     {
         "codigo": "10020",
@@ -2669,7 +2629,7 @@
         "imagen_url": "https://homepoint.site/img/10020.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$5,85"
+        "precio_ars": "$5,97"
     },
     {
         "codigo": "10032",
@@ -2677,7 +2637,7 @@
         "imagen_url": "https://homepoint.site/img/10032.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,36"
+        "precio_ars": "$4,45"
     },
     {
         "codigo": "10033",
@@ -2685,7 +2645,7 @@
         "imagen_url": "https://homepoint.site/img/10033.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,22"
+        "precio_ars": "$15,53"
     },
     {
         "codigo": "10040",
@@ -2693,7 +2653,7 @@
         "imagen_url": "https://homepoint.site/img/10040.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,51"
+        "precio_ars": "$5,62"
     },
     {
         "codigo": "10047",
@@ -2701,7 +2661,7 @@
         "imagen_url": "https://homepoint.site/img/10047.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$11,23"
+        "precio_ars": "$11,46"
     },
     {
         "codigo": "10048",
@@ -2709,7 +2669,7 @@
         "imagen_url": "https://homepoint.site/img/10048.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,20"
+        "precio_ars": "$6,32"
     },
     {
         "codigo": "10105",
@@ -2717,7 +2677,7 @@
         "imagen_url": "https://homepoint.site/img/10105.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,38"
+        "precio_ars": "$3,45"
     },
     {
         "codigo": "10147",
@@ -2725,7 +2685,7 @@
         "imagen_url": "https://homepoint.site/img/10147.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$11,46"
+        "precio_ars": "$11,70"
     },
     {
         "codigo": "10170",
@@ -2733,15 +2693,15 @@
         "imagen_url": "https://homepoint.site/img/10170.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,64"
+        "precio_ars": "$3,72"
     },
     {
         "codigo": "10187",
         "nombre": "ESPEJO LED",
         "imagen_url": "https://homepoint.site/img/10187.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$7,98"
+        "precio_ars": "$8,14"
     },
     {
         "codigo": "10188",
@@ -2749,7 +2709,7 @@
         "imagen_url": "https://homepoint.site/img/10188.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$20,12"
+        "precio_ars": "$20,53"
     },
     {
         "codigo": "10192",
@@ -2757,7 +2717,7 @@
         "imagen_url": "https://homepoint.site/img/10192.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,54"
+        "precio_ars": "$9,74"
     },
     {
         "codigo": "10199",
@@ -2765,7 +2725,7 @@
         "imagen_url": "https://homepoint.site/img/10199.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,16"
+        "precio_ars": "$6,28"
     },
     {
         "codigo": "10215",
@@ -2773,7 +2733,7 @@
         "imagen_url": "https://homepoint.site/img/10215.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,21"
+        "precio_ars": "$7,36"
     },
     {
         "codigo": "10226",
@@ -2781,7 +2741,7 @@
         "imagen_url": "https://homepoint.site/img/10226.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,32"
+        "precio_ars": "$9,51"
     },
     {
         "codigo": "10265",
@@ -2789,7 +2749,7 @@
         "imagen_url": "https://homepoint.site/img/10265.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$2,83"
+        "precio_ars": "$2,89"
     },
     {
         "codigo": "10319",
@@ -2797,7 +2757,7 @@
         "imagen_url": "https://homepoint.site/img/10319.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,38"
+        "precio_ars": "$5,49"
     },
     {
         "codigo": "10320",
@@ -2805,7 +2765,7 @@
         "imagen_url": "https://homepoint.site/img/10320.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,68"
+        "precio_ars": "$7,84"
     },
     {
         "codigo": "10328",
@@ -2813,7 +2773,7 @@
         "imagen_url": "https://homepoint.site/img/10328.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,14"
+        "precio_ars": "$5,25"
     },
     {
         "codigo": "10342",
@@ -2821,7 +2781,7 @@
         "imagen_url": "https://homepoint.site/img/10342.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,68"
+        "precio_ars": "$4,78"
     },
     {
         "codigo": "10351",
@@ -2829,7 +2789,7 @@
         "imagen_url": "https://homepoint.site/img/10351.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$10,18"
+        "precio_ars": "$10,38"
     },
     {
         "codigo": "10356",
@@ -2837,7 +2797,7 @@
         "imagen_url": "https://homepoint.site/img/10356.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$7,03"
+        "precio_ars": "$7,17"
     },
     {
         "codigo": "10397",
@@ -2845,7 +2805,7 @@
         "imagen_url": "https://homepoint.site/img/10397.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$1,03"
+        "precio_ars": "$1,05"
     },
     {
         "codigo": "10398",
@@ -2853,7 +2813,7 @@
         "imagen_url": "https://homepoint.site/img/10398.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$21,39"
+        "precio_ars": "$21,82"
     },
     {
         "codigo": "10399",
@@ -2861,7 +2821,7 @@
         "imagen_url": "https://homepoint.site/img/10399.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,54"
+        "precio_ars": "$12,79"
     },
     {
         "codigo": "10406",
@@ -2869,7 +2829,7 @@
         "imagen_url": "https://homepoint.site/img/10406.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$14,46"
+        "precio_ars": "$14,75"
     },
     {
         "codigo": "10407",
@@ -2877,7 +2837,7 @@
         "imagen_url": "https://homepoint.site/img/10407.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,13"
+        "precio_ars": "$13,39"
     },
     {
         "codigo": "10480",
@@ -2885,7 +2845,7 @@
         "imagen_url": "https://homepoint.site/img/10480.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$8,68"
+        "precio_ars": "$8,85"
     },
     {
         "codigo": "10482",
@@ -2893,7 +2853,7 @@
         "imagen_url": "https://homepoint.site/img/10482.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$28,66"
+        "precio_ars": "$29,24"
     },
     {
         "codigo": "10537",
@@ -2901,7 +2861,7 @@
         "imagen_url": "https://homepoint.site/img/10537.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,36"
+        "precio_ars": "$4,45"
     },
     {
         "codigo": "10539",
@@ -2909,7 +2869,7 @@
         "imagen_url": "https://homepoint.site/img/10539.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,56"
+        "precio_ars": "$1,60"
     },
     {
         "codigo": "10540",
@@ -2917,7 +2877,7 @@
         "imagen_url": "https://homepoint.site/img/10540.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,71"
+        "precio_ars": "$1,74"
     },
     {
         "codigo": "10541",
@@ -2925,7 +2885,7 @@
         "imagen_url": "https://homepoint.site/img/10541.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,38"
+        "precio_ars": "$3,45"
     },
     {
         "codigo": "10542",
@@ -2933,7 +2893,7 @@
         "imagen_url": "https://homepoint.site/img/10542.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,68"
+        "precio_ars": "$4,78"
     },
     {
         "codigo": "10546",
@@ -2941,7 +2901,7 @@
         "imagen_url": "https://homepoint.site/img/10546.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$16,39"
+        "precio_ars": "$16,72"
     },
     {
         "codigo": "10579",
@@ -2949,7 +2909,7 @@
         "imagen_url": "https://homepoint.site/img/10579.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,79"
+        "precio_ars": "$16,11"
     },
     {
         "codigo": "10587",
@@ -2957,7 +2917,7 @@
         "imagen_url": "https://homepoint.site/img/10587.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$26,83"
+        "precio_ars": "$27,38"
     },
     {
         "codigo": "10599",
@@ -2965,7 +2925,7 @@
         "imagen_url": "https://homepoint.site/img/10599.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,61"
+        "precio_ars": "$9,80"
     },
     {
         "codigo": "10606",
@@ -2973,7 +2933,7 @@
         "imagen_url": "https://homepoint.site/img/10606.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,79"
+        "precio_ars": "$15,09"
     },
     {
         "codigo": "10613",
@@ -2981,15 +2941,15 @@
         "imagen_url": "https://homepoint.site/img/10613.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,15"
+        "precio_ars": "$10,36"
     },
     {
         "codigo": "10618",
         "nombre": "RASURADORA PELO 3 EN 1 DALING",
         "imagen_url": "https://homepoint.site/img/10618.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,11"
+        "precio_ars": "$12,36"
     },
     {
         "codigo": "10619",
@@ -2997,7 +2957,7 @@
         "imagen_url": "https://homepoint.site/img/10619.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,03"
+        "precio_ars": "$7,17"
     },
     {
         "codigo": "10620",
@@ -3005,7 +2965,7 @@
         "imagen_url": "https://homepoint.site/img/10620.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,82"
+        "precio_ars": "$1,86"
     },
     {
         "codigo": "10621",
@@ -3013,7 +2973,7 @@
         "imagen_url": "https://homepoint.site/img/10621.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,41"
+        "precio_ars": "$7,56"
     },
     {
         "codigo": "10624",
@@ -3021,7 +2981,7 @@
         "imagen_url": "https://homepoint.site/img/10624.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,61"
+        "precio_ars": "$11,85"
     },
     {
         "codigo": "10626",
@@ -3029,7 +2989,7 @@
         "imagen_url": "https://homepoint.site/img/10626.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$14,84"
+        "precio_ars": "$15,14"
     },
     {
         "codigo": "10628",
@@ -3037,31 +2997,23 @@
         "imagen_url": "https://homepoint.site/img/10628.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$27,17"
-    },
-    {
-        "codigo": "10649",
-        "nombre": "LATTAFA YARA MOI 100 ML",
-        "imagen_url": "https://homepoint.site/img/10649.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$39,91"
+        "precio_ars": "$27,72"
     },
     {
         "codigo": "10662",
         "nombre": "LATTAFA YARA PINK 100 ML",
         "imagen_url": "https://homepoint.site/img/10662.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$41,65"
+        "precio_ars": "$42,49"
     },
     {
         "codigo": "10674",
         "nombre": "BALANZA MINI ORO",
         "imagen_url": "https://homepoint.site/img/10674.jpg",
-        "estado": "Disponible",
+        "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,96"
+        "precio_ars": "$4,04"
     },
     {
         "codigo": "10676",
@@ -3069,7 +3021,7 @@
         "imagen_url": "https://homepoint.site/img/10676.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,15"
+        "precio_ars": "$12,39"
     },
     {
         "codigo": "10678",
@@ -3077,7 +3029,7 @@
         "imagen_url": "https://homepoint.site/img/10678.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,41"
+        "precio_ars": "$10,62"
     },
     {
         "codigo": "10682",
@@ -3085,7 +3037,7 @@
         "imagen_url": "https://homepoint.site/img/10682.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$12,15"
+        "precio_ars": "$12,39"
     },
     {
         "codigo": "10692",
@@ -3093,7 +3045,7 @@
         "imagen_url": "https://homepoint.site/img/10692.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$41,30"
+        "precio_ars": "$42,14"
     },
     {
         "codigo": "10694",
@@ -3101,7 +3053,7 @@
         "imagen_url": "https://homepoint.site/img/10694.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$10,71"
+        "precio_ars": "$10,93"
     },
     {
         "codigo": "10697",
@@ -3109,7 +3061,7 @@
         "imagen_url": "https://homepoint.site/img/10697.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,98"
+        "precio_ars": "$10,18"
     },
     {
         "codigo": "10702",
@@ -3117,7 +3069,7 @@
         "imagen_url": "https://homepoint.site/img/10702.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,63"
+        "precio_ars": "$9,83"
     },
     {
         "codigo": "10710",
@@ -3125,7 +3077,7 @@
         "imagen_url": "https://homepoint.site/img/10710.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,53"
+        "precio_ars": "$4,62"
     },
     {
         "codigo": "10713",
@@ -3133,7 +3085,7 @@
         "imagen_url": "https://homepoint.site/img/10713.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$17,67"
+        "precio_ars": "$18,03"
     },
     {
         "codigo": "10715",
@@ -3141,7 +3093,7 @@
         "imagen_url": "https://homepoint.site/img/10715.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$26,03"
+        "precio_ars": "$26,56"
     },
     {
         "codigo": "10733",
@@ -3149,7 +3101,7 @@
         "imagen_url": "https://homepoint.site/img/10733.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$20,13"
+        "precio_ars": "$20,54"
     },
     {
         "codigo": "10739",
@@ -3157,7 +3109,7 @@
         "imagen_url": "https://homepoint.site/img/10739.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,68"
+        "precio_ars": "$4,78"
     },
     {
         "codigo": "10752",
@@ -3165,7 +3117,7 @@
         "imagen_url": "https://homepoint.site/img/10752.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,41"
+        "precio_ars": "$15,72"
     },
     {
         "codigo": "10753",
@@ -3173,7 +3125,7 @@
         "imagen_url": "https://homepoint.site/img/10753.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$28,35"
+        "precio_ars": "$28,93"
     },
     {
         "codigo": "10757",
@@ -3181,7 +3133,7 @@
         "imagen_url": "https://homepoint.site/img/10757.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,76"
+        "precio_ars": "$5,88"
     },
     {
         "codigo": "10758",
@@ -3189,7 +3141,7 @@
         "imagen_url": "https://homepoint.site/img/10758.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$11,03"
+        "precio_ars": "$11,26"
     },
     {
         "codigo": "10768",
@@ -3197,7 +3149,7 @@
         "imagen_url": "https://homepoint.site/img/10768.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,63"
+        "precio_ars": "$3,70"
     },
     {
         "codigo": "10774",
@@ -3205,7 +3157,7 @@
         "imagen_url": "https://homepoint.site/img/10774.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,48"
+        "precio_ars": "$1,50"
     },
     {
         "codigo": "10778",
@@ -3213,7 +3165,7 @@
         "imagen_url": "https://homepoint.site/img/10778.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$12,05"
+        "precio_ars": "$12,30"
     },
     {
         "codigo": "10783",
@@ -3221,7 +3173,7 @@
         "imagen_url": "https://homepoint.site/img/10783.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$21,62"
+        "precio_ars": "$22,06"
     },
     {
         "codigo": "10785",
@@ -3229,7 +3181,7 @@
         "imagen_url": "https://homepoint.site/img/10785.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,80"
+        "precio_ars": "$1,83"
     },
     {
         "codigo": "10789",
@@ -3237,7 +3189,7 @@
         "imagen_url": "https://homepoint.site/img/10789.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,88"
+        "precio_ars": "$4,97"
     },
     {
         "codigo": "10791",
@@ -3245,7 +3197,7 @@
         "imagen_url": "https://homepoint.site/img/10791.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$24,21"
+        "precio_ars": "$24,70"
     },
     {
         "codigo": "10797",
@@ -3253,7 +3205,7 @@
         "imagen_url": "https://homepoint.site/img/10797.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$25,17"
+        "precio_ars": "$25,68"
     },
     {
         "codigo": "10800",
@@ -3261,7 +3213,7 @@
         "imagen_url": "https://homepoint.site/img/10800.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,47"
+        "precio_ars": "$11,71"
     },
     {
         "codigo": "10803",
@@ -3269,7 +3221,7 @@
         "imagen_url": "https://homepoint.site/img/10803.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,29"
+        "precio_ars": "$15,60"
     },
     {
         "codigo": "10809",
@@ -3277,7 +3229,7 @@
         "imagen_url": "https://homepoint.site/img/10809.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$60,73"
+        "precio_ars": "$61,97"
     },
     {
         "codigo": "10810",
@@ -3285,7 +3237,7 @@
         "imagen_url": "https://homepoint.site/img/10810.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$78,09"
+        "precio_ars": "$79,68"
     },
     {
         "codigo": "10820",
@@ -3293,7 +3245,7 @@
         "imagen_url": "https://homepoint.site/img/10820.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,74"
+        "precio_ars": "$1,77"
     },
     {
         "codigo": "10822",
@@ -3301,7 +3253,7 @@
         "imagen_url": "https://homepoint.site/img/10822.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$1,67"
+        "precio_ars": "$1,70"
     },
     {
         "codigo": "10827",
@@ -3309,7 +3261,7 @@
         "imagen_url": "https://homepoint.site/img/10827.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$56,36"
+        "precio_ars": "$57,51"
     },
     {
         "codigo": "10836",
@@ -3317,7 +3269,7 @@
         "imagen_url": "https://homepoint.site/img/10836.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$14,75"
+        "precio_ars": "$15,05"
     },
     {
         "codigo": "10837",
@@ -3325,7 +3277,7 @@
         "imagen_url": "https://homepoint.site/img/10837.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,74"
+        "precio_ars": "$5,85"
     },
     {
         "codigo": "10840",
@@ -3333,7 +3285,7 @@
         "imagen_url": "https://homepoint.site/img/10840.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,26"
+        "precio_ars": "$9,45"
     },
     {
         "codigo": "10841",
@@ -3341,7 +3293,7 @@
         "imagen_url": "https://homepoint.site/img/10841.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$4,12"
+        "precio_ars": "$4,20"
     },
     {
         "codigo": "10848",
@@ -3349,7 +3301,7 @@
         "imagen_url": "https://homepoint.site/img/10848.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$77,85"
+        "precio_ars": "$79,43"
     },
     {
         "codigo": "10858",
@@ -3357,7 +3309,7 @@
         "imagen_url": "https://homepoint.site/img/10858.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$10,90"
+        "precio_ars": "$11,12"
     },
     {
         "codigo": "10859",
@@ -3365,7 +3317,7 @@
         "imagen_url": "https://homepoint.site/img/10859.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$2,89"
+        "precio_ars": "$2,95"
     },
     {
         "codigo": "10861",
@@ -3373,7 +3325,7 @@
         "imagen_url": "https://homepoint.site/img/10861.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,61"
+        "precio_ars": "$5,72"
     },
     {
         "codigo": "10882",
@@ -3381,7 +3333,7 @@
         "imagen_url": "https://homepoint.site/img/10882.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$9,51"
+        "precio_ars": "$9,70"
     },
     {
         "codigo": "10884",
@@ -3389,7 +3341,7 @@
         "imagen_url": "https://homepoint.site/img/10884.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$32,45"
+        "precio_ars": "$33,11"
     },
     {
         "codigo": "10887",
@@ -3397,7 +3349,7 @@
         "imagen_url": "https://homepoint.site/img/10887.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$6,84"
+        "precio_ars": "$6,98"
     },
     {
         "codigo": "10894",
@@ -3405,7 +3357,7 @@
         "imagen_url": "https://homepoint.site/img/10894.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$15,83"
+        "precio_ars": "$16,15"
     },
     {
         "codigo": "10897",
@@ -3413,7 +3365,7 @@
         "imagen_url": "https://homepoint.site/img/10897.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,05"
+        "precio_ars": "$11,27"
     },
     {
         "codigo": "10898",
@@ -3421,7 +3373,7 @@
         "imagen_url": "https://homepoint.site/img/10898.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$6,06"
+        "precio_ars": "$6,19"
     },
     {
         "codigo": "10899",
@@ -3429,7 +3381,7 @@
         "imagen_url": "https://homepoint.site/img/10899.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$5,69"
+        "precio_ars": "$5,81"
     },
     {
         "codigo": "10900",
@@ -3437,7 +3389,7 @@
         "imagen_url": "https://homepoint.site/img/10900.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,30"
+        "precio_ars": "$3,36"
     },
     {
         "codigo": "10901",
@@ -3445,7 +3397,7 @@
         "imagen_url": "https://homepoint.site/img/10901.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,85"
+        "precio_ars": "$14,13"
     },
     {
         "codigo": "10903",
@@ -3453,7 +3405,7 @@
         "imagen_url": "https://homepoint.site/img/10903.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$27,55"
+        "precio_ars": "$28,11"
     },
     {
         "codigo": "10906",
@@ -3461,7 +3413,7 @@
         "imagen_url": "https://homepoint.site/img/10906.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$13,55"
+        "precio_ars": "$13,82"
     },
     {
         "codigo": "10908",
@@ -3469,7 +3421,7 @@
         "imagen_url": "https://homepoint.site/img/10908.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$18,87"
+        "precio_ars": "$19,25"
     },
     {
         "codigo": "10909",
@@ -3477,7 +3429,7 @@
         "imagen_url": "https://homepoint.site/img/10909.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$22,30"
+        "precio_ars": "$22,75"
     },
     {
         "codigo": "10911",
@@ -3485,7 +3437,7 @@
         "imagen_url": "https://homepoint.site/img/10911.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$3,12"
+        "precio_ars": "$3,19"
     },
     {
         "codigo": "10913",
@@ -3493,7 +3445,7 @@
         "imagen_url": "https://homepoint.site/img/10913.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,59"
+        "precio_ars": "$13,86"
     },
     {
         "codigo": "10915",
@@ -3501,7 +3453,7 @@
         "imagen_url": "https://homepoint.site/img/10915.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,72"
+        "precio_ars": "$9,91"
     },
     {
         "codigo": "10916",
@@ -3509,7 +3461,7 @@
         "imagen_url": "https://homepoint.site/img/10916.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$13,67"
+        "precio_ars": "$13,95"
     },
     {
         "codigo": "10918",
@@ -3517,7 +3469,7 @@
         "imagen_url": "https://homepoint.site/img/10918.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,57"
+        "precio_ars": "$8,75"
     },
     {
         "codigo": "10919",
@@ -3525,7 +3477,7 @@
         "imagen_url": "https://homepoint.site/img/10919.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$854,00"
+        "precio_ars": "$872,00"
     },
     {
         "codigo": "10920",
@@ -3533,7 +3485,7 @@
         "imagen_url": "https://homepoint.site/img/10920.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$70,23"
+        "precio_ars": "$71,66"
     },
     {
         "codigo": "10923",
@@ -3541,7 +3493,7 @@
         "imagen_url": "https://homepoint.site/img/10923.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$6,39"
+        "precio_ars": "$6,52"
     },
     {
         "codigo": "10924",
@@ -3549,7 +3501,7 @@
         "imagen_url": "https://homepoint.site/img/10924.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$5,46"
+        "precio_ars": "$5,57"
     },
     {
         "codigo": "10930",
@@ -3557,7 +3509,7 @@
         "imagen_url": "https://homepoint.site/img/10930.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$2,65"
+        "precio_ars": "$2,71"
     },
     {
         "codigo": "10936",
@@ -3565,7 +3517,7 @@
         "imagen_url": "https://homepoint.site/img/10936.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$57,30"
+        "precio_ars": "$58,46"
     },
     {
         "codigo": "10937",
@@ -3573,7 +3525,7 @@
         "imagen_url": "https://homepoint.site/img/10937.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$37,68"
+        "precio_ars": "$38,44"
     },
     {
         "codigo": "10940",
@@ -3581,7 +3533,7 @@
         "imagen_url": "https://homepoint.site/img/10940.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,30"
+        "precio_ars": "$8,47"
     },
     {
         "codigo": "10942",
@@ -3589,7 +3541,7 @@
         "imagen_url": "https://homepoint.site/img/10942.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$11,66"
+        "precio_ars": "$11,90"
     },
     {
         "codigo": "10943",
@@ -3597,7 +3549,7 @@
         "imagen_url": "https://homepoint.site/img/10943.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$125,38"
+        "precio_ars": "$127,92"
     },
     {
         "codigo": "10944",
@@ -3605,7 +3557,7 @@
         "imagen_url": "https://homepoint.site/img/10944.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,04"
+        "precio_ars": "$9,22"
     },
     {
         "codigo": "10947",
@@ -3613,7 +3565,7 @@
         "imagen_url": "https://homepoint.site/img/10947.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,89"
+        "precio_ars": "$3,97"
     },
     {
         "codigo": "10949",
@@ -3621,15 +3573,7 @@
         "imagen_url": "https://homepoint.site/img/10949.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,34"
-    },
-    {
-        "codigo": "10962",
-        "nombre": "HUMIDIFICADOR PIEDRAS VOLCANICAS",
-        "imagen_url": "https://homepoint.site/img/10962.jpg",
-        "estado": "Pocas Unidades",
-        "precio_usd": null,
-        "precio_ars": "$23,67"
+        "precio_ars": "$4,43"
     },
     {
         "codigo": "10963",
@@ -3637,7 +3581,7 @@
         "imagen_url": "https://homepoint.site/img/10963.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$3,65"
+        "precio_ars": "$3,73"
     },
     {
         "codigo": "10969",
@@ -3645,7 +3589,7 @@
         "imagen_url": "https://homepoint.site/img/10969.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$4,51"
+        "precio_ars": "$4,60"
     },
     {
         "codigo": "10973",
@@ -3653,7 +3597,7 @@
         "imagen_url": "https://homepoint.site/img/10973.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$15,09"
+        "precio_ars": "$15,40"
     },
     {
         "codigo": "10984",
@@ -3661,7 +3605,7 @@
         "imagen_url": "https://homepoint.site/img/10984.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$25,71"
+        "precio_ars": "$26,23"
     },
     {
         "codigo": "10985",
@@ -3669,7 +3613,7 @@
         "imagen_url": "https://homepoint.site/img/10985.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$14,25"
+        "precio_ars": "$14,54"
     },
     {
         "codigo": "10988",
@@ -3677,7 +3621,7 @@
         "imagen_url": "https://homepoint.site/img/10988.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$5,73"
+        "precio_ars": "$5,84"
     },
     {
         "codigo": "10991",
@@ -3685,7 +3629,7 @@
         "imagen_url": "https://homepoint.site/img/10991.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$9,54"
+        "precio_ars": "$9,74"
     },
     {
         "codigo": "10995",
@@ -3693,7 +3637,7 @@
         "imagen_url": "https://homepoint.site/img/10995.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$11,89"
+        "precio_ars": "$12,13"
     },
     {
         "codigo": "10997",
@@ -3701,7 +3645,7 @@
         "imagen_url": "https://homepoint.site/img/10997.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$24,47"
+        "precio_ars": "$24,96"
     },
     {
         "codigo": "11000",
@@ -3709,7 +3653,7 @@
         "imagen_url": "https://homepoint.site/img/11000.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$2,60"
+        "precio_ars": "$2,66"
     },
     {
         "codigo": "10139",
@@ -3717,7 +3661,7 @@
         "imagen_url": "https://homepoint.site/img/10139.jpg",
         "estado": "Disponible",
         "precio_usd": null,
-        "precio_ars": "$7,05"
+        "precio_ars": "$7,19"
     },
     {
         "codigo": "10854",
@@ -3725,6 +3669,6 @@
         "imagen_url": "https://homepoint.site/img/10854.jpg",
         "estado": "Pocas Unidades",
         "precio_usd": null,
-        "precio_ars": "$8,07"
+        "precio_ars": "$8,23"
     }
 ]
